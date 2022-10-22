@@ -1,0 +1,93 @@
+﻿@using CollegeDataExplorer.Services
+@inherits LayoutComponentBase
+
+@inject SchoolDataService schoolDataService
+@inject HttpClient http
+
+@implements IDisposable
+
+<MudThemeProvider @bind-IsDarkMode="@_isDarkMode" Theme="_theme"/>
+<MudDialogProvider/>
+<MudSnackbarProvider/>
+
+<MudLayout>
+    <MudAppBar>
+        <MudIconButton 
+            Icon="@Icons.Material.Filled.Menu" 
+            Color="Color.Inherit" 
+            Edge="Edge.Start" 
+            OnClick="@((e) => DrawerToggle())" />
+        Summer Program DB
+    </MudAppBar>
+    <MudDrawer @bind-Open="@_drawerOpen" Class="d-flex flex-grow-1">
+        <NavMenu isLoading="@_isLoading" isDarkMode="@_isDarkMode" ToggleDarkMode="TryToggleDarkMode"/>
+    </MudDrawer>
+    <MudMainContent>
+        <MudContainer MaxWidth="MaxWidth.Medium">
+            @Body
+        </MudContainer>
+    </MudMainContent>
+</MudLayout>
+
+@code {
+    
+    private bool _drawerOpen = true;
+    private bool _isLoading;
+    private bool _isDarkMode = true;
+
+    private MudTheme _theme = new() {
+        Typography = new() {
+            Default = new() {
+                FontFamily = new[] { "Poppins", "Helvetica", "Arial", "sans-serif" }
+            }
+        }
+    };
+
+    protected override async Task OnInitializedAsync() {
+
+        if (schoolDataService.loadComplete) {
+            return;
+        }
+        
+        _isLoading = true;
+        DrawerToggle();
+
+        await schoolDataService.Init(http);
+        OnLoadCompleted();
+    }
+
+    private void OnLoadCompleted() {
+        _isLoading = false;
+        DrawerToggle();
+    }
+    
+    void DrawerToggle()
+    {
+        _drawerOpen = !_drawerOpen;
+    }
+
+    void TryToggleDarkMode() {
+        _isDarkMode = !_isDarkMode;
+    }
+    
+    public void Dispose() {
+        //schoolDataService.LoadCompleted -= OnLoadCompleted;
+    }
+}
+
+
+<!--div class="page">
+<div class="sidebar">
+    <NavMenu/>
+</div>
+<main>  
+    <div class="top-row px-4">
+        <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>
+    </div>
+    <article class="content px-4">
+        @Body
+    </article>
+</main>
+</div-->
+
+

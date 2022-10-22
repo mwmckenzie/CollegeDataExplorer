@@ -1,0 +1,187 @@
+﻿@page "/fetchschooldata"
+@using CollegeDataExplorer.Services
+@using CollegeDataBrowser.Models
+@implements IDisposable
+
+@inject DataStateService dataStateService
+@inject SchoolDataService schoolDataService
+@inject NavigationManager navigationManager
+
+
+<MudText Typo="Typo.h3" Class="mt-4 mb-4">College and University Database</MudText>
+
+<MudPaper Style="padding: 15px; margin-top: 10px; margin-bottom: 10px;">
+    <MudText Typo="Typo.body1">Number of Schools in Database: <b>@_schoolCount</b></MudText>
+</MudPaper>
+
+<MudPaper Style="padding: 15px">
+    <MudText Typo="Typo.h4">Filter By State (@_states.Count(state => !string.IsNullOrWhiteSpace(state)))</MudText>
+    <br/>
+    @foreach (var state in _states) {
+        <MudButton Variant="Variant.Filled" style="margin: 2px;" @onclick="@(e => dataStateService.selectedState = state)">@state</MudButton>
+    }
+</MudPaper>
+
+<MudTable Items="@_schoolsToDisplay" Dense="@dense" Hover="@hover" Bordered="@bordered" Striped="@striped"
+          Filter="new Func<School, bool>(FilterFunc1)"
+          @bind-SelectedItem="selectedItem1"
+          Style="margin-top: 1em">
+    <ToolBarContent>
+        <MudText Typo="Typo.h6">Current State: @_stateFullName</MudText>
+        <MudSpacer/>
+        <MudTextField @bind-Value="searchString1" Placeholder="Search" Adornment="Adornment.Start"
+                      AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0">
+        </MudTextField>
+    </ToolBarContent>
+    <HeaderContent>
+        <MudTh>Name</MudTh>
+        <MudTh>City</MudTh>
+        <MudTh>State</MudTh>
+        <MudTh>SchoolUrl</MudTh>
+    </HeaderContent>
+    <RowTemplate>
+        <MudTd DataLabel="Name">@context.Name</MudTd>
+        <MudTd DataLabel="City">@context.City</MudTd>
+        <MudTd DataLabel="State">@context.State</MudTd>
+        <MudTd DataLabel="SchoolUrl">@context.SchoolUrl</MudTd>
+    </RowTemplate>
+    <PagerContent>
+        <MudTablePager/>
+    </PagerContent>
+</MudTable>
+
+<div class="d-flex flex-wrap mt-4" style="margin-bottom: 1em">
+    <MudSwitch @bind-Checked="@hover" Color="Color.Primary">Hover</MudSwitch>
+    <MudSwitch @bind-Checked="@dense" Color="Color.Secondary">Dense</MudSwitch>
+    <MudSwitch @bind-Checked="@striped" Color="Color.Tertiary">Striped</MudSwitch>
+    <MudSwitch @bind-Checked="@bordered" Color="Color.Warning">Bordered</MudSwitch>
+    <MudSpacer/>
+    <div style="min-width:200px;">
+        <MudText Inline="true" Class="align-self-center">Selected: @selectedItem1?.Name</MudText>
+    </div>
+</div>
+
+
+<MudDrawer @bind-Open="@open" Width="@width" Height="@height" Anchor="@anchor" Elevation="1" Variant="@DrawerVariant.Temporary">
+    <SchoolDetails school="_selectedDisplay"/>
+</MudDrawer>
+
+
+@code {
+
+    private bool dense;
+    private bool hover = true;
+    private bool striped;
+    private bool bordered;
+    private string searchString1 = "";
+
+    private School _selectedSchool;
+    private SchoolDisplay _selectedDisplay = new();
+
+    private School selectedItem1 {
+        get => _selectedSchool;
+        set {
+            _selectedSchool = value;
+            OnSelectedSchoolChanged();
+        }
+    }
+
+    bool open;
+    Anchor anchor;
+    private string width = "40%";
+    private string height = "100%";
+
+    private void OpenEndDrawer() {
+        open = true;
+        this.anchor = anchor;
+    }
+
+
+    void OpenDrawer(Anchor anchor) {
+        open = true;
+        this.anchor = anchor;
+
+        switch (anchor) {
+            case Anchor.Start:
+                width = "300px";
+                height = "100%";
+                break;
+            case Anchor.End:
+                width = "40%";
+                height = "100%";
+                break;
+            case Anchor.Bottom:
+                width = "100%";
+                height = "200px";
+                break;
+            case Anchor.Top:
+                width = "100%";
+                height = "350px";
+                break;
+        }
+    }
+
+    private void OnSelectedSchoolChanged() {
+        dataStateService.selectedSchool = schoolDataService.BuildSchoolDisplay(selectedItem1);
+        _selectedDisplay = dataStateService.selectedSchool;
+        OpenDrawer(Anchor.End);
+    //navigationManager.NavigateTo("/schoolview");
+    }
+
+    private List<string> _states = new();
+    private List<School> _schoolsToDisplay = new();
+    private string _stateFullName = string.Empty;
+    private int _schoolCount;
+
+
+    protected override Task OnInitializedAsync() {
+        dataStateService.OnValueChange += DataStateHasChanged;
+
+        _states = schoolDataService.states;
+        _schoolCount = schoolDataService.schoolCount;
+
+        if (string.IsNullOrWhiteSpace(dataStateService.selectedState)) {
+            dataStateService.selectedState = _states[0];
+            return Task.CompletedTask;
+        }
+        DataStateHasChanged();
+        return Task.CompletedTask;
+    }
+
+    private void DataStateHasChanged() {
+        var state = dataStateService.selectedState;
+        if (!_states.Contains(state)) {
+            return;
+        }
+        _stateFullName = schoolDataService.GetStateFullName(state);
+        _schoolsToDisplay = schoolDataService.GetSchoolsByState(state);
+    }
+
+    public void Dispose() {
+        dataStateService.OnValueChange -= DataStateHasChanged;
+    }
+
+    private bool FilterFunc1(School school) {
+        return FilterFunc(school, searchString1);
+    }
+
+    private bool FilterFunc(School school, string searchString) {
+        if (string.IsNullOrWhiteSpace(searchString))
+            return true;
+        if (school.Name is not null) {
+            if (school.Name.Contains(searchString, StringComparison.OrdinalIgnoreCase))
+                return true;
+        }
+        if (school.Alias is not null) {
+            if (school.Alias.Contains(searchString, StringComparison.OrdinalIgnoreCase))
+                return true;
+        }
+        if ($"{school.State} {school.City} {school.SchoolUrl}".Contains(searchString))
+            return true;
+        return false;
+    }
+
+    // <MudText-- Typo="Typo.h4">Current State: @_stateFullName</!--MudText>
+    // <MudButton Variant="Variant.Text" OnClick="@(() => OpenDrawer(Anchor.End))">End</MudButton>
+
+}

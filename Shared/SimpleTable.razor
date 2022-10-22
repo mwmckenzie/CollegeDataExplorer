@@ -1,0 +1,29 @@
+﻿@using CollegeDataBrowser.Models
+
+
+<h3>SimpleTable</h3>
+
+<MudSimpleTable class="table" Style="margin: 20px">
+        <thead>
+        <tr>
+            <th>Name</th>
+            <th>City</th>
+            <th>State</th>
+            <th>Zip</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var school in _schoolsToDisplay) {
+            <tr>
+                <td>@school.Name</td>
+                <td>@school.City</td>
+                <td>@school.State</td>
+                <td>@school.Zip</td>
+            </tr>
+        }
+        </tbody>
+        </MudSimpleTable>
+
+@code {
+    private List<School> _schoolsToDisplay = new();
+}

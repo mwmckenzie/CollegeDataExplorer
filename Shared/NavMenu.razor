@@ -1,0 +1,100 @@
+﻿
+
+<MudPaper Height="100%" Width="250px" Class="d-flex flex-column flex-grow-1 align-content-space-between py-3" 
+          Elevation="0">
+    <MudNavMenu>
+        <MudText Typo="Typo.h6" Class="px-4">Pages</MudText>
+        <MudText Typo="Typo.body2" Class="px-4 mud-text-secondary">Tools</MudText>
+        <MudDivider Class="my-2"/>
+        <MudNavLink Href="/fetchschooldata" Disabled="@isLoading">School DB</MudNavLink>
+        <MudNavLink Href="/schoolview" Disabled="@isLoading">School Details</MudNavLink>
+        @* <MudNavLink Href="/billing" Disabled="true">Billing</MudNavLink> *@
+        @* <MudNavGroup Title="Settings" Expanded="true"> *@
+        @*     <MudNavLink Href="/users">Loading: @isLoading</MudNavLink> *@
+        @*     <MudNavLink Href="/security">Security</MudNavLink> *@
+        @* </MudNavGroup> *@
+        @* <MudNavLink Href="/about">About</MudNavLink> *@
+    </MudNavMenu>
+    <MudElement Class="pa-4 mt-auto">
+        <MudSwitch @bind-Checked="@isDarkMode" Color="Color.Primary" 
+                        T="bool" Label="Toggle Light/Dark Mode"
+                       @onclick="ToggleDarkMode"/>
+    </MudElement>
+    
+</MudPaper>
+
+
+<!--div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <MudButton Variant="Variant.Text"
+                   Size="Size.Large"
+                   Color="Color.Secondary"
+                   @onclick="ToggleNavMenu">
+            CollegeDataExplorer
+        </MudButton>
+    </div>
+</!--div>
+
+<div-- class="@NavMenuCssClass" @onclick="ToggleNavMenu">
+    <nav class="flex-column">
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <span class="oi oi-home" aria-hidden="true"></span> Home
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="counter">
+                <span class="oi oi-plus" aria-hidden="true"></span> Counter
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="fetchdata">
+                <span class="oi oi-list-rich" aria-hidden="true"></span> Fetch data
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+                    <NavLink class="nav-link" href="fetchschooldata">
+                        <span class="oi oi-list-rich" aria-hidden="true"></span> School data
+                    </NavLink>
+                </div>
+    </nav>
+</div-->
+
+@code {
+    private bool _isLoading;
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu() {
+        collapseNavMenu = !collapseNavMenu;
+    }
+
+    [Parameter] 
+    public bool isDarkMode { get; set; }
+
+    [Parameter]
+    public bool isLoading {
+        get => _isLoading;
+        set {
+            _isLoading = value;
+            isNotLoading = !_isLoading;
+            OnLoadingChange();
+        }
+    }
+
+    [Parameter]
+    public bool isNotLoading { get; set; }
+
+    private void OnLoadingChange() {
+        if (isLoading) {
+            return;
+        }
+        //MudRender render = new();
+        //render.ForceRender();
+    }
+
+    [Parameter]
+    public EventCallback ToggleDarkMode { get; set; }
+
+}

@@ -1,0 +1,66 @@
+﻿@page "/"
+
+@using CollegeDataExplorer.Services
+@implements IDisposable
+
+@inject HttpClient httpClient
+@inject SchoolDataService schoolDataService
+
+<PageTitle>Index</PageTitle>
+
+@if (_isLoading) {
+    <MudGrid>
+        <MudItem xs="12">
+            <MudPaper Class="d-flex align-center justify-center mud-width-full py-8">
+                <MudStack AlignItems="AlignItems.Center">
+                    <MudText Typo="Typo.h1" Align="Align.Center">Loading... @_loadProgress </MudText>
+                    <MudText Typo="Typo.h3" Align="Align.Center">Please Be Patient!</MudText>
+                    <MudProgressCircular Color="Color.Primary" Indeterminate="true"/>
+                </MudStack>
+            </MudPaper>
+        </MudItem>
+    </MudGrid>
+}
+else {
+    <MudPaper Height="80vh" Class="d-flex flex-column flex-grow-1 align-content-space-between py-3">
+        <MudStack Class="d-flex flex-grow-1" AlignItems="AlignItems.Center" Justify="Justify.Center">
+            <MudText Typo="Typo.h1" Align="Align.Center">Summer Program</MudText>
+            <MudText Typo="Typo.h1" Align="Align.Center">DB</MudText>
+        </MudStack>
+        <MudAlert Severity="Severity.Info" Class="mt-auto mx-auto">
+            How is the Sum Prog DB working for you?
+        </MudAlert>
+    </MudPaper>
+}
+
+
+@code {
+    private bool _isLoading;
+    private string? message;
+    private string? _loadProgress;
+    
+    [Parameter]
+    public EventCallback finishedLoading { get; set; }
+
+    protected override async Task OnInitializedAsync() {
+        
+        schoolDataService.LoadProgressOccured += OnLoadProgressOccured;
+        _isLoading = true;
+        _isLoading = false;
+        
+        await finishedLoading.InvokeAsync();
+    }
+
+    private void OnLoadProgressOccured() {
+        _loadProgress = schoolDataService.loadProgress;
+    }
+
+    private void ShowMessage(MouseEventArgs e) {
+        message = $"Blaze a new trail with Blazor! ({e.ScreenX}:{e.ScreenY})";
+    }
+
+    public void Dispose() {
+        schoolDataService.LoadProgressOccured -= OnLoadProgressOccured;
+    }
+
+}

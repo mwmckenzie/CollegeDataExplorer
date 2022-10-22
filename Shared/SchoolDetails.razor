@@ -1,0 +1,70 @@
+﻿@using CollegeDataExplorer.Services
+@using CollegeDataBrowser.Models
+
+<MudPaper Class="pa-4">
+    <MudPaper Class="pa-4 mb-4">
+        <MudText Typo="Typo.h3">@school.name</MudText>
+        <MudStack Row="true" Justify="Justify.SpaceBetween">
+            <MudText Typo="Typo.body1">@school.stateFips</MudText>
+            <MudStack Row="true" Spacing="3">
+                <MudIcon Icon="@Icons.Material.Filled.Link"></MudIcon>
+                <MudLink Href="@school.schoolUrl" Target="_blank" Typo="Typo.body1">@school.schoolUrl</MudLink>
+            </MudStack>
+        </MudStack>
+    </MudPaper>
+
+    <MudStack Row="true" Spacing="3">
+        <MudIcon Icon="@Icons.Filled.LocationOn"></MudIcon>
+        <MudText class="mr-4" Typo="Typo.h6">@school.city</MudText>
+        <MudText Typo="Typo.h6">@school.state</MudText>
+        <MudText class="ml-4" Typo="Typo.h6">@school.zip</MudText>
+    </MudStack>
+    
+    <MudStack Row="true" Spacing="3">
+        <MudIcon Icon="@Icons.Filled.Map"></MudIcon>
+        <MudText Class="mr-4" Typo="Typo.h6">@school.regionId</MudText>
+        <MudText Typo="Typo.h6">@school.locale</MudText>
+    </MudStack>
+
+    <MudStack Row="true" Spacing="3">
+        <MudIcon Icon="@Icons.Filled.School"></MudIcon>
+        <MudText Class="mr-4" Typo="Typo.h6">@school.mainCampus</MudText>
+        <MudText Typo="Typo.h6">@school.genderRestriction</MudText>
+    </MudStack>
+    
+    <MudPaper Class="mt-2 mb-2 pa-2">
+        <MudText Typo="Typo.subtitle2">Carnegie Basic</MudText>
+        <MudText Typo="Typo.h6">@school.carnegieBasic</MudText>
+
+        <MudText Typo="Typo.subtitle2" Class="mt-4">Carnegie Undergrad</MudText>
+        <MudText Typo="Typo.h6">@school.carnegieUndergrad</MudText>
+
+        <MudText Typo="Typo.subtitle2" Class="mt-4">Carnegie Size & Setting</MudText>
+        <MudText Typo="Typo.h6">@school.carnegieSizeSetting</MudText>
+
+        <MudText Typo="Typo.subtitle2" Class="mt-4">Type</MudText>
+        <MudText Typo="Typo.h6">@school.ownership</MudText>
+        <MudText Typo="Typo.h6">Online Only: @school.onlineOnly</MudText>
+
+        @if (school.aliasListToString != string.Empty) {
+            <MudText Typo="Typo.subtitle2" Class="mt-4">Nicknames</MudText>
+            <MudText Typo="Typo.body1">@school.aliasListToString</MudText>
+        }
+
+        @if (school.priceCalculatorUrl != string.Empty) {
+            <MudText Typo="Typo.subtitle2" Class="mt-4">Price Calculator</MudText>
+            <MudStack Row="true" Spacing="3">
+                <MudIcon Icon="@Icons.Material.Filled.Link"></MudIcon>
+                <MudLink Href="@school.schoolUrl" Target="_blank" Typo="Typo.body1">@school.priceCalculatorUrl</MudLink>
+            </MudStack>
+        }
+    </MudPaper>
+</MudPaper>
+
+
+@code {
+
+    [Parameter]
+    public SchoolDisplay school { get; set; } = new();
+    
+}
