@@ -8,7 +8,7 @@
         <MudDivider Class="my-2"/>
         <MudNavLink Href="/fetchschooldata" Disabled="@isLoading">School DB</MudNavLink>
         <MudNavLink Href="/schoolview" Disabled="@isLoading">School Details</MudNavLink>
-        @* <MudNavLink Href="/billing" Disabled="true">Billing</MudNavLink> *@
+        <MudNavLink Href="/programbrowser" Disabled="@isLoading">Summer Program DB</MudNavLink>
         @* <MudNavGroup Title="Settings" Expanded="true"> *@
         @*     <MudNavLink Href="/users">Loading: @isLoading</MudNavLink> *@
         @*     <MudNavLink Href="/security">Security</MudNavLink> *@
@@ -20,7 +20,6 @@
                         T="bool" Label="Toggle Light/Dark Mode"
                        @onclick="ToggleDarkMode"/>
     </MudElement>
-    
 </MudPaper>
 
 

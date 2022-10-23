@@ -13,6 +13,7 @@ builder.Services.AddScoped(sp => new HttpClient {BaseAddress = new Uri(builder.H
 builder.Services.AddMudServices();
 builder.Services.AddSingleton<DataStateService>();
 builder.Services.AddSingleton<SchoolDataService>();
+builder.Services.AddSingleton<ProgramDataService>();
 
 
 await builder.Build().RunAsync();

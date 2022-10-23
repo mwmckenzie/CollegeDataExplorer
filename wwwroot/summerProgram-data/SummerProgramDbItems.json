@@ -1,0 +1,6157 @@
+[
+  {
+    "topicIdList": [
+      1
+    ],
+    "subjectIdList": [
+      1
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "4D5274D6-A2BA-4BE0-A915-F29C59F8F212"
+    ],
+    "sessionIdList": [],
+    "applicationIdList": [],
+    "studentInfoIdList": [
+      "EB90E49F-71B2-4EE2-B019-3CE3CBFAE808"
+    ],
+    "isValid": true,
+    "id": "006C4149-F643-42BA-8460-5AEC812FBC1C",
+    "name": "Program in Mathematics for Young Scientists",
+    "displayName": "Program in Mathematics for Young Scientists (PROMYS)",
+    "url": "https://promys.org/",
+    "tagIdList": [
+      1,
+      2
+    ],
+    "aliasList": [
+      "Program in Mathematics for Young Scientists",
+      "Program in Mathematics for Young Scientists (PROMYS)"
+    ],
+    "urlList": [
+      "https://promys.org/"
+    ],
+    "noteList": [
+      "Application will open in January 2022."
+    ]
+  },
+  {
+    "topicIdList": [
+      2,
+      3
+    ],
+    "subjectIdList": [
+      2,
+      3
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "6734E6E5-4E78-449E-B283-80FB4FEBD866"
+    ],
+    "sessionIdList": [
+      "0161CFF5-B5CF-43C9-8AE2-E0FD3188A2F6",
+      "30FE4EAA-0015-4156-9864-03CD68AA164B"
+    ],
+    "applicationIdList": [
+      "7173274C-36E2-4A49-B0EA-CF4FBE1403B7"
+    ],
+    "studentInfoIdList": [
+      "3D70913D-A30D-47B2-9AF8-ADEE5E9099D6"
+    ],
+    "isValid": true,
+    "id": "0119C243-8490-4D41-AA74-7D9D0E410706",
+    "name": "Washington University St. Louis Summer Institute",
+    "displayName": "Washington University St. Louis Summer Institute",
+    "url": "https://precollege.wustl.edu/2021-high-school-summer-institutes",
+    "tagIdList": [
+      3,
+      4
+    ],
+    "aliasList": [
+      "Washington University St. Louis Summer Institute"
+    ],
+    "urlList": [
+      "https://precollege.wustl.edu/2021-high-school-summer-institutes"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "806F36B7-2614-4D66-83A1-ED93B048DD19",
+      "C3C2D3CC-F150-4306-9ABF-6E5A7D609E32",
+      "A0BF1773-D641-4D98-9FA3-5961FBD3CD9C",
+      "2C43AA8F-BBCB-43C6-8998-65DAF7FE7C65"
+    ],
+    "sessionIdList": [
+      "388A5265-4FF7-429B-850F-AFC2A65C9AF3"
+    ],
+    "applicationIdList": [
+      "E3B5E426-A46B-4427-96CB-7E11C7483280"
+    ],
+    "studentInfoIdList": [
+      "A7507D16-C30A-444E-B299-6F920BBB237F"
+    ],
+    "isValid": true,
+    "id": "0164E0A9-4476-4AFB-924C-5331A22322D3",
+    "name": "California State Summer School for Mathematics and Science",
+    "displayName": "California State Summer School for Mathematics and Science (COSMOS)",
+    "url": "https://www.cosmos.uci.edu/",
+    "tagIdList": [
+      5,
+      1,
+      6
+    ],
+    "aliasList": [
+      "California State Summer School for Mathematics and Science",
+      "California State Summer School for Mathematics and Science (COSMOS)",
+      "COSMOS"
+    ],
+    "urlList": [
+      "https://www.cosmos.uci.edu/",
+      "https://cosmos-ucop.ucdavis.edu/app/main"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      4,
+      5,
+      6
+    ],
+    "subjectIdList": [
+      4
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "18877616-5371-4376-9900-99CEABC7E8C2"
+    ],
+    "sessionIdList": [
+      "82E1A935-0C11-48B8-A5D2-2ABDC52DD791",
+      "379628E9-19F3-4B33-A39D-F99E398B39EE"
+    ],
+    "applicationIdList": [
+      "C2DB2FC2-8E64-47AB-BE08-AC552079B911",
+      "FB09180A-3EA2-41F3-8B61-6E2B381C7574",
+      "65F70B3E-6994-419B-9C8C-A2990364897B"
+    ],
+    "studentInfoIdList": [
+      "47198DA5-419F-466C-88AA-A353A483CFEA"
+    ],
+    "isValid": true,
+    "id": "02D65D03-0347-4B08-8915-12293339A0C8",
+    "name": "Carnegie Mellon - Music",
+    "displayName": "Carnegie Mellon - Music",
+    "url": "https://www.cmu.edu/pre-college/academic-programs/music.html",
+    "tagIdList": [
+      3
+    ],
+    "aliasList": [
+      "Carnegie Mellon - Music"
+    ],
+    "urlList": [
+      "https://www.cmu.edu/pre-college/academic-programs/music.html"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      7,
+      8
+    ],
+    "subjectIdList": [
+      5
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "A4DA9BA6-EBB1-4861-9386-CEEC4E71C645"
+    ],
+    "sessionIdList": [
+      "C8121FC1-E57F-49DF-B9D5-518265864535"
+    ],
+    "applicationIdList": [
+      "29E5D12E-2008-4CEB-853A-B3C18A0FEF24",
+      "A0AEB609-B1F4-4D4F-9BF5-2DAE77B7CEE1"
+    ],
+    "studentInfoIdList": [
+      "A552582D-661C-45EA-A182-0FB702623FF9"
+    ],
+    "isValid": true,
+    "id": "02DF7895-7D56-4C48-8728-1AEE50BE79B3",
+    "name": "UPenn - Data Science Academy",
+    "displayName": "Data Science Academy",
+    "url": "https://globalyouth.wharton.upenn.edu/programs-courses/data-science-academy/",
+    "tagIdList": [
+      3,
+      1,
+      4
+    ],
+    "aliasList": [
+      "UPenn - Data Science Academy",
+      "Data Science Academy"
+    ],
+    "urlList": [
+      "https://globalyouth.wharton.upenn.edu/programs-courses/data-science-academy/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [
+      6,
+      7
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "05F87061-31CC-423A-AB2A-2D1CEE72D9F4"
+    ],
+    "sessionIdList": [
+      "F1A683E4-BAF3-44A0-8891-743CB477DD05"
+    ],
+    "applicationIdList": [
+      "C4F9A135-C32E-4C0E-B814-4A7F88351881"
+    ],
+    "studentInfoIdList": [
+      "5F634939-D6EE-4524-9539-C5D0DCAB955A"
+    ],
+    "isValid": true,
+    "id": "082641B1-0702-4E60-A26C-7A1F2F393C9F",
+    "name": "High School Honors Science, Math and Engineering Program",
+    "displayName": "High School Honors Science, Math and Engineering Program (HSHSP)",
+    "url": "https://education.msu.edu/hshsp/",
+    "tagIdList": [
+      7,
+      1
+    ],
+    "aliasList": [
+      "High School Honors Science, Math and Engineering Program",
+      "High School Honors Science, Math and Engineering Program (HSHSP)"
+    ],
+    "urlList": [
+      "https://education.msu.edu/hshsp/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      9,
+      10
+    ],
+    "subjectIdList": [
+      8,
+      9
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "A4DA9BA6-EBB1-4861-9386-CEEC4E71C645"
+    ],
+    "sessionIdList": [
+      "1939A528-4413-4979-A168-B66DF8D67241"
+    ],
+    "applicationIdList": [
+      "35FA1083-3863-471A-A846-9D3CA9487108",
+      "135D795F-620C-49F6-9BA2-C9FC7CFE7B29"
+    ],
+    "studentInfoIdList": [
+      "A8CB65E2-7E0C-461E-9019-93F53BC2236E"
+    ],
+    "isValid": true,
+    "id": "08B3A213-0277-4549-90DF-67037F23947A",
+    "name": "UPenn - Sports Business Academy",
+    "displayName": "Sports Business Academy",
+    "url": "https://globalyouth.wharton.upenn.edu/programs-courses/sports-business-academy/",
+    "tagIdList": [
+      1,
+      3
+    ],
+    "aliasList": [
+      "UPenn - Sports Business Academy",
+      "Sports Business Academy",
+      "UNKNOWN"
+    ],
+    "urlList": [
+      "https://globalyouth.wharton.upenn.edu/programs-courses/sports-business-academy/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      10,
+      11
+    ],
+    "subjectIdList": [
+      9
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "8963669D-8D40-4F8E-9110-9B083CDD0095",
+      "0BB266AA-D918-4355-9289-FEE241DADE0D"
+    ],
+    "sessionIdList": [
+      "BE7539D5-9161-4EB4-9769-E962344CF1A2",
+      "F8CB3C47-6D72-4B3B-96D5-353CEC5FDA56"
+    ],
+    "applicationIdList": [
+      "DF8C5F3D-6D0D-4257-A3DF-804FD508CCA9"
+    ],
+    "studentInfoIdList": [
+      "ACBA982A-EF00-4FF4-8F4F-D1391D8A6D79"
+    ],
+    "isValid": true,
+    "id": "09179F9C-354C-4316-8557-F55CDE7B77B8",
+    "name": "National Student Leadership Conference - International Business",
+    "displayName": "National Student Leadership Conference - International Business",
+    "url": "https://www.nslcleaders.org/youth-leadership-programs/international-business/",
+    "tagIdList": [
+      4,
+      8,
+      3
+    ],
+    "aliasList": [
+      "National Student Leadership Conference - International Business"
+    ],
+    "urlList": [
+      "https://www.nslcleaders.org/youth-leadership-programs/international-business/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      11,
+      12,
+      13
+    ],
+    "subjectIdList": [
+      9
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "D50D356F-8C53-45D4-B45D-41DE54A2C332"
+    ],
+    "sessionIdList": [
+      "F9D30D08-3357-43B6-97A4-083312AC26A5"
+    ],
+    "applicationIdList": [
+      "47872498-557E-44E9-9756-6ED26383E259"
+    ],
+    "studentInfoIdList": [
+      "49C028A4-AFD2-4B44-AE3F-6B2E6F008607"
+    ],
+    "isValid": true,
+    "id": "0CD79672-47B6-4A5F-A5A2-259A649211EC",
+    "name": "Indiana University Kelley School of Business Institute for International Business - Business is Global Program",
+    "displayName": "Business is Global Program",
+    "url": "https://kelley.iu.edu/faculty-research/centers-institutes/international-business/programs-initiatives/business-is-global.html",
+    "tagIdList": [
+      4,
+      3
+    ],
+    "aliasList": [
+      "Indiana University Kelley School of Business Institute for International Business - Business is Global Program",
+      "Business is Global Program",
+      "Indiana University Kelley Schol of Business Institute for International Business - Business is Global Program"
+    ],
+    "urlList": [
+      "https://kelley.iu.edu/faculty-research/centers-institutes/international-business/programs-initiatives/business-is-global.html"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "95F1B8CB-A11B-4113-AB5C-FE4C6DA5558D",
+      "8963669D-8D40-4F8E-9110-9B083CDD0095",
+      "4F07BE33-D0E9-458D-BF95-120951C07728",
+      "0BB266AA-D918-4355-9289-FEE241DADE0D"
+    ],
+    "sessionIdList": [
+      "C7A4E4F6-19A5-4F88-8702-D8B88EF3C761",
+      "22CE7806-2166-4A6D-A25A-8425881D4FEE",
+      "E4021DF4-0ADB-4B3A-95F8-74E5B467FE4E",
+      "F643D871-D2E3-4F35-A55E-6EC018C74070",
+      "0F44A72E-C9A7-41B4-85F1-E17C765B6C26",
+      "52457253-4875-401B-8E18-C833D4FB2AA3",
+      "BB5A3202-71F2-4F22-88D8-06DA2F03C8ED",
+      "150B3E1B-AD87-4D6D-9381-8A507E84CB3A",
+      "82809394-BBBD-499E-90D2-A00C8C093C8B"
+    ],
+    "applicationIdList": [
+      "CBEDAEB4-C9FB-41EA-9AF0-A695037A8879"
+    ],
+    "studentInfoIdList": [
+      "4FA5B8AE-A988-4BD4-B876-D73A1F4F28AC"
+    ],
+    "isValid": true,
+    "id": "0D74EFDA-7495-49E6-81FF-4B3A59672758",
+    "name": "National Student Leadership Conference - Law and Advocacy",
+    "displayName": "National Student Leadership Conference - Law and Advocacy",
+    "url": null,
+    "tagIdList": [
+      4,
+      3,
+      8
+    ],
+    "aliasList": [
+      "National Student Leadership Conference - Law and Advocacy"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      14,
+      15,
+      2,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "subjectIdList": [],
+    "programTypeIdList": [
+      1,
+      3
+    ],
+    "orgIdList": [],
+    "sessionIdList": [
+      "A8F572C3-5C05-437C-AB96-8219558962AF",
+      "B3056967-DADA-4656-84A6-EC71E12C7D38",
+      "86E070CF-DE71-4BAD-B5A6-AB0D5767A5E0",
+      "345F6A37-23AC-45A4-AD90-4F75CF2E95F1",
+      "50DCE5C0-8873-436A-A2E2-BCEE7AA3053A",
+      "098C43E6-3BBD-46E5-83CB-0AB3C3E7C50E",
+      "D59590D0-AEDB-48A7-AF18-A3619692F8C3",
+      "A42037E1-536A-4E1C-81CA-11F0216FA237",
+      "10889CE0-CB87-4FD7-BCBC-538A8BE540C4",
+      "F35C33B4-EA40-40C6-AF55-5D02F96620CF",
+      "165A622E-235B-49D9-AD89-D16291321DF0",
+      "3495FD3B-A887-40A2-802A-B268BACDB02E",
+      "2A07AABD-D034-4A67-8021-821D2D02FB3C",
+      "61612319-8285-48CA-8A9B-5041D04AD69A",
+      "7052EEB9-D7F3-4BF1-B490-2322DEA10F30",
+      "B7C09171-C44A-4607-A30C-447354414E86",
+      "6A2B4A45-A06E-4913-BA67-8B712482828A",
+      "7F6D1708-D32C-4D1F-860E-F2792FF8405C",
+      "B6C11E36-5637-4645-B395-E3AA3766915B"
+    ],
+    "applicationIdList": [
+      "0D0BD5D4-CCE5-4606-8980-A75FB91D6BE7"
+    ],
+    "studentInfoIdList": [
+      "5125C0F9-34B1-47E1-A010-067BA763E71D"
+    ],
+    "isValid": true,
+    "id": "0DED6341-77DB-449A-BC2D-082CF006C14E",
+    "name": "Putney Student Travel",
+    "displayName": "Putney Student Travel",
+    "url": "https://goputney.com/focus-areas/career-high-school-summer-programs/",
+    "tagIdList": [
+      9,
+      8,
+      3,
+      4
+    ],
+    "aliasList": [
+      "Putney Student Travel"
+    ],
+    "urlList": [
+      "https://goputney.com/focus-areas/career-high-school-summer-programs/"
+    ],
+    "noteList": [
+      "Students create a career-oriented independent project."
+    ]
+  },
+  {
+    "topicIdList": [
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "subjectIdList": [
+      7
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "471BCE76-668B-4A90-969E-6B8D37D69262"
+    ],
+    "sessionIdList": [
+      "7CCAE5E2-D440-4AB9-820E-7791A8F266CE"
+    ],
+    "applicationIdList": [
+      "5406F7DB-8AEE-4AA8-A15E-6482F6E1661D"
+    ],
+    "studentInfoIdList": [
+      "8971486C-F7A7-4A2E-935E-81871E3A7CC3"
+    ],
+    "isValid": true,
+    "id": "0F33C626-6BDF-42EA-84C9-0B7BC43B023F",
+    "name": "Texas Tech - Anson L. Clark Scholars Program",
+    "displayName": "Anson L. Clark Scholars Program",
+    "url": "https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/",
+    "tagIdList": [
+      10,
+      11,
+      12
+    ],
+    "aliasList": [
+      "Texas Tech - Anson L. Clark Scholars Program",
+      "Anson L. Clark Scholars Program",
+      "UNKNOWN"
+    ],
+    "urlList": [
+      "https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/"
+    ],
+    "noteList": [
+      "Highly selective. Only 12 participants each year."
+    ]
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "F6FD5B67-FB28-4532-BCFE-D4BD746088C7"
+    ],
+    "sessionIdList": [
+      "CE5C99D6-DBB8-4E26-A784-B828E7EAFCD4",
+      "97FCB205-CA31-4C83-8EDB-DF0A5E7137BF"
+    ],
+    "applicationIdList": [
+      "752190AD-9C04-47DE-A18A-44B068EE5874"
+    ],
+    "studentInfoIdList": [
+      "D70C3E39-619D-4017-9B41-165A606BC90D"
+    ],
+    "isValid": true,
+    "id": "0F3BDE94-5AF4-4B03-913F-0A2C83AEC48B",
+    "name": "Rice University Aerospace \u0026 Aviation Academy",
+    "displayName": "Rice Aerospace \u0026 Aviation Academy",
+    "url": "https://www.envisionexperience.com/explore-our-programs/aerospace-and-aviation-academy",
+    "tagIdList": [
+      1,
+      4,
+      3,
+      13
+    ],
+    "aliasList": [
+      "Rice University Aerospace \u0026 Aviation Academy",
+      "Rice Aerospace \u0026 Aviation Academy"
+    ],
+    "urlList": [
+      "https://www.envisionexperience.com/explore-our-programs/aerospace-and-aviation-academy"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      71,
+      72,
+      73,
+      74,
+      10
+    ],
+    "subjectIdList": [
+      10
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "95F1B8CB-A11B-4113-AB5C-FE4C6DA5558D",
+      "7EE121E0-3B61-4375-B650-A1C34151AC60",
+      "E0DEA392-2328-48C5-95C0-E41D9FD8AD23",
+      "4F07BE33-D0E9-458D-BF95-120951C07728",
+      "73B04EDB-8659-49E7-88AE-912F0A8903DE"
+    ],
+    "sessionIdList": [
+      "54D33053-D3C6-459E-96CC-855FD5EBAE59",
+      "F151F2B4-F44F-47D7-B75A-5274C12FE575",
+      "93E6C072-9F31-4524-918F-BA14151C9C74",
+      "BDFEEA9B-AE1E-4EAE-9AD9-57AB6AB4BB91",
+      "1A06C73A-7746-464C-B21A-51EB6B0AC5C4",
+      "D817C69E-6BC3-4822-AB08-E6A9B7C62C1D",
+      "EB0D3F64-3024-458B-B1F0-9446F48B1B4A",
+      "94935A53-FC57-407B-A324-07518C0E2475",
+      "30FE3AC7-C424-41C8-804F-86FA1C02FA01",
+      "49865728-B4BB-464E-A91F-704889A60F82"
+    ],
+    "applicationIdList": [
+      "EF61464D-E4A4-471C-AD61-6A0B97B9B791"
+    ],
+    "studentInfoIdList": [
+      "4706C3BC-B285-47D8-869C-9EB8961D9085"
+    ],
+    "isValid": true,
+    "id": "10048C39-04D8-4725-931C-E16D5815241D",
+    "name": "National Student Leadership Conference - Engineering",
+    "displayName": "National Student Leadership Conference - Engineering",
+    "url": "https://www.nslcleaders.org/youth-leadership-programs/engineering-summer-programs/",
+    "tagIdList": [
+      4,
+      8,
+      3
+    ],
+    "aliasList": [
+      "National Student Leadership Conference - Engineering"
+    ],
+    "urlList": [
+      "https://www.nslcleaders.org/youth-leadership-programs/engineering-summer-programs/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      75,
+      76,
+      10
+    ],
+    "subjectIdList": [
+      10
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "7EE121E0-3B61-4375-B650-A1C34151AC60",
+      "0BB266AA-D918-4355-9289-FEE241DADE0D"
+    ],
+    "sessionIdList": [
+      "2F983EC6-F3CE-49C9-AF5D-133337DD02E4",
+      "238C6D76-4D4C-4218-9B20-D2696F444D59",
+      "884301DF-7621-4D37-B177-1BE6459ADB02",
+      "EDF56ED8-084A-4FC5-857A-5C4767F07613"
+    ],
+    "applicationIdList": [
+      "827DAD2F-C2D5-416E-BAE4-7491EC6A3FC0"
+    ],
+    "studentInfoIdList": [
+      "3F7BEA40-9F6F-437E-81D5-FF177898EF5B"
+    ],
+    "isValid": true,
+    "id": "11F68E63-F904-4BB5-AA16-0E69B2FBFDD6",
+    "name": "National Student Leadership Conference - Aerospace",
+    "displayName": "National Student Leadership Conference - Aerospace",
+    "url": "https://www.nslcleaders.org/youth-leadership-programs/aerospace/",
+    "tagIdList": [
+      3,
+      8,
+      4
+    ],
+    "aliasList": [
+      "National Student Leadership Conference - Aerospace"
+    ],
+    "urlList": [
+      "https://www.nslcleaders.org/youth-leadership-programs/aerospace/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      77,
+      10
+    ],
+    "subjectIdList": [
+      11
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "2535967B-82DB-4037-B157-02BDB621A821",
+      "0BB266AA-D918-4355-9289-FEE241DADE0D"
+    ],
+    "sessionIdList": [
+      "C7FC58B2-3AE5-4D80-8F96-DE72A6DEDB9F",
+      "5DE78A75-5BC3-4DDD-9182-D616A59C3A9C"
+    ],
+    "applicationIdList": [
+      "1DBEBC32-7B14-4D0B-8228-28ACCC4BDB5E"
+    ],
+    "studentInfoIdList": [],
+    "isValid": true,
+    "id": "1208C164-CA16-47E5-8CC8-BC9D6E250E93",
+    "name": "National Student Leadership Conference - Cybersecurity",
+    "displayName": "National Student Leadership Conference - Cybersecurity",
+    "url": "https://www.nslcleaders.org/youth-leadership-programs/cybersecurity/",
+    "tagIdList": [
+      4,
+      3,
+      8
+    ],
+    "aliasList": [
+      "National Student Leadership Conference - Cybersecurity"
+    ],
+    "urlList": [
+      "https://www.nslcleaders.org/youth-leadership-programs/cybersecurity/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [
+      1
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "95F1B8CB-A11B-4113-AB5C-FE4C6DA5558D"
+    ],
+    "sessionIdList": [],
+    "applicationIdList": [
+      "1E4E95E9-C833-4B15-8F7D-539949CC3F17"
+    ],
+    "studentInfoIdList": [
+      "847B8FED-745C-4EEA-9104-6A60885D45B0"
+    ],
+    "isValid": true,
+    "id": "15785DD1-5AE9-4619-89D8-92884820F21F",
+    "name": "Duke Summer Workshop in Math",
+    "displayName": "Duke Summer Workshop in Math (SWiM)",
+    "url": "https://sites.duke.edu/swim/apply/",
+    "tagIdList": [
+      14,
+      10,
+      7
+    ],
+    "aliasList": [
+      "Duke Summer Workshop in Math",
+      "Duke Summer Workshop in Math (SWiM)"
+    ],
+    "urlList": [
+      "https://sites.duke.edu/swim/apply/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      78,
+      79,
+      80,
+      81
+    ],
+    "subjectIdList": [],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "4F07BE33-D0E9-458D-BF95-120951C07728"
+    ],
+    "sessionIdList": [
+      "CA4B43AE-1A1D-4E22-AD1D-828633DACACD",
+      "5E80FD48-B106-46D2-BA66-43D629ACA738",
+      "C878D941-85B7-43EA-A751-35189A774868"
+    ],
+    "applicationIdList": [
+      "E11D9B43-6777-4F87-92A8-1A8A0505AE17",
+      "9DF76A42-2525-422C-A9C1-908A47E0BC7D"
+    ],
+    "studentInfoIdList": [
+      "B4AC8ABC-28A7-4401-9512-1CE377D5CA99"
+    ],
+    "isValid": true,
+    "id": "16AFBE4F-B815-455B-8EC3-E576A841A7C2",
+    "name": "Yale Young Global Scholars",
+    "displayName": "Yale Young Global Scholars (YYGS)",
+    "url": null,
+    "tagIdList": [
+      1
+    ],
+    "aliasList": [
+      "Yale Young Global Scholars",
+      "Yale Young Global Scholars (YYGS)",
+      "UNKNOWN"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88
+    ],
+    "subjectIdList": [
+      12
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "858BF71F-427B-42B8-89FA-D34B8F467582"
+    ],
+    "sessionIdList": [
+      "D8A555AA-F815-47E4-9B48-030ADB83D36F"
+    ],
+    "applicationIdList": [
+      "5A0849F3-DD0A-4202-8488-7B318F63E82C",
+      "335AA832-BEC4-4762-88C0-D4862FEF811F",
+      "EBDADCB6-3F5F-46C6-A911-D489DDD3D809",
+      "3D49C6F3-EB22-45A3-8CFA-29A0D3745FCD"
+    ],
+    "studentInfoIdList": [
+      "D82EFCC1-4CB2-4A51-9495-15327B662CD8"
+    ],
+    "isValid": true,
+    "id": "1944662A-0E01-40ED-B650-BCCC6EE46384",
+    "name": "University of Chicago - Summer Online",
+    "displayName": "UChicago - Summer Online",
+    "url": "https://summer.uchicago.edu/programs/summer-online",
+    "tagIdList": [
+      4,
+      1,
+      3
+    ],
+    "aliasList": [
+      "University of Chicago - Summer Online",
+      "UChicago - Summer Online"
+    ],
+    "urlList": [
+      "https://summer.uchicago.edu/programs/summer-online"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      89,
+      90,
+      91,
+      92
+    ],
+    "subjectIdList": [],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "66B72312-3491-4C59-A940-0A56D31462C2"
+    ],
+    "sessionIdList": [
+      "86A8D5CC-616C-4DF8-851E-50DA179138C1",
+      "33A97D02-BDF4-4926-A1C0-E2613D389013"
+    ],
+    "applicationIdList": [
+      "879D08A9-2584-43AC-9D54-51CAD57558F7"
+    ],
+    "studentInfoIdList": [
+      "7CF88F43-5E4A-4AC1-B53C-4D6317C7B49A"
+    ],
+    "isValid": true,
+    "id": "1D139BC6-7C5D-407B-9BD9-561FB2326160",
+    "name": "Tufts Engineering Design Lab",
+    "displayName": "Tufts Engineering Design Lab (EDL)",
+    "url": null,
+    "tagIdList": [
+      3
+    ],
+    "aliasList": [
+      "Tufts Engineering Design Lab",
+      "Tufts Engineering Design Lab (EDL)"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [
+      7
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "BD82E5EE-C14F-45E4-AF8F-8E3A799E6B28"
+    ],
+    "sessionIdList": [],
+    "applicationIdList": [],
+    "studentInfoIdList": [
+      "B0E9F9C7-BFD5-4A61-B042-719F79D1767D"
+    ],
+    "isValid": true,
+    "id": "1DBFBFE2-8F3C-487F-8F34-667587D29230",
+    "name": "Simons Summer Research Program",
+    "displayName": "Simons Summer Research Program",
+    "url": null,
+    "tagIdList": [
+      7,
+      1
+    ],
+    "aliasList": [
+      "Simons Summer Research Program"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Requires a teacher nomination.",
+      "Highly selective. ~8% acceptance rate.",
+      "Information will be released in January 2022."
+    ]
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [
+      12
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "858BF71F-427B-42B8-89FA-D34B8F467582"
+    ],
+    "sessionIdList": [
+      "9A52DAE2-4972-4F18-A0CF-CB00B3F9C63F",
+      "5D4A8EB2-ADBF-4AD9-B00D-0B7E8F0ED3D0"
+    ],
+    "applicationIdList": [
+      "C1BE9A0E-0E07-4111-8B3C-9367DAC566ED",
+      "54031A7F-628B-4462-888A-5909B0C17DEF",
+      "962DCDA5-D7E6-4D67-9898-7D715E191D0F",
+      "FC133E32-96CB-4469-9C49-509C8C529A38"
+    ],
+    "studentInfoIdList": [
+      "7163EF8D-5DE5-4C0A-82BB-A696531B709E"
+    ],
+    "isValid": true,
+    "id": "1E120221-2706-4A46-8F97-7FDDA806182E",
+    "name": "University of Chicago - Immersion",
+    "displayName": "UChicago - Immersion",
+    "url": "https://summer.uchicago.edu/programs/immersion",
+    "tagIdList": [
+      3,
+      4,
+      1
+    ],
+    "aliasList": [
+      "University of Chicago - Immersion",
+      "UChicago - Immersion"
+    ],
+    "urlList": [
+      "https://summer.uchicago.edu/programs/immersion",
+      "Course catalog: https://summer.uchicago.edu/course-finder"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [],
+    "programTypeIdList": [],
+    "orgIdList": [
+      "7EE121E0-3B61-4375-B650-A1C34151AC60"
+    ],
+    "sessionIdList": [
+      "01CB1734-2F36-47DD-941D-1FFA5CD22977",
+      "B6BAD5DB-9BF0-4B30-9DE3-4FDBC945240C",
+      "43E955D7-811A-4911-BBE7-7D28DDAAF8E3"
+    ],
+    "applicationIdList": [
+      "34E73EC0-D1D8-4D4B-906D-4DDE45D2EB37",
+      "1E1FF12B-5E03-44E9-8390-E1DC629D9890",
+      "60D372D0-8C85-4DEB-A732-1FFD2217F92F",
+      "06D3F2DE-9A71-4CE3-B14B-66305E5FBE26",
+      "76210AE6-EFCB-4A23-8202-F7A73BB4F3EF",
+      "FDB9C841-8C97-4378-B0CA-D3A472F68B19",
+      "4E4C83A0-A7BA-4EC4-8659-2EC4ECB907A3",
+      "5D0ED537-BE70-4E7F-BA19-9935CD6154B9",
+      "4C8CCA2B-103B-46DE-86E4-E52D4E96DEBB",
+      "C800A160-3501-443C-9215-0DBF9D6B65C2"
+    ],
+    "studentInfoIdList": [
+      "BDA23099-F159-41B1-ADF2-C8DBDEC4BAB0"
+    ],
+    "isValid": true,
+    "id": "1ED52627-CDE4-4F3B-8A29-80AA8AE73D1F",
+    "name": "Johns Hopkins Engineering Innovation",
+    "displayName": "Johns Hopkins Engineering Innovation",
+    "url": null,
+    "tagIdList": [
+      16
+    ],
+    "aliasList": [
+      "Johns Hopkins Engineering Innovation"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      93,
+      1,
+      94,
+      47,
+      95,
+      96
+    ],
+    "subjectIdList": [
+      1
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "BD82E5EE-C14F-45E4-AF8F-8E3A799E6B28"
+    ],
+    "sessionIdList": [
+      "7A350329-F80B-44C3-87AB-FE0120CEED13"
+    ],
+    "applicationIdList": [
+      "0BFEDEED-C0C7-4FA4-B054-63F833FA9B55"
+    ],
+    "studentInfoIdList": [
+      "AC4EDCD4-BE48-4E30-842A-33E69F276DA0"
+    ],
+    "isValid": true,
+    "id": "243740EE-DE6C-4AAB-8CB5-0FED4C993195",
+    "name": "Stony Brook University Mathematics Summer Program",
+    "displayName": "Stony Brook University Mathematics Summer Program",
+    "url": "https://www.stonybrook.edu/commcms/istem/students/grades_5-12/summer/mathematics.php",
+    "tagIdList": [],
+    "aliasList": [
+      "Stony Brook University Mathematics Summer Program"
+    ],
+    "urlList": [
+      "https://www.stonybrook.edu/commcms/istem/students/grades_5-12/summer/mathematics.php"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      97,
+      98,
+      99,
+      100,
+      101
+    ],
+    "subjectIdList": [
+      5,
+      13,
+      14,
+      15,
+      16
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "CF222D69-4371-43F7-B850-878D9823415F"
+    ],
+    "sessionIdList": [
+      "A2891746-AEF4-4C80-ABED-23E3C4E8B602",
+      "0E9180A5-DAFD-42D7-AAD9-FA9A45971B80",
+      "F643FF58-7932-4BD2-A8DB-ACCE79CFE107"
+    ],
+    "applicationIdList": [],
+    "studentInfoIdList": [
+      "80DB6712-D207-4451-9ABF-6D9CC8D5BA26"
+    ],
+    "isValid": true,
+    "id": "255927D0-81CB-402F-AFE6-60AD6A8DD590",
+    "name": "North Carolina School of Science and Mathematics Accelorator Courses",
+    "displayName": "North Carolina School of Science and Mathematics Accelorator Courses",
+    "url": "https://www.ncssm.edu/summer-programs/accelerator/accelerator-10th-12th/10th-12th-online-courses",
+    "tagIdList": [],
+    "aliasList": [
+      "North Carolina School of Science and Mathematics Accelorator Courses"
+    ],
+    "urlList": [
+      "https://www.ncssm.edu/summer-programs/accelerator/accelerator-10th-12th/10th-12th-online-courses"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      28
+    ],
+    "subjectIdList": [
+      17
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "2535967B-82DB-4037-B157-02BDB621A821",
+      "0BB266AA-D918-4355-9289-FEE241DADE0D"
+    ],
+    "sessionIdList": [
+      "5548F518-D9F8-47F8-BBBA-E40C9F118B12",
+      "1DEB2C85-36C6-43B8-9B21-95EF7138F9B4"
+    ],
+    "applicationIdList": [
+      "75411395-AB9F-49CF-82D7-52583DF6508E"
+    ],
+    "studentInfoIdList": [
+      "92655573-B1FA-458F-A84B-ED0E9A277746"
+    ],
+    "isValid": true,
+    "id": "2582EA2C-8B0A-4249-9026-D32C3989FF6C",
+    "name": "National Student Leadership Conference - Architecture",
+    "displayName": "National Student Leadership Conference - Architecture",
+    "url": null,
+    "tagIdList": [
+      3,
+      4,
+      8
+    ],
+    "aliasList": [
+      "National Student Leadership Conference - Architecture"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      102,
+      103,
+      104,
+      105,
+      106,
+      107
+    ],
+    "subjectIdList": [
+      18,
+      19,
+      20
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "ABE889E5-0DED-453F-A6AF-12F7F9825EA8"
+    ],
+    "sessionIdList": [
+      "59072CE6-D467-4B9E-B0E9-9891FD939AAE"
+    ],
+    "applicationIdList": [
+      "DE9E1EA5-442F-47E4-A5CE-FE703BDF7005"
+    ],
+    "studentInfoIdList": [],
+    "isValid": true,
+    "id": "26644834-0776-4F95-B88D-8BC60593A209",
+    "name": "Stanford EXPLORE Lecture Series",
+    "displayName": "Stanford EXPLORE Lecture Series",
+    "url": "https://explore.stanford.edu/",
+    "tagIdList": [
+      4,
+      7,
+      3,
+      8
+    ],
+    "aliasList": [
+      "Stanford EXPLORE Lecture Series"
+    ],
+    "urlList": [
+      "https://explore.stanford.edu/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      47,
+      108,
+      23
+    ],
+    "subjectIdList": [
+      21
+    ],
+    "programTypeIdList": [],
+    "orgIdList": [
+      "A4DA9BA6-EBB1-4861-9386-CEEC4E71C645"
+    ],
+    "sessionIdList": [
+      "B13844AE-D79D-4932-84B2-EC85FECDACE2",
+      "7E79121C-CBB1-4B72-88BC-BC50E5BFF487",
+      "5B23B034-35AF-42BE-820F-1A1DF446842F",
+      "2C437D2B-6B04-486F-B75B-64318FC7CE92"
+    ],
+    "applicationIdList": [
+      "B7D1DCD5-E574-4852-8E49-76E8639B6C18",
+      "D7B3A532-CF37-40E6-959D-AF3E5CBF7AB9"
+    ],
+    "studentInfoIdList": [
+      "BABBEA99-E917-4AD7-8B95-17707BF08CD7"
+    ],
+    "isValid": true,
+    "id": "278BC411-F420-4767-A2C8-3072283B0A31",
+    "name": "UPenn - Essentials of Finance",
+    "displayName": "UPenn - Essentials of Finance",
+    "url": "https://globalyouth.wharton.upenn.edu/programs-courses/essentials-of-finance/",
+    "tagIdList": [
+      1,
+      3,
+      4
+    ],
+    "aliasList": [
+      "UPenn - Essentials of Finance",
+      "Essentials of Finance"
+    ],
+    "urlList": [
+      "https://globalyouth.wharton.upenn.edu/programs-courses/essentials-of-finance/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      2,
+      109,
+      110,
+      111,
+      112,
+      113
+    ],
+    "subjectIdList": [
+      3
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "51148AB8-9713-4EBA-AA88-7F1AFAE7CF13"
+    ],
+    "sessionIdList": [
+      "1505B772-01F8-4ACA-A22B-DA09C39BCA39",
+      "7EE59454-963E-4E3B-9BEB-204F8894FEEC"
+    ],
+    "applicationIdList": [
+      "B49F35C4-E765-48E6-81D5-EAD6E16601AE",
+      "4BF5C7DD-E716-4D16-BA4C-344CC016815B",
+      "4B243C80-FDAC-40D7-96A2-6F0CA2015B1F"
+    ],
+    "studentInfoIdList": [
+      "5589F134-8BF7-4AA4-A187-AAFE938050E5"
+    ],
+    "isValid": true,
+    "id": "2A46D435-F84B-40FF-913F-22A5F7B27F07",
+    "name": "Iowa Young Writers Studio",
+    "displayName": "Iowa Young Writers Studio",
+    "url": "https://iyws.clas.uiowa.edu/",
+    "tagIdList": [
+      17,
+      4,
+      3
+    ],
+    "aliasList": [
+      "Iowa Young Writers Studio",
+      "Iowa Young Writers Workshop"
+    ],
+    "urlList": [
+      "https://iyws.clas.uiowa.edu/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      114,
+      115,
+      116,
+      1,
+      117,
+      118,
+      119
+    ],
+    "subjectIdList": [
+      1
+    ],
+    "programTypeIdList": [],
+    "orgIdList": [],
+    "sessionIdList": [
+      "FE80546F-57C6-415E-9447-F5A5F4B529DB"
+    ],
+    "applicationIdList": [
+      "61718EE3-035E-4874-8262-42B060AFB038"
+    ],
+    "studentInfoIdList": [
+      "BFD6BE32-316D-4993-9402-D8E4B5BCC78C"
+    ],
+    "isValid": true,
+    "id": "2B994C81-B9B3-4C15-AFC1-82012A578BF6",
+    "name": "Canada/USA MathCamp",
+    "displayName": "Canada/USA MathCamp",
+    "url": "https://www.mathcamp.org/",
+    "tagIdList": [
+      4,
+      5,
+      1
+    ],
+    "aliasList": [
+      "Canada/USA MathCamp",
+      "MathCamp Canada/USA",
+      "MathCamp"
+    ],
+    "urlList": [
+      "https://www.mathcamp.org/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [],
+    "programTypeIdList": [],
+    "orgIdList": [
+      "A4DA9BA6-EBB1-4861-9386-CEEC4E71C645"
+    ],
+    "sessionIdList": [
+      "4ED005B0-6D20-486D-8257-87AABEBD12D5"
+    ],
+    "applicationIdList": [
+      "636180FB-0BB1-44A7-AF26-0B6B5C371090",
+      "CAE802AE-1E01-462D-AD43-C592FFD81A22"
+    ],
+    "studentInfoIdList": [
+      "29AEC6DE-8112-42FC-8E98-BEC3A7B4B3E6"
+    ],
+    "isValid": true,
+    "id": "3106B8C8-1279-487B-ABBA-02325F394729",
+    "name": "UPenn - Mathematics Academy",
+    "displayName": "UPenn Mathematics Academy",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "UPenn - Mathematics Academy",
+      "UPenn Mathematics Academy",
+      "University of Pennsylvania Mathematics Academy",
+      "UNKNOWN"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [
+      5
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "F4129270-F18F-4780-A728-9D3C2CA0FC69",
+      "0BB266AA-D918-4355-9289-FEE241DADE0D"
+    ],
+    "sessionIdList": [
+      "AB547799-9D9C-4953-8610-4FB66A720CE0",
+      "006DC450-011B-4E84-95DD-66C82CBEB477"
+    ],
+    "applicationIdList": [
+      "FB3D0F6A-F7C1-4904-9365-9FC008E4C533"
+    ],
+    "studentInfoIdList": [
+      "D869DC07-317B-49F1-AE6D-24B02866F8F0"
+    ],
+    "isValid": true,
+    "id": "34A3DC61-AADF-4F58-8D0D-38571E501A95",
+    "name": "National Student Leadership Conference - Data Science",
+    "displayName": "National Student Leadership Conference - Data Science",
+    "url": null,
+    "tagIdList": [
+      4,
+      3,
+      8
+    ],
+    "aliasList": [
+      "National Student Leadership Conference - Data Science"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      120,
+      121,
+      122,
+      59,
+      66,
+      123,
+      124
+    ],
+    "subjectIdList": [
+      12
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "464ABA43-A851-4B4E-BD5A-D31BC5B3744D"
+    ],
+    "sessionIdList": [
+      "1BA9205F-7B15-4C76-85DC-C82E77C4DBDA",
+      "2530C074-4D4D-440B-A725-A16ADAD97C41",
+      "CB9FFB64-CB6A-43D9-B5D9-26C00C75808F",
+      "8EE8DFA3-46CA-4728-8221-5FD23AB52493",
+      "8CA8A449-B932-488E-B472-F47E1B7E1FC6",
+      "7E49C2E4-26A9-4D81-A84E-5E63C0A695B4",
+      "D9B8F69B-81A4-4482-8DF4-68846E73E7B2"
+    ],
+    "applicationIdList": [
+      "59CBE603-207B-49BF-9712-925AEBB6987F"
+    ],
+    "studentInfoIdList": [
+      "17AAA0BD-127E-4ABF-80CE-04BAE8494D42"
+    ],
+    "isValid": true,
+    "id": "38049324-180E-4BA5-ABC7-8DC9A866DA63",
+    "name": "Wake Forest - Online Institutes",
+    "displayName": "Wake Forest - Online Institutes",
+    "url": "https://immersion.summer.wfu.edu/opportunities/online-institutes/",
+    "tagIdList": [
+      18,
+      17,
+      19,
+      4,
+      3
+    ],
+    "aliasList": [
+      "Wake Forest - Online Institutes"
+    ],
+    "urlList": [
+      "https://immersion.summer.wfu.edu/opportunities/online-institutes/"
+    ],
+    "noteList": [
+      "2-week and 4-week programs offered year round, asynchronously."
+    ]
+  },
+  {
+    "topicIdList": [
+      125,
+      10,
+      126,
+      48
+    ],
+    "subjectIdList": [
+      22
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "2535967B-82DB-4037-B157-02BDB621A821",
+      "0BB266AA-D918-4355-9289-FEE241DADE0D",
+      "E0DEA392-2328-48C5-95C0-E41D9FD8AD23"
+    ],
+    "sessionIdList": [
+      "52154315-131D-457F-936C-6899B086984A",
+      "2D057F14-6E85-430A-BED9-71492852C942",
+      "A3EC664E-731E-4568-B75A-9E5B9F44345A"
+    ],
+    "applicationIdList": [
+      "99735D55-8D2D-45FC-8257-49D39FFE975C"
+    ],
+    "studentInfoIdList": [
+      "05CC8297-C9A0-43D7-ABFB-9CCF373710A1"
+    ],
+    "isValid": true,
+    "id": "3AA6F9A7-3A41-490A-9DDE-36B572639568",
+    "name": "National Student Leadership Conference - Film, Journalism, and Media",
+    "displayName": "National Student Leadership Conference - Film, Journalism, and Media",
+    "url": "https://www.nslcleaders.org/youth-leadership-programs/journalism-film-media-arts/",
+    "tagIdList": [
+      4,
+      3,
+      8
+    ],
+    "aliasList": [
+      "National Student Leadership Conference - Film, Journalism, and Media"
+    ],
+    "urlList": [
+      "https://www.nslcleaders.org/youth-leadership-programs/journalism-film-media-arts/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      34,
+      91,
+      127,
+      128,
+      129,
+      19,
+      130,
+      131
+    ],
+    "subjectIdList": [
+      23,
+      10
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "D22E1F66-AC39-4DA9-A15E-8C29F2772FD3"
+    ],
+    "sessionIdList": [
+      "D4CDC5E0-5517-4D02-95EE-506825B5A687"
+    ],
+    "applicationIdList": [
+      "79141C7C-039C-4189-9F18-E58A581FEB5B",
+      "7202E8BD-C918-4310-B091-55BD82FBA797"
+    ],
+    "studentInfoIdList": [
+      "2E64E78B-A7E5-4B8D-B8BE-0141DE37E173"
+    ],
+    "isValid": true,
+    "id": "3F57B50D-CC27-4A00-940B-5CCD2731A51F",
+    "name": "Smith - Summer Science \u0026 Engineering Program (SSEP)",
+    "displayName": "Summer Science \u0026 Engineering Program",
+    "url": "https://www.smith.edu/academics/precollege-programs/summer-science-engineering",
+    "tagIdList": [
+      14,
+      3,
+      4
+    ],
+    "aliasList": [
+      "Smith - Summer Science \u0026 Engineering Program (SSEP)",
+      "Summer Science \u0026 Engineering Program"
+    ],
+    "urlList": [
+      "https://www.smith.edu/academics/precollege-programs/summer-science-engineering"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      132,
+      133,
+      134,
+      135,
+      136,
+      137,
+      40
+    ],
+    "subjectIdList": [],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "2EE71803-2425-48B3-B598-057749112FD3"
+    ],
+    "sessionIdList": [
+      "2BD019C1-256E-4A12-AD42-72BB939BE31C"
+    ],
+    "applicationIdList": [
+      "0D8B6631-7231-4522-94CC-15ACAC79A199"
+    ],
+    "studentInfoIdList": [
+      "40FA55BB-BDD9-4FB9-926B-A3F5DD495A81"
+    ],
+    "isValid": true,
+    "id": "3FFA46DD-6226-4F65-AE96-B6EE0AA2954B",
+    "name": "Barnard Young Women\u2019s Leadership Institute",
+    "displayName": "Barnard Young Women\u2019s Leadership Institute",
+    "url": "https://precollege.barnard.edu/young-womens-leadership-summer-institute",
+    "tagIdList": [
+      14,
+      4,
+      3
+    ],
+    "aliasList": [
+      "Barnard Young Women\u2019s Leadership Institute"
+    ],
+    "urlList": [
+      "https://precollege.barnard.edu/young-womens-leadership-summer-institute"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      138,
+      139,
+      140,
+      141,
+      142
+    ],
+    "subjectIdList": [
+      24
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "18877616-5371-4376-9900-99CEABC7E8C2"
+    ],
+    "sessionIdList": [
+      "267C0AEB-D97A-4B2F-9991-1E969DB74581"
+    ],
+    "applicationIdList": [
+      "06EC0DA4-81FC-406A-B660-6468385ABAAD",
+      "95CF918A-511C-45CF-A61B-C01786504FB3",
+      "29ECAE25-63E6-4D39-AB2B-8E5143790B82"
+    ],
+    "studentInfoIdList": [
+      "42221DA4-4DC9-4095-92AE-7ED80F6DDAF9"
+    ],
+    "isValid": true,
+    "id": "4343488D-1760-45FF-BA74-0A16D54A2DE6",
+    "name": "Carnegie Mellon - Art",
+    "displayName": "Carnegie Mellon - Art",
+    "url": "https://www.cmu.edu/pre-college/academic-programs/art.html",
+    "tagIdList": [
+      3
+    ],
+    "aliasList": [
+      "Carnegie Mellon - Art"
+    ],
+    "urlList": [
+      "https://www.cmu.edu/pre-college/academic-programs/art.html"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      2,
+      143,
+      144,
+      22
+    ],
+    "subjectIdList": [
+      19,
+      25,
+      3
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "4D5274D6-A2BA-4BE0-A915-F29C59F8F212"
+    ],
+    "sessionIdList": [
+      "A30AD6B4-5E93-4737-9709-DA7C4CE5BD1F",
+      "6EB0B0D4-2FF6-4AA5-8898-899F00925362",
+      "B283F50D-D1B9-4D82-A3A7-862B0267472A"
+    ],
+    "applicationIdList": [
+      "1EBD734D-B3C5-4962-8634-DD59CF205A83"
+    ],
+    "studentInfoIdList": [
+      "C5E9AB0A-53E2-4216-9D07-1B337A4CDA4A"
+    ],
+    "isValid": true,
+    "id": "44F1463F-C3E6-4373-8C9D-17FB6D23C739",
+    "name": "Boston University Academic Immersion Program",
+    "displayName": "Boston University Academic Immersion (AIM)",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Boston University Academic Immersion Program",
+      "Boston University Academic Immersion (AIM)"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      110,
+      145,
+      146
+    ],
+    "subjectIdList": [
+      3
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "FB555188-4765-4268-A1D3-D27E9759E4DC"
+    ],
+    "sessionIdList": [
+      "7BDAB86C-5D2C-4C0E-821B-68471AFF0A03",
+      "E5A50B0B-ABCB-467B-9D10-7EEC85B9664E"
+    ],
+    "applicationIdList": [
+      "055E6193-4819-4F9C-A664-BD4B6DAD6DCA"
+    ],
+    "studentInfoIdList": [
+      "100F1420-E10F-45EA-ADB7-CB38CC17C1E3"
+    ],
+    "isValid": true,
+    "id": "474EEECF-8126-4B97-B2F5-9BF230BE2D00",
+    "name": "Kenyon Review Young Writers Workshops",
+    "displayName": "Kenyon Review Young Writers Workshops",
+    "url": "https://kenyonreview.org/workshops/young-writers/",
+    "tagIdList": [
+      3,
+      1
+    ],
+    "aliasList": [
+      "Kenyon Review Young Writers Workshops",
+      "Kenyon Review Writers Workshops",
+      "Kenyon Review"
+    ],
+    "urlList": [
+      "https://kenyonreview.org/workshops/young-writers/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [],
+    "programTypeIdList": [],
+    "orgIdList": [],
+    "sessionIdList": [],
+    "applicationIdList": [],
+    "studentInfoIdList": [],
+    "isValid": true,
+    "id": "4A172BFE-F8A8-433B-BF20-7B843C6FF564",
+    "name": "Alphastar Academy - Computer Science",
+    "displayName": "Alphastar Academy - Computer Science",
+    "url": "https://alphastar.academy/computer-science/",
+    "tagIdList": [],
+    "aliasList": [
+      "Alphastar Academy - Computer Science"
+    ],
+    "urlList": [
+      "https://alphastar.academy/computer-science/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      147
+    ],
+    "subjectIdList": [
+      3,
+      16
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [],
+    "sessionIdList": [],
+    "applicationIdList": [],
+    "studentInfoIdList": [],
+    "isValid": true,
+    "id": "4B629585-4F08-407E-A9F7-931DD2DD110A",
+    "name": "Curious Science Writers Program",
+    "displayName": "Curious Science Writers Program",
+    "url": null,
+    "tagIdList": [
+      5,
+      1
+    ],
+    "aliasList": [
+      "Curious Science Writers Program"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Year-long program with various stages. Story assignments (i.e. biomedical research topic): 5/15-6/15. Virtual Book Camp: 6/20-6/24. Mentor-assisted Story Development: June-August. Story Editing and Publishing: August 2022-June 2023."
+    ]
+  },
+  {
+    "topicIdList": [
+      91,
+      71,
+      72,
+      74,
+      73,
+      10
+    ],
+    "subjectIdList": [
+      10
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "F4129270-F18F-4780-A728-9D3C2CA0FC69"
+    ],
+    "sessionIdList": [
+      "1DF55FF7-1B8F-4AE9-8D91-9403A803A20A"
+    ],
+    "applicationIdList": [
+      "6F7CB7D1-A589-4491-8F9E-86BB0CDABE84"
+    ],
+    "studentInfoIdList": [
+      "1C9268D5-8108-47DD-8212-FD7E9B3D6FE4"
+    ],
+    "isValid": true,
+    "id": "57324622-E6D7-4CEF-BAE4-0CE9737AA23B",
+    "name": "National Student Leadership Conference - Engineering Intensive",
+    "displayName": "National Student Leadership Conference - Engineering Intensive",
+    "url": "https://www.nslcleaders.org/youth-leadership-programs/engineering-intensive/",
+    "tagIdList": [
+      4,
+      8,
+      3
+    ],
+    "aliasList": [
+      "National Student Leadership Conference - Engineering Intensive"
+    ],
+    "urlList": [
+      "https://www.nslcleaders.org/youth-leadership-programs/engineering-intensive/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      148,
+      95,
+      149,
+      150
+    ],
+    "subjectIdList": [
+      5
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "A4DA9BA6-EBB1-4861-9386-CEEC4E71C645"
+    ],
+    "sessionIdList": [
+      "F9C1A60F-548C-4070-9ACB-6B68BCE1F80E"
+    ],
+    "applicationIdList": [
+      "663D0F05-BA13-43DB-9862-7FDBA5887584",
+      "66E2C549-2889-4E18-900E-A49872E4C7E7"
+    ],
+    "studentInfoIdList": [
+      "8E8F9BDB-5CC1-4029-A069-B0E6D1171FED"
+    ],
+    "isValid": true,
+    "id": "5A9ED398-0DDF-484B-A926-02AFFD395ACC",
+    "name": "UPenn - Moneyball Academy",
+    "displayName": "Moneyball Academy",
+    "url": null,
+    "tagIdList": [
+      1,
+      3
+    ],
+    "aliasList": [
+      "UPenn - Moneyball Academy",
+      "Moneyball Academy"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      95,
+      8
+    ],
+    "subjectIdList": [
+      26
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "A4DA9BA6-EBB1-4861-9386-CEEC4E71C645"
+    ],
+    "sessionIdList": [
+      "CEC64D69-4463-42D6-A9AE-934BE3AA2B5E",
+      "B4003003-4A4A-4F4E-83F0-41F20C4788F6"
+    ],
+    "applicationIdList": [
+      "2A8EE51C-090E-4832-AD17-9DD700F379E9",
+      "61313663-FD05-4268-999A-8AE4773AC53E"
+    ],
+    "studentInfoIdList": [
+      "EA472DC7-ED04-4030-81CD-A57B67630268"
+    ],
+    "isValid": true,
+    "id": "5E1A1AC7-F82F-44DB-8799-3D57DF22A219",
+    "name": "UPenn - Moneyball Academy: Training Camp",
+    "displayName": "Moneyball Academy: Training Camp",
+    "url": "https://globalyouth.wharton.upenn.edu/programs-courses/moneyball-academy-training-camp/#-tab-three",
+    "tagIdList": [
+      3,
+      4,
+      1
+    ],
+    "aliasList": [
+      "UPenn - Moneyball Academy: Training Camp",
+      "Moneyball Academy: Training Camp"
+    ],
+    "urlList": [
+      "https://globalyouth.wharton.upenn.edu/programs-courses/moneyball-academy-training-camp/#-tab-three"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [
+      27
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "2535967B-82DB-4037-B157-02BDB621A821",
+      "0BB266AA-D918-4355-9289-FEE241DADE0D"
+    ],
+    "sessionIdList": [
+      "8B07B53E-636A-4DF3-934C-B86B8C4A7446",
+      "0C03F448-6456-4A87-9922-0D2346065644",
+      "F94E8F6F-6E50-4263-816A-0066608516D3",
+      "8A1A668A-2878-4657-8EFE-A6D5A0867B84"
+    ],
+    "applicationIdList": [
+      "BBBC51B3-8C17-4124-AAF3-698D49F7745D"
+    ],
+    "studentInfoIdList": [
+      "F2859F13-FFB6-4928-A9EF-35B8DE6AA57C"
+    ],
+    "isValid": true,
+    "id": "600ABE5F-F1F0-49BB-B29D-6F87132988C4",
+    "name": "National Student Leadership Conference - Forensic Science",
+    "displayName": "National Student Leadership Conference - Forensic Science",
+    "url": "https://www.nslcleaders.org/youth-leadership-programs/forensic-science/",
+    "tagIdList": [
+      4,
+      3,
+      8
+    ],
+    "aliasList": [
+      "National Student Leadership Conference - Forensic Science"
+    ],
+    "urlList": [
+      "https://www.nslcleaders.org/youth-leadership-programs/forensic-science/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [
+      1
+    ],
+    "programTypeIdList": [],
+    "orgIdList": [
+      "ABE889E5-0DED-453F-A6AF-12F7F9825EA8"
+    ],
+    "sessionIdList": [],
+    "applicationIdList": [
+      "094C6B58-0745-4F76-8356-EF538B93FD0B"
+    ],
+    "studentInfoIdList": [
+      "3FF542FB-0C41-4F8A-8D3A-91CCD93976EC"
+    ],
+    "isValid": true,
+    "id": "604B0304-FFE7-4C05-A112-2B860FA2E041",
+    "name": "Stanford University Mathematics Camp",
+    "displayName": "Stanford Mathematics Camp (SUMAC)",
+    "url": "https://sumac.spcs.stanford.edu/",
+    "tagIdList": [
+      5
+    ],
+    "aliasList": [
+      "Stanford University Mathematics Camp",
+      "Stanford Mathematics Camp (SUMAC)",
+      "Stanford Mathematics Camp",
+      "SUMAC"
+    ],
+    "urlList": [
+      "https://sumac.spcs.stanford.edu/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      122,
+      33,
+      151,
+      120,
+      125,
+      47,
+      108,
+      152,
+      55,
+      10,
+      59,
+      103,
+      153,
+      66,
+      154,
+      123,
+      155,
+      156,
+      157
+    ],
+    "subjectIdList": [
+      12
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "464ABA43-A851-4B4E-BD5A-D31BC5B3744D"
+    ],
+    "sessionIdList": [
+      "F496A4D8-4BB7-4237-BFE6-ADF54F40D72D",
+      "1FEBE8F2-B9C9-4285-B082-9A642F6245CA",
+      "69AFBB4C-5D17-40F5-A85B-85D6170DFD99",
+      "3EE0FBE4-6E0C-4057-AA4A-4A4F3319802A",
+      "3E2EAA51-5681-46BD-BDF1-CCBEBF105AFE",
+      "69DD641D-EEA7-4840-8F3D-1C91864FEDE3"
+    ],
+    "applicationIdList": [
+      "B71B9601-F304-4E8B-A011-A1FCEDC7073E"
+    ],
+    "studentInfoIdList": [
+      "1613CAEC-C170-4FFB-91F0-6FB5C659FBA2"
+    ],
+    "isValid": true,
+    "id": "6227D655-62AA-4682-9E82-7075B1B78954",
+    "name": "Wake Forest - Summer Immersion",
+    "displayName": "Wake Forest - Summer Immersion",
+    "url": "https://immersion.summer.wfu.edu/opportunities/institutes/",
+    "tagIdList": [
+      3,
+      4
+    ],
+    "aliasList": [
+      "Wake Forest - Summer Immersion"
+    ],
+    "urlList": [
+      "https://immersion.summer.wfu.edu/opportunities/institutes/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      158,
+      35,
+      159,
+      22
+    ],
+    "subjectIdList": [
+      16
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "341D09CC-E688-4DD4-9C20-810D935CAE9A",
+      "1842194F-4E33-4745-AA90-8C42E129F2DA",
+      "95921D29-A88C-4726-912B-66B29AB13DF5",
+      "D50D356F-8C53-45D4-B45D-41DE54A2C332",
+      "5DFDFE22-B88D-4AC7-94D2-57E9248DB3AE"
+    ],
+    "sessionIdList": [
+      "9A697EE8-307E-4810-80E9-58713CE2BC0D",
+      "9743FFF4-6455-452E-B6DA-7FC88F875F37"
+    ],
+    "applicationIdList": [
+      "5EF43848-54EB-4442-A5E8-0B62EF5BF1A2"
+    ],
+    "studentInfoIdList": [
+      "20E5AB16-7DD1-47FA-B8DD-6ADC5987A2D9"
+    ],
+    "isValid": true,
+    "id": "637E92E1-B7E9-4B2E-ABB1-A40494A4878D",
+    "name": "Summer Science Program",
+    "displayName": "Summer Science Program (SSP)",
+    "url": "https://summerscience.org/",
+    "tagIdList": [
+      1,
+      10
+    ],
+    "aliasList": [
+      "Summer Science Program",
+      "Summer Science Program (SSP)",
+      "Summer Science Program at University of Colorado"
+    ],
+    "urlList": [
+      "https://summerscience.org/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      47,
+      42,
+      108
+    ],
+    "subjectIdList": [
+      21
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "A4DA9BA6-EBB1-4861-9386-CEEC4E71C645"
+    ],
+    "sessionIdList": [
+      "B70F61AF-D5BB-4667-B924-485E52120F32"
+    ],
+    "applicationIdList": [
+      "50C15E6C-B496-4BEC-B1AC-1FA5C6AEDAE2"
+    ],
+    "studentInfoIdList": [
+      "C00A995C-5761-4FBB-9942-8F8B36EE36CF"
+    ],
+    "isValid": true,
+    "id": "67AC8E27-F583-4B9D-9C0C-150E4E203E71",
+    "name": "UPenn - Understanding Your Money",
+    "displayName": "Understanding Your Money",
+    "url": "https://globalyouth.wharton.upenn.edu/programs-courses/understanding-your-money/#-tab-one",
+    "tagIdList": [
+      3,
+      4,
+      17,
+      8
+    ],
+    "aliasList": [
+      "UPenn - Understanding Your Money",
+      "Understanding Your Money"
+    ],
+    "urlList": [
+      "https://globalyouth.wharton.upenn.edu/programs-courses/understanding-your-money/#-tab-one"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      21,
+      10
+    ],
+    "subjectIdList": [
+      18
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "0BB266AA-D918-4355-9289-FEE241DADE0D",
+      "A0BF1773-D641-4D98-9FA3-5961FBD3CD9C"
+    ],
+    "sessionIdList": [
+      "A2F907F6-D53F-4D83-BB6D-2C3F3A4278E5",
+      "4C73CD12-52B8-4A0E-B7C0-5FF720556C84",
+      "341B31F0-84AB-49BF-A435-FA7937CC6BA5"
+    ],
+    "applicationIdList": [
+      "B2D8463D-8A0F-4DF5-8826-BBAA4C9BF97F"
+    ],
+    "studentInfoIdList": [],
+    "isValid": true,
+    "id": "6A26F794-0138-4EDE-BEDD-3CEB2550F7DA",
+    "name": "National Student Leadership Conference - Marine Biology",
+    "displayName": "National Student Leadership Conference - Marine Biology",
+    "url": "https://www.nslcleaders.org/youth-leadership-programs/marine-biology/",
+    "tagIdList": [
+      4,
+      3,
+      8
+    ],
+    "aliasList": [
+      "National Student Leadership Conference - Marine Biology"
+    ],
+    "urlList": [
+      "https://www.nslcleaders.org/youth-leadership-programs/marine-biology/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      160
+    ],
+    "subjectIdList": [
+      1
+    ],
+    "programTypeIdList": [
+      4
+    ],
+    "orgIdList": [
+      "10997658-088C-40E1-9245-538540C639BF"
+    ],
+    "sessionIdList": [],
+    "applicationIdList": [
+      "326D7B26-B7BC-46E3-A624-2753F72E4C56"
+    ],
+    "studentInfoIdList": [
+      "5123936B-B764-41E8-BB7B-278615154C28"
+    ],
+    "isValid": true,
+    "id": "6E1B0A7E-9982-47F0-B6FA-ED5539552C8A",
+    "name": "Hampshire College Summer Studies Program in Mathematics",
+    "displayName": "Hampshire College Program in Mathematics (HCSSiM)",
+    "url": "https://hcssim.org/",
+    "tagIdList": [
+      3,
+      5
+    ],
+    "aliasList": [
+      "Hampshire College Summer Studies Program in Mathematics",
+      "Hampshire College Program in Mathematics (HCSSiM)",
+      "HCSSiM",
+      "UNKNOWN"
+    ],
+    "urlList": [
+      "https://hcssim.org/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      155
+    ],
+    "subjectIdList": [
+      10
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "A4DA9BA6-EBB1-4861-9386-CEEC4E71C645"
+    ],
+    "sessionIdList": [
+      "E046215A-6651-4A80-9701-35433BC0EAE4"
+    ],
+    "applicationIdList": [
+      "FDDB2822-4766-4ACC-BC4D-BC3CDFDFC77D",
+      "29D2E44F-010E-404E-AE27-FCAD27210A73"
+    ],
+    "studentInfoIdList": [
+      "1373A77C-69DA-4828-8FBB-8CC8EE9AE9E3"
+    ],
+    "isValid": true,
+    "id": "714C294D-C4C1-4745-877C-F560FC5A76A7",
+    "name": "UPenn - Management and Technology Summer Program",
+    "displayName": "Management and Technology Summer Program",
+    "url": null,
+    "tagIdList": [
+      1,
+      16
+    ],
+    "aliasList": [
+      "UPenn - Management and Technology Summer Program",
+      "Management and Technology Summer Program",
+      "UNKNOWN"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      57,
+      47,
+      23,
+      10,
+      161
+    ],
+    "subjectIdList": [
+      9
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "8CD47F65-729D-43D5-8FE3-36BCA34979FF"
+    ],
+    "sessionIdList": [
+      "37EB3952-E46F-438A-A7E4-7D14703F97B7"
+    ],
+    "applicationIdList": [
+      "04E55C29-BB0A-4375-9FCE-3B2B0BD3627D"
+    ],
+    "studentInfoIdList": [
+      "53808DF3-F3A4-430A-BF1B-48BEB305ACC9"
+    ],
+    "isValid": true,
+    "id": "720AF57C-3224-4047-A60B-DA4111EAB7CE",
+    "name": "Drexel University Lebow College of Business - Camp Business",
+    "displayName": "Drexel Camp Business",
+    "url": "https://www.lebow.drexel.edu/admissions/undergraduate/pre-college-programs/camp-business",
+    "tagIdList": [
+      3,
+      5,
+      1
+    ],
+    "aliasList": [
+      "Drexel University Lebow College of Business - Camp Business",
+      "Drexel Camp Business"
+    ],
+    "urlList": [
+      "https://www.lebow.drexel.edu/admissions/undergraduate/pre-college-programs/camp-business"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      162
+    ],
+    "subjectIdList": [
+      14
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "B95FACEE-869B-4B00-8C51-FE543BE6B731",
+      "0BB266AA-D918-4355-9289-FEE241DADE0D"
+    ],
+    "sessionIdList": [
+      "C9A4A269-D75F-4679-A625-423F6284D9E1",
+      "E44EEDC5-5E3F-4940-83BA-800405635443"
+    ],
+    "applicationIdList": [
+      "240A790E-D7D0-4A28-B273-4ED0F2AFE4DE"
+    ],
+    "studentInfoIdList": [
+      "35A2D175-9727-4318-A840-19BE61573FF5"
+    ],
+    "isValid": true,
+    "id": "73E204A6-D053-419B-B764-879A9AD179F0",
+    "name": "National Student Leadership Conference - Game Design",
+    "displayName": "National Student Leadership Conference - Game Design",
+    "url": "https://www.nslcleaders.org/youth-leadership-programs/game-design/",
+    "tagIdList": [
+      4,
+      8,
+      3
+    ],
+    "aliasList": [
+      "National Student Leadership Conference - Game Design"
+    ],
+    "urlList": [
+      "https://www.nslcleaders.org/youth-leadership-programs/game-design/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "7EE121E0-3B61-4375-B650-A1C34151AC60"
+    ],
+    "sessionIdList": [],
+    "applicationIdList": [],
+    "studentInfoIdList": [],
+    "isValid": true,
+    "id": "74D5EE03-A154-475C-89B0-73C4DE94A749",
+    "name": "Johns Hopkins Biomedical Engineering Innovation",
+    "displayName": "Johns Hopkins Biomedical Engineering Innovation",
+    "url": "https://ei.jhu.edu/biomedical-online/",
+    "tagIdList": [
+      17,
+      16
+    ],
+    "aliasList": [
+      "Johns Hopkins Biomedical Engineering Innovation"
+    ],
+    "urlList": [
+      "https://ei.jhu.edu/biomedical-online/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      163,
+      164,
+      10
+    ],
+    "subjectIdList": [
+      28,
+      29
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "0BB266AA-D918-4355-9289-FEE241DADE0D"
+    ],
+    "sessionIdList": [
+      "ADB3D8B1-C32D-45A3-A37A-481386C3F9D5"
+    ],
+    "applicationIdList": [
+      "82D52FCA-B0C4-4B53-9AD2-F8F34F1E3B59"
+    ],
+    "studentInfoIdList": [
+      "C7EEC585-CAAE-400B-9359-DABAB3106156"
+    ],
+    "isValid": true,
+    "id": "75D9D65A-6D9E-4C44-90B9-77E5501C3FBB",
+    "name": "National Student Leadership Conference - Acting Intensive",
+    "displayName": "National Student Leadership Conference - Acting Intensive",
+    "url": "https://www.nslcleaders.org/youth-leadership-programs/acting-intensive/",
+    "tagIdList": [
+      4,
+      8,
+      3
+    ],
+    "aliasList": [
+      "National Student Leadership Conference - Acting Intensive"
+    ],
+    "urlList": [
+      "https://www.nslcleaders.org/youth-leadership-programs/acting-intensive/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      165,
+      166,
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175
+    ],
+    "subjectIdList": [
+      30,
+      31
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "858BF71F-427B-42B8-89FA-D34B8F467582"
+    ],
+    "sessionIdList": [
+      "3515EFA0-59C5-494D-922E-F68BC82EB10A"
+    ],
+    "applicationIdList": [
+      "98CE8309-C0E0-41BE-B1F9-D58ACB77303E",
+      "EE956650-3C1B-4425-B8F4-7A1351C96C31"
+    ],
+    "studentInfoIdList": [
+      "7A5CA704-051B-41BB-B389-13A82B87A1E0"
+    ],
+    "isValid": true,
+    "id": "7B28F902-B04F-4F72-AAD9-4ABD22128E10",
+    "name": "University of Chicago - Summer Language Institute",
+    "displayName": "UChicago - Summer Language Institute",
+    "url": "https://summer.uchicago.edu/programs/summer-language-institute",
+    "tagIdList": [
+      1,
+      3
+    ],
+    "aliasList": [
+      "University of Chicago - Summer Language Institute",
+      "UChicago - Summer Language Institute"
+    ],
+    "urlList": [
+      "https://summer.uchicago.edu/programs/summer-language-institute",
+      "https://college.uchicago.edu/summer-session/summer-language-institute"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      161
+    ],
+    "subjectIdList": [
+      9
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "A4DA9BA6-EBB1-4861-9386-CEEC4E71C645"
+    ],
+    "sessionIdList": [
+      "670206BD-9C42-4624-A91B-D9C6B3EDF8E0",
+      "1041905C-4359-4923-B998-06436149D558",
+      "44E83029-7EAE-4F2C-BF95-80309A5A63DC",
+      "5CAEE439-A8E1-4173-B35B-4E365377AB08"
+    ],
+    "applicationIdList": [
+      "B596095B-DCE1-48BD-A347-84BF6C892688",
+      "D91BB9F8-D12A-433B-A400-CDB37B95D074"
+    ],
+    "studentInfoIdList": [
+      "392C765D-B45C-4316-A0E0-06A973474F19"
+    ],
+    "isValid": true,
+    "id": "7D35081A-4E73-4454-B5E7-92D75FF705BC",
+    "name": "UPenn - Future of the Business World",
+    "displayName": "Future of the Business World",
+    "url": "https://globalyouth.wharton.upenn.edu/programs-courses/future-of-the-business-world/#-tab-one",
+    "tagIdList": [
+      3,
+      4
+    ],
+    "aliasList": [
+      "UPenn - Future of the Business World",
+      "Future of the Business World",
+      "UPenn Wharton School of Business \u2013 Future of the Business World"
+    ],
+    "urlList": [
+      "https://globalyouth.wharton.upenn.edu/programs-courses/future-of-the-business-world/#-tab-one"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      176
+    ],
+    "subjectIdList": [],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "2535967B-82DB-4037-B157-02BDB621A821",
+      "0BB266AA-D918-4355-9289-FEE241DADE0D"
+    ],
+    "sessionIdList": [
+      "19CC57FB-C061-4EDC-ABF1-1058E7A801F3",
+      "9F46567C-D06B-444C-B4FF-A0E10BB88A90",
+      "FDE582DF-CFA1-4C53-AC0C-CBD2A3B45F96"
+    ],
+    "applicationIdList": [
+      "21B7D79A-B459-4E8B-8C5D-781FA6E4E78B"
+    ],
+    "studentInfoIdList": [
+      "D9219E85-31A0-4B5B-AB10-76EA61B17564"
+    ],
+    "isValid": true,
+    "id": "809F6481-3FF7-45AF-9076-A943C5F31D74",
+    "name": "National Student Leadership Conference - Intelligence and National Security",
+    "displayName": "National Student Leadership Conference - Intelligence and National Security",
+    "url": "https://www.nslcleaders.org/youth-leadership-programs/intelligence-national-security/",
+    "tagIdList": [
+      4,
+      8,
+      3
+    ],
+    "aliasList": [
+      "National Student Leadership Conference - Intelligence and National Security"
+    ],
+    "urlList": [
+      "https://www.nslcleaders.org/youth-leadership-programs/intelligence-national-security/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      2,
+      177
+    ],
+    "subjectIdList": [
+      3
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "A677DD06-99D3-465F-9AFA-3E14980B57DA"
+    ],
+    "sessionIdList": [],
+    "applicationIdList": [],
+    "studentInfoIdList": [
+      "40B75A1E-D937-4DA0-BDE4-5B499FC75D88"
+    ],
+    "isValid": true,
+    "id": "80E4760A-4339-4917-8F05-9B01BFF66BB4",
+    "name": "Sarah Lawrence College Writers Week",
+    "displayName": "Sarah Lawrence College Writers Week",
+    "url": "https://www.sarahlawrence.edu/summer/pre-college/writers-week.html",
+    "tagIdList": [
+      4
+    ],
+    "aliasList": [
+      "Sarah Lawrence College Writers Week"
+    ],
+    "urlList": [
+      "https://www.sarahlawrence.edu/summer/pre-college/writers-week.html"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      91
+    ],
+    "subjectIdList": [
+      7
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "4B9E4C4C-35F6-48D4-A959-2459C7B6F0D6"
+    ],
+    "sessionIdList": [
+      "2A0C3BA5-70D7-45DA-AF5B-4C54187D882E",
+      "E0499686-08D6-44A8-BB12-C9606A1C6FF9",
+      "8F9854AD-171C-41AF-85D4-AC77FC33E1BE"
+    ],
+    "applicationIdList": [
+      "6E2EAEB6-F123-4CB3-ADB2-B945CB220B84"
+    ],
+    "studentInfoIdList": [
+      "FB77FF38-D85A-4121-B5C2-1EF440DD8052"
+    ],
+    "isValid": true,
+    "id": "860DE6B3-7270-457F-B235-56C91FC098BB",
+    "name": "Rose-Hulman Institute of Technology - Operation Catapult",
+    "displayName": "Operation Catapult",
+    "url": "https://www.rose-hulman.edu/admissions-and-aid/early-planning/operation-catapult/index.html",
+    "tagIdList": [
+      16,
+      1,
+      10
+    ],
+    "aliasList": [
+      "Rose-Hulman Institute of Technology - Operation Catapult",
+      "Operation Catapult"
+    ],
+    "urlList": [
+      "https://www.rose-hulman.edu/admissions-and-aid/early-planning/operation-catapult/index.html"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      2,
+      40,
+      125,
+      178,
+      60,
+      179,
+      180
+    ],
+    "subjectIdList": [
+      32
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "38BCF390-EB72-4425-9754-142944A64740"
+    ],
+    "sessionIdList": [
+      "3E485C2F-B800-46AD-8CC5-748F43180D7F",
+      "56B6DD14-2C58-4D4F-8077-C990EAE1661A",
+      "345EAEDE-1DE8-42B4-BAD0-890C46910DA1"
+    ],
+    "applicationIdList": [
+      "7312CE3F-A59C-40DB-82BF-0D16461754C8",
+      "3C892BCC-D512-4C79-88D4-5750CF81B154",
+      "9EDFC6B8-D844-4B73-B8C0-F7F5CBE120F2",
+      "7E8A3BDB-BF8D-43F2-B1D9-4D60F541C8DD"
+    ],
+    "studentInfoIdList": [
+      "B65FB991-CC5B-4102-A71D-E3EC98DA8422"
+    ],
+    "isValid": true,
+    "id": "8810BA01-A301-4B79-8527-E99B921A965C",
+    "name": "Interlochen Arts Camp",
+    "displayName": "Interlochen Arts Camp",
+    "url": "https://www.interlochen.org/summer-arts-camp",
+    "tagIdList": [
+      4,
+      3
+    ],
+    "aliasList": [
+      "Interlochen Arts Camp"
+    ],
+    "urlList": [
+      "https://www.interlochen.org/summer-arts-camp"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [
+      19
+    ],
+    "programTypeIdList": [
+      5,
+      2
+    ],
+    "orgIdList": [
+      "ABE889E5-0DED-453F-A6AF-12F7F9825EA8"
+    ],
+    "sessionIdList": [
+      "EFBB9871-A6CA-4AE9-9D2F-4B9B61A3CBAD"
+    ],
+    "applicationIdList": [
+      "BAD90DDB-33A5-4A48-ACF7-54CB4522E785"
+    ],
+    "studentInfoIdList": [
+      "FDA18B4A-4147-497B-8B99-771A78B392F4"
+    ],
+    "isValid": true,
+    "id": "881C61CB-3451-4CCA-8E59-76745C7B66C1",
+    "name": "Stanford ValleyCare Clinical Academy",
+    "displayName": "Stanford ValleyCare Clinical Academy",
+    "url": "https://med.stanford.edu/shvca/about.html",
+    "tagIdList": [
+      3
+    ],
+    "aliasList": [
+      "Stanford ValleyCare Clinical Academy"
+    ],
+    "urlList": [
+      "https://med.stanford.edu/shvca/about.html"
+    ],
+    "noteList": [
+      "Format TBD. May be in-person commuter or online."
+    ]
+  },
+  {
+    "topicIdList": [
+      151,
+      181,
+      182,
+      183,
+      184,
+      185,
+      186,
+      187,
+      188,
+      2,
+      189,
+      190,
+      14,
+      191,
+      192,
+      193,
+      194,
+      195,
+      196,
+      197,
+      198,
+      55,
+      199,
+      200,
+      201,
+      202,
+      203,
+      204
+    ],
+    "subjectIdList": [
+      3,
+      8,
+      33,
+      34,
+      22,
+      35,
+      36,
+      37
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "85B60127-52AB-4E44-80A2-51BAC1974D1F"
+    ],
+    "sessionIdList": [
+      "455009E3-7060-4E3F-94C2-DFBF761C0E15",
+      "64473010-45FB-43DF-B7BC-2474F4E732A9",
+      "E4A5532D-7D35-4D42-95A0-F7C147654584",
+      "0A8552C6-24A4-4600-8A43-528FE8467494"
+    ],
+    "applicationIdList": [
+      "AFDA498D-FFF3-42BE-A1DD-F4FFD20AD2BB",
+      "80EE56E3-B450-453B-9752-2400EBDE40A2",
+      "4FEF1B69-B1C7-4BFB-8F23-32AF3DE1161E"
+    ],
+    "studentInfoIdList": [
+      "996C1D9E-E2F5-42A7-81BA-4844BFC4C8AA"
+    ],
+    "isValid": true,
+    "id": "88366E28-7053-4833-AC71-F7C43D66D0F7",
+    "name": "The School of the New York Times - NYC Summer Academy",
+    "displayName": "The School of the New York Times - NYC Summer Academy",
+    "url": "https://nytedu.com/pre-college/summer-academy/nyc/",
+    "tagIdList": [
+      3,
+      4
+    ],
+    "aliasList": [
+      "The School of the New York Times - NYC Summer Academy"
+    ],
+    "urlList": [
+      "https://nytedu.com/pre-college/summer-academy/nyc/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      205
+    ],
+    "subjectIdList": [
+      14
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "ABE889E5-0DED-453F-A6AF-12F7F9825EA8"
+    ],
+    "sessionIdList": [
+      "B1CAA7F8-7F00-4011-97E3-40A3908BF816"
+    ],
+    "applicationIdList": [
+      "FA8DA68E-2752-42BA-9A13-5D37DCB6522C",
+      "C509E0BC-79D0-41D6-A25E-1BF57B8CD355",
+      "41B9660D-1052-41EC-9BF2-54AFF5A8C9F4"
+    ],
+    "studentInfoIdList": [
+      "2660ECA1-1C2B-4878-9FDA-AAB576D0685D"
+    ],
+    "isValid": true,
+    "id": "89687319-36E3-4602-B4DD-85BE51FBD4CD",
+    "name": "Stanford AI4ALL Summer Camp",
+    "displayName": "Stanford AI4ALL",
+    "url": "https://hai.stanford.edu/stanford-ai4all",
+    "tagIdList": [
+      4,
+      3
+    ],
+    "aliasList": [
+      "Stanford AI4ALL Summer Camp",
+      "Stanford AI4ALL"
+    ],
+    "urlList": [
+      "https://hai.stanford.edu/stanford-ai4all"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      10
+    ],
+    "subjectIdList": [],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "858BF71F-427B-42B8-89FA-D34B8F467582"
+    ],
+    "sessionIdList": [
+      "A715D060-1619-455B-A14E-553A9743AF93"
+    ],
+    "applicationIdList": [
+      "5BD6DD04-E6B9-4903-BA90-717E9E3EE8DC",
+      "481EE578-8ACD-4CEB-A4A6-D348943517F0"
+    ],
+    "studentInfoIdList": [
+      "770A6B73-BAF7-4CD7-9D97-077AE2058A53"
+    ],
+    "isValid": true,
+    "id": "8AE3A85C-6989-46FB-AA79-B194811DCD6F",
+    "name": "University of Chicago - China Emerging Leaders",
+    "displayName": "UChicago - China Emerging Leaders",
+    "url": "https://summer.uchicago.edu/programs/china-emerging-leaders",
+    "tagIdList": [
+      4,
+      3,
+      10
+    ],
+    "aliasList": [
+      "University of Chicago - China Emerging Leaders",
+      "UChicago - China Emerging Leaders"
+    ],
+    "urlList": [
+      "https://summer.uchicago.edu/programs/china-emerging-leaders"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      206,
+      207
+    ],
+    "subjectIdList": [
+      34
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "8DADBF91-9A22-4502-9523-867A41010A8F",
+      "47E94ED2-A724-4286-B731-8941BBE28E01",
+      "1098F138-9A38-454C-BDAA-76B28DBCE937"
+    ],
+    "sessionIdList": [
+      "A3EE394F-25C6-45CE-88DE-82941FD7C89B"
+    ],
+    "applicationIdList": [
+      "8AF07C93-9F15-47A1-9C9F-86A27B1204DC"
+    ],
+    "studentInfoIdList": [
+      "1190D5A5-9B07-4095-977B-E9491F08178B"
+    ],
+    "isValid": true,
+    "id": "8AF30CA2-B2A5-4325-B91D-2D4176663921",
+    "name": "Telluride Association Summer Seminars",
+    "displayName": "Telluride Association Summer Seminars (TASS)",
+    "url": "https://www.tellurideassociation.org/our-programs/high-school-students/",
+    "tagIdList": [
+      1,
+      10
+    ],
+    "aliasList": [
+      "Telluride Association Summer Seminars",
+      "Telluride Association Summer Seminars (TASS)"
+    ],
+    "urlList": [
+      "https://www.tellurideassociation.org/our-programs/high-school-students/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      138,
+      139,
+      208
+    ],
+    "subjectIdList": [
+      17
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "18877616-5371-4376-9900-99CEABC7E8C2"
+    ],
+    "sessionIdList": [
+      "E39F7812-6104-4FA2-9EF5-97EF5CB6B8D7"
+    ],
+    "applicationIdList": [
+      "C8410183-FF2B-4295-A590-D3F7B03C158F",
+      "03C5FBEA-B6BE-448A-ADAB-791F62619979",
+      "530659FD-E1A4-4090-A671-5C9F0C906610"
+    ],
+    "studentInfoIdList": [
+      "C0A457E4-CED5-4AA4-99B6-4805C12A6CD8"
+    ],
+    "isValid": true,
+    "id": "8CB29A9D-90B2-4057-B63A-8D47EAE63873",
+    "name": "Carnegie Mellon - Architecture Intensive",
+    "displayName": "Carnegie Mellon - Architecture",
+    "url": "https://www.cmu.edu/pre-college/academic-programs/architecture.html",
+    "tagIdList": [
+      3
+    ],
+    "aliasList": [
+      "Carnegie Mellon - Architecture Intensive",
+      "Carnegie Mellon - Architecture"
+    ],
+    "urlList": [
+      "https://www.cmu.edu/pre-college/academic-programs/architecture.html"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      209,
+      210,
+      211
+    ],
+    "subjectIdList": [
+      16
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "858BF71F-427B-42B8-89FA-D34B8F467582"
+    ],
+    "sessionIdList": [
+      "80585E88-E42B-4317-B8EA-42B3E4729497"
+    ],
+    "applicationIdList": [
+      "62F406F9-4785-4976-A628-55CB64A26088",
+      "430608CF-1F54-4507-A09A-339A1AC18C70",
+      "00C34D2A-B4EF-4800-8ECA-0AB82A96AB28",
+      "36895FE6-CABE-49B8-8CB2-3433076DA381"
+    ],
+    "studentInfoIdList": [
+      "6B30BD5C-E39B-41EE-9452-28139AE9CFEF"
+    ],
+    "isValid": true,
+    "id": "8ECBE87B-189A-428F-8FDA-DE8126DB4200",
+    "name": "University of Chicago - Stones and Bones",
+    "displayName": "UChicago - Stones and Bones",
+    "url": "https://summer.uchicago.edu/programs/stones-and-bones",
+    "tagIdList": [
+      4,
+      16
+    ],
+    "aliasList": [
+      "University of Chicago - Stones and Bones",
+      "UChicago - Stones and Bones"
+    ],
+    "urlList": [
+      "https://summer.uchicago.edu/programs/stones-and-bones"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [],
+    "programTypeIdList": [],
+    "orgIdList": [],
+    "sessionIdList": [],
+    "applicationIdList": [],
+    "studentInfoIdList": [],
+    "isValid": true,
+    "id": "8F1AF780-7E85-473C-842C-16C2F3D324DD",
+    "name": "UNKNOWN",
+    "displayName": "UNKNOWN",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [
+      12
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "304BF4E1-2C3E-4A4D-B066-A15EA25540D7"
+    ],
+    "sessionIdList": [
+      "5DBB4738-08B1-4D19-B4CB-16DBBA650D28"
+    ],
+    "applicationIdList": [
+      "3F9DA5A9-450E-45A3-A4C3-9484FF4BE497",
+      "1D24632A-BABC-4DB2-B642-14D206F144F4",
+      "3C455D7C-0470-4C2D-B43B-D571C3608237"
+    ],
+    "studentInfoIdList": [
+      "C4B1E3F3-E835-4F28-BE4C-E664F2F2C105"
+    ],
+    "isValid": true,
+    "id": "8F6B4BAD-9807-42C7-BA8F-16DA61F8C511",
+    "name": "NYU PreCollege",
+    "displayName": "NYU PreCollege",
+    "url": "https://www.nyu.edu/admissions/high-school-programs/precollege/summer-precollege.html",
+    "tagIdList": [
+      16
+    ],
+    "aliasList": [
+      "NYU PreCollege"
+    ],
+    "urlList": [
+      "https://www.nyu.edu/admissions/high-school-programs/precollege/summer-precollege.html",
+      "Course catalog: https://sis.nyu.edu/psc/csprod/EMPLOYEE/SA/c/NYU_SR.NYU_CLS_SRCH.GBL?\u0026Year=2021\u0026Search=SSSummer\u0026Summer=Y\u0026PGMS=PRECOLLEGE\u0026"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      1
+    ],
+    "subjectIdList": [
+      1,
+      38
+    ],
+    "programTypeIdList": [],
+    "orgIdList": [],
+    "sessionIdList": [],
+    "applicationIdList": [
+      "5AFDA242-093A-404B-B67C-223999E2EF7F"
+    ],
+    "studentInfoIdList": [
+      "B084B298-4422-4297-9D0F-EAED03953ADB"
+    ],
+    "isValid": true,
+    "id": "918980D6-677E-48B2-9F7E-DABD3FB47F9C",
+    "name": "Ross Mathematics Program",
+    "displayName": "Ross",
+    "url": null,
+    "tagIdList": [
+      5
+    ],
+    "aliasList": [
+      "Ross Mathematics Program",
+      "Ross"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      212,
+      213,
+      162,
+      114,
+      1,
+      214,
+      215,
+      74,
+      216,
+      28,
+      217,
+      218,
+      77,
+      66
+    ],
+    "subjectIdList": [
+      18,
+      9,
+      10,
+      16,
+      15,
+      5,
+      11
+    ],
+    "programTypeIdList": [
+      2,
+      1
+    ],
+    "orgIdList": [
+      "7968F1EB-DA56-4EC2-B05B-A1733E1AB6FB"
+    ],
+    "sessionIdList": [
+      "B1CE1248-117A-459B-B068-DD416F3EE78E",
+      "C183670A-9B30-4097-84AF-1CC279499A17",
+      "5368BBEF-FC11-4D4C-BBAC-D63FB8FC8939",
+      "30320BE3-9AAD-4BC3-80CA-A894422C3767",
+      "032906C3-AE9C-4E9B-B762-C942CBA41C3A"
+    ],
+    "applicationIdList": [],
+    "studentInfoIdList": [
+      "EDBE86A9-F083-4691-9333-9A3CDB5CBEED"
+    ],
+    "isValid": true,
+    "id": "92F5BEE0-E024-480F-BFDF-68E64F7D6525",
+    "name": "Illinois Tech Summer Programs",
+    "displayName": "Illinois Tech Summer Programs",
+    "url": "https://Illinois Tech Summer Programs",
+    "tagIdList": [],
+    "aliasList": [
+      "Illinois Tech Summer Programs"
+    ],
+    "urlList": [
+      "https://Illinois Tech Summer Programs"
+    ],
+    "noteList": [
+      "Registration will open in January 2022."
+    ]
+  },
+  {
+    "topicIdList": [
+      10,
+      38
+    ],
+    "subjectIdList": [
+      9
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "D50D356F-8C53-45D4-B45D-41DE54A2C332"
+    ],
+    "sessionIdList": [
+      "3B50E595-5DA8-4FC7-96D4-59A14E36923D",
+      "FBFEEE8C-6CCB-4CC5-94BF-58BBF650E0A2",
+      "D1B6AE50-5BBE-447C-A9FF-9ECA0BE88ACE",
+      "FAC2B2FA-759F-4BFE-9CD4-4B0D67B5E51D"
+    ],
+    "applicationIdList": [
+      "A73E9457-29B1-4DA5-A4B1-9CEC91F904E0"
+    ],
+    "studentInfoIdList": [],
+    "isValid": true,
+    "id": "95063134-C076-46A1-906A-95EF061DCAB9",
+    "name": "Indiana University Young Women\u0027s Institute",
+    "displayName": "Young Women\u0027s Institute",
+    "url": "https://kelley.iu.edu/programs/undergrad/pre-college/ywi.html",
+    "tagIdList": [
+      14,
+      3,
+      1,
+      10
+    ],
+    "aliasList": [
+      "Indiana University Young Women\u0027s Institute",
+      "Young Women\u0027s Institute"
+    ],
+    "urlList": [
+      "https://kelley.iu.edu/programs/undergrad/pre-college/ywi.html"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      32,
+      59
+    ],
+    "subjectIdList": [
+      7
+    ],
+    "programTypeIdList": [
+      6
+    ],
+    "orgIdList": [],
+    "sessionIdList": [
+      "9D6D28E7-435F-4DA5-A554-EB15B5C59CC0"
+    ],
+    "applicationIdList": [
+      "4489809A-F30A-4CE0-B65E-DBD1988EA6A0"
+    ],
+    "studentInfoIdList": [
+      "17684E68-13DD-40A9-9396-3FDE61BFB926"
+    ],
+    "isValid": true,
+    "id": "9720FF64-31F7-43A1-946E-4628E44589D7",
+    "name": "Stanford Institutes of Medicine Summer Research Program",
+    "displayName": "Stanford Institutes of Medicine Summer Research Program (SIMR)",
+    "url": null,
+    "tagIdList": [
+      7,
+      1,
+      3
+    ],
+    "aliasList": [
+      "Stanford Institutes of Medicine Summer Research Program",
+      "Stanford Institutes of Medicine Summer Research Program (SIMR)"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Selective ~50 participants per year.",
+      "Currently planning for in-person. May become online. Will decide by admission release date (4/7/2022).",
+      "Bay Area students strong preference."
+    ]
+  },
+  {
+    "topicIdList": [
+      219,
+      10
+    ],
+    "subjectIdList": [
+      39
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "2535967B-82DB-4037-B157-02BDB621A821",
+      "95F1B8CB-A11B-4113-AB5C-FE4C6DA5558D",
+      "E0DEA392-2328-48C5-95C0-E41D9FD8AD23",
+      "0BB266AA-D918-4355-9289-FEE241DADE0D"
+    ],
+    "sessionIdList": [
+      "79882F30-87E3-4189-8BDC-DCEBE6356168",
+      "5DA29CB6-D03C-48A2-A889-662D72D51608",
+      "63CEABF6-F3C8-4F5C-902A-C558289A69AE",
+      "832E6845-30CD-482B-AE26-A74155186D8A",
+      "0E4AC67F-2A94-4607-B06F-B1EC778F137F",
+      "EF5E274E-0A02-4DD0-8DD6-8C71A585AB35"
+    ],
+    "applicationIdList": [
+      "5D16F526-F6DB-44FA-A635-B4C32F251E40"
+    ],
+    "studentInfoIdList": [
+      "C83C1EA8-87DA-43F6-8363-54EABF57E1A6"
+    ],
+    "isValid": true,
+    "id": "97FF3004-840F-430A-BF93-9DA79C67184E",
+    "name": "National Student Leadership Conference - Biotechnology",
+    "displayName": "National Student Leadership Conference - Biotechnology",
+    "url": "https://www.nslcleaders.org/youth-leadership-programs/biotechnology/",
+    "tagIdList": [
+      4,
+      8,
+      3
+    ],
+    "aliasList": [
+      "National Student Leadership Conference - Biotechnology"
+    ],
+    "urlList": [
+      "https://www.nslcleaders.org/youth-leadership-programs/biotechnology/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      158,
+      220,
+      221,
+      222,
+      218,
+      223,
+      21,
+      224,
+      225,
+      226,
+      227,
+      228,
+      229,
+      230,
+      231,
+      232,
+      233,
+      121,
+      234,
+      47,
+      235
+    ],
+    "subjectIdList": [
+      19,
+      10,
+      16,
+      9
+    ],
+    "programTypeIdList": [
+      2,
+      1
+    ],
+    "orgIdList": [],
+    "sessionIdList": [],
+    "applicationIdList": [],
+    "studentInfoIdList": [
+      "702D01AF-23EB-4437-BFC6-2DAE0259F15F"
+    ],
+    "isValid": true,
+    "id": "9928DB46-F783-4E24-AB89-0B9FCD61E06D",
+    "name": "Boston Leadership Institute",
+    "displayName": "Boston Leadership Institute",
+    "url": "https://www.bostonleadershipinstitute.com/about-us/",
+    "tagIdList": [],
+    "aliasList": [
+      "Boston Leadership Institute"
+    ],
+    "urlList": [
+      "https://www.bostonleadershipinstitute.com/about-us/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      175,
+      166,
+      236,
+      237,
+      170,
+      238,
+      239,
+      167
+    ],
+    "subjectIdList": [
+      31
+    ],
+    "programTypeIdList": [
+      2,
+      3
+    ],
+    "orgIdList": [
+      "7F4C0554-D6AD-4837-811D-C0584EEE2DFD"
+    ],
+    "sessionIdList": [],
+    "applicationIdList": [
+      "F6F31F96-1B00-4B2F-9C4F-D4BDC190B254"
+    ],
+    "studentInfoIdList": [
+      "DDBA1710-F5CE-4C22-9E71-5C30FC89193A"
+    ],
+    "isValid": true,
+    "id": "999A68FB-642B-41BE-A8EF-BD3FAC9D4D5E",
+    "name": "National Security Language Initiative for Youth",
+    "displayName": "National Security Language Initiative for Youth (NSLI-Y)",
+    "url": "https://www.nsliforyouth.org/",
+    "tagIdList": [
+      7,
+      1,
+      9
+    ],
+    "aliasList": [
+      "National Security Language Initiative for Youth",
+      "National Security Language Initiative for Youth (NSLI-Y)"
+    ],
+    "urlList": [
+      "https://www.nsliforyouth.org/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      22,
+      240,
+      32,
+      25
+    ],
+    "subjectIdList": [
+      7
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "806F36B7-2614-4D66-83A1-ED93B048DD19"
+    ],
+    "sessionIdList": [
+      "091FE315-A614-441B-A90F-6E6DC1F6D6A4"
+    ],
+    "applicationIdList": [
+      "2E07EBB1-4DD5-46B7-97FE-674A429BB7CB"
+    ],
+    "studentInfoIdList": [
+      "8D2DCAD4-EC52-44D9-B6DE-D3E5027601DF"
+    ],
+    "isValid": true,
+    "id": "9A6AB2C5-D554-4D50-940E-ABC7ECE44AEF",
+    "name": "UC Davis Young Scholars Program",
+    "displayName": "UC Davis Young Scholars Program (YSP)",
+    "url": "https://ysprogram.ucdavis.edu/",
+    "tagIdList": [
+      10,
+      1
+    ],
+    "aliasList": [
+      "UC Davis Young Scholars Program",
+      "UC Davis Young Scholars Program (YSP)"
+    ],
+    "urlList": [
+      "https://ysprogram.ucdavis.edu/"
+    ],
+    "noteList": [
+      "Highly Selective. 10-12% of applicants. 40 participants per year."
+    ]
+  },
+  {
+    "topicIdList": [
+      156,
+      52
+    ],
+    "subjectIdList": [
+      7
+    ],
+    "programTypeIdList": [
+      2,
+      6
+    ],
+    "orgIdList": [
+      "6FD6DEB2-99E2-40C5-B1DF-A5E04DD118EB"
+    ],
+    "sessionIdList": [
+      "EB6D6D1A-7F4E-4CF4-A229-66C845A63B86",
+      "0C466430-2F18-4BB8-88EF-7936570B8CD6",
+      "20CCC1F8-9E9D-4255-A1D4-EDEB0E274EFF",
+      "F257C889-5E3A-4AD9-83EA-D5E574319F3B"
+    ],
+    "applicationIdList": [
+      "5DBB79B3-E5F6-4A82-81F2-A93576E06297",
+      "E32A3625-D89D-425E-9E6C-C1157C260EFD"
+    ],
+    "studentInfoIdList": [
+      "37FFF20A-CA0C-461F-9DC2-980EE9CC1EAB"
+    ],
+    "isValid": true,
+    "id": "9AFC5408-E08E-4E7D-8A69-2772E16F53E4",
+    "name": "The Concord Review History Camp",
+    "displayName": "The Concord Review History Camp",
+    "url": "https://tcr.org/summer/",
+    "tagIdList": [
+      1,
+      4
+    ],
+    "aliasList": [
+      "The Concord Review History Camp"
+    ],
+    "urlList": [
+      "https://tcr.org/summer/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      23,
+      241,
+      242,
+      243,
+      73,
+      120,
+      125,
+      13,
+      244,
+      245,
+      246,
+      62,
+      55,
+      247,
+      57,
+      248,
+      249,
+      103,
+      20,
+      66,
+      151,
+      250,
+      251,
+      252,
+      253,
+      254
+    ],
+    "subjectIdList": [
+      12
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "7749EFAF-5769-421B-8954-3F62E49405CF"
+    ],
+    "sessionIdList": [
+      "A46E2AED-6868-4D7B-9112-16A0CFE7EE00"
+    ],
+    "applicationIdList": [
+      "F853414C-8279-40A6-B119-C74538D7E8F4"
+    ],
+    "studentInfoIdList": [
+      "EF7C6398-6CF6-40B8-B077-D1AC2B34735E"
+    ],
+    "isValid": true,
+    "id": "9BD01853-9C67-49B4-AEA0-1308F863452C",
+    "name": "Notre Dame Summer Scholars",
+    "displayName": "Notre Dame Summer Scholars",
+    "url": null,
+    "tagIdList": [
+      16
+    ],
+    "aliasList": [
+      "Notre Dame Summer Scholars"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      255,
+      256,
+      257,
+      258,
+      259,
+      260,
+      109,
+      261,
+      262,
+      141,
+      125,
+      263,
+      264,
+      265,
+      266,
+      267,
+      243,
+      268,
+      269,
+      270,
+      49,
+      218,
+      271,
+      95,
+      272,
+      273
+    ],
+    "subjectIdList": [
+      12
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "858BF71F-427B-42B8-89FA-D34B8F467582"
+    ],
+    "sessionIdList": [
+      "D035275A-CE64-48F4-839F-4E0650593C34",
+      "A111FA53-09CA-4166-A5D7-9642075CA191",
+      "675DE37B-48D3-4D54-BBC3-1BB5147BA8C7"
+    ],
+    "applicationIdList": [
+      "069E8556-6667-4720-ADF0-A1A222473EB7",
+      "BDC3DE39-4F81-41B5-8E3F-1BBAB8AA3054",
+      "8ACC80E2-5FC6-48C3-9144-F3A3B33EE1FF",
+      "5F4DD446-A924-4321-8F65-E9842FF3B9AF"
+    ],
+    "studentInfoIdList": [
+      "F60B0BFE-F16A-46B9-847D-617CBCDDCE76"
+    ],
+    "isValid": true,
+    "id": "9EF7E7BB-5B31-4D90-94E7-D0F8F8746BB2",
+    "name": "University of Chicago - Summer College",
+    "displayName": "UChicago - Summer College",
+    "url": "Course finder: https://summer.uchicago.edu/course-finder",
+    "tagIdList": [
+      3
+    ],
+    "aliasList": [
+      "University of Chicago - Summer College",
+      "UChicago - Summer College"
+    ],
+    "urlList": [
+      "Course finder: https://summer.uchicago.edu/course-finder",
+      "https://summer.uchicago.edu/programs/summer-college"
+    ],
+    "noteList": [
+      "*N.B. Summer College is usually residential, however it is ONLINE for 2022. However, it is not to be confused with Summer Online. Summer College is for 11th and 12th grade students. Summer Online is for 9th, 10th, and 11th grade students. Both are non-credit. There is no course overlap."
+    ]
+  },
+  {
+    "topicIdList": [
+      274
+    ],
+    "subjectIdList": [
+      40,
+      14
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "ABE889E5-0DED-453F-A6AF-12F7F9825EA8"
+    ],
+    "sessionIdList": [
+      "4A2CEC37-FE2B-4D70-AA83-60089867F240",
+      "7CA4C985-174C-44DF-B351-3571DF36F442"
+    ],
+    "applicationIdList": [
+      "D3B30ADD-58A3-4EEB-926E-866A9652E457"
+    ],
+    "studentInfoIdList": [
+      "1D99258C-2678-4B7A-BEE7-9F65DFD4683F"
+    ],
+    "isValid": true,
+    "id": "A042FF65-2BE0-4C89-92F1-24556084968A",
+    "name": "Stanford Introduction to Logic Summer Camp",
+    "displayName": "Stanford Intrologic Summer Camp",
+    "url": "https://intrologic.stanford.edu/homepage/index.html",
+    "tagIdList": [
+      4,
+      3
+    ],
+    "aliasList": [
+      "Stanford Introduction to Logic Summer Camp",
+      "Stanford Intrologic Summer Camp"
+    ],
+    "urlList": [
+      "https://intrologic.stanford.edu/homepage/index.html"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      10,
+      161
+    ],
+    "subjectIdList": [
+      9,
+      41
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "95F1B8CB-A11B-4113-AB5C-FE4C6DA5558D",
+      "B3516134-8042-403E-8F44-B1E1232BAF01",
+      "E0DEA392-2328-48C5-95C0-E41D9FD8AD23",
+      "4F07BE33-D0E9-458D-BF95-120951C07728",
+      "0BB266AA-D918-4355-9289-FEE241DADE0D"
+    ],
+    "sessionIdList": [
+      "72C95D2A-93A6-4F5D-AF45-D04223CB9010",
+      "C5E7BC14-94D7-4E2D-850F-24A5F19DC3E7",
+      "26161CFB-95FB-4119-9598-5D70B8CCCC23",
+      "36017711-72A5-440A-8208-E6FE770F40F1",
+      "104B5D1B-D6E9-4560-9E06-7111FB2F59D9",
+      "3E218DFF-9256-41E1-8B7C-99B8817A458C",
+      "082998A5-73C4-44F3-B02D-D13F86B4FCF2",
+      "653294AB-12EF-4E25-AC7A-794B6F98548A",
+      "E7083C71-6C0D-4857-BC73-D533651567F8",
+      "6E4D5315-B166-4012-B12C-72D36F5727C6"
+    ],
+    "applicationIdList": [
+      "B5439FCB-68F6-437F-8CC2-A9FB7E7E195E"
+    ],
+    "studentInfoIdList": [
+      "CD4E9C0F-5777-4E6F-9358-35335A460F75"
+    ],
+    "isValid": true,
+    "id": "A0C51872-BDE8-4359-B7BA-FFCAF0FA810E",
+    "name": "National Student Leadership Conference - Business and Entrepreneurship",
+    "displayName": "National Student Leadership Conference - Business and Entrepreneurship",
+    "url": "https://www.nslcleaders.org/youth-leadership-programs/business-entrepreneurship/",
+    "tagIdList": [
+      4,
+      3,
+      8
+    ],
+    "aliasList": [
+      "National Student Leadership Conference - Business and Entrepreneurship"
+    ],
+    "urlList": [
+      "https://www.nslcleaders.org/youth-leadership-programs/business-entrepreneurship/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      10
+    ],
+    "subjectIdList": [
+      9
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "A4DA9BA6-EBB1-4861-9386-CEEC4E71C645"
+    ],
+    "sessionIdList": [
+      "2759A370-CC13-4E3D-AB13-3FA5C03C0A9B",
+      "0D4C9959-AABF-4A75-A3C5-77585703F175",
+      "BC690032-6659-4834-9195-CEB1134A94E1"
+    ],
+    "applicationIdList": [
+      "92FE622F-F099-466B-AC63-E723B3B9ED79",
+      "D49770A2-4312-430E-818E-B8350D354D05"
+    ],
+    "studentInfoIdList": [
+      "F6B96F22-33CA-4029-BEB1-1150D4F68604"
+    ],
+    "isValid": true,
+    "id": "A10C1F35-257E-4F9B-9AA5-3E54C489AFE0",
+    "name": "UPenn - Leadership in the Business World",
+    "displayName": "Leadership in the Business World",
+    "url": "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/",
+    "tagIdList": [
+      1,
+      3
+    ],
+    "aliasList": [
+      "UPenn - Leadership in the Business World",
+      "Leadership in the Business World",
+      "UPenn Leadership in the Business World",
+      "UNKNOWN"
+    ],
+    "urlList": [
+      "https://globalyouth.wharton.upenn.edu/programs-courses/leadership-in-the-business-world/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "4D5274D6-A2BA-4BE0-A915-F29C59F8F212"
+    ],
+    "sessionIdList": [
+      "65D1835D-BA9B-4903-B0F2-7C32D471D2DE"
+    ],
+    "applicationIdList": [
+      "F81AF46D-DD1C-4CDF-9577-A2793DDCA17E"
+    ],
+    "studentInfoIdList": [
+      "C3CA7851-9813-4A88-8E64-6E7D7363826D"
+    ],
+    "isValid": true,
+    "id": "A24246E6-F3A4-496C-AAC4-1BAC305D6735",
+    "name": "Boston University Research in Science and Engineering",
+    "displayName": "Research in Science and Engineering (RISE) Internship and Practicum",
+    "url": "https://www.bu.edu/summer/high-school-programs/rise-internship-practicum/how-to-apply/",
+    "tagIdList": [
+      7,
+      1,
+      5
+    ],
+    "aliasList": [
+      "Boston University Research in Science and Engineering",
+      "Research in Science and Engineering (RISE) Internship and Practicum",
+      "Research in Science and Engineering (RISE)"
+    ],
+    "urlList": [
+      "https://www.bu.edu/summer/high-school-programs/rise-internship-practicum/how-to-apply/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      161,
+      10
+    ],
+    "subjectIdList": [
+      9
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "8963669D-8D40-4F8E-9110-9B083CDD0095",
+      "0BB266AA-D918-4355-9289-FEE241DADE0D"
+    ],
+    "sessionIdList": [
+      "69ADB3A8-0A6F-47E5-8C31-C66EB92429DA"
+    ],
+    "applicationIdList": [
+      "4F63DF06-6EEE-43BA-82AB-DD00E12ABD43"
+    ],
+    "studentInfoIdList": [
+      "6805CF6F-2060-4411-A4D5-94ACC3B8B4A4"
+    ],
+    "isValid": true,
+    "id": "A2FB7F1C-0A6C-4842-B77E-17E2348D236E",
+    "name": "National Student Leadership Conference - Business Intensive",
+    "displayName": "National Student Leadership Conference - Business Intensive",
+    "url": "https://www.nslcleaders.org/youth-leadership-programs/business-intensive/",
+    "tagIdList": [
+      3,
+      8,
+      4
+    ],
+    "aliasList": [
+      "National Student Leadership Conference - Business Intensive"
+    ],
+    "urlList": [
+      "https://www.nslcleaders.org/youth-leadership-programs/business-intensive/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      22,
+      131,
+      275
+    ],
+    "subjectIdList": [],
+    "programTypeIdList": [],
+    "orgIdList": [],
+    "sessionIdList": [
+      "3779047E-5562-4297-BEF9-775F1014DEF4"
+    ],
+    "applicationIdList": [
+      "E95239FD-9631-4182-8221-30B81A0778AC",
+      "2149760C-E560-43D5-A9F7-498A63BDA0D9"
+    ],
+    "studentInfoIdList": [],
+    "isValid": true,
+    "id": "A529B321-852E-4485-AA02-4C36E0339D7B",
+    "name": "Summer STEM Institute",
+    "displayName": "Summer STEM Institute",
+    "url": "https://www.summersteminstitute.org/",
+    "tagIdList": [
+      5,
+      1
+    ],
+    "aliasList": [
+      "Summer STEM Institute"
+    ],
+    "urlList": [
+      "https://www.summersteminstitute.org/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      276,
+      277,
+      102,
+      278,
+      16
+    ],
+    "subjectIdList": [
+      2,
+      16,
+      18
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [],
+    "sessionIdList": [
+      "987D9284-AB12-4C31-9B23-85A2D419B44C",
+      "5CC037DA-0E4E-47B9-A26F-23F7AAFE2B62"
+    ],
+    "applicationIdList": [],
+    "studentInfoIdList": [
+      "6B4EC8CF-93B1-49A8-99D0-6F6D224CD9C7"
+    ],
+    "isValid": true,
+    "id": "A704255B-5C2D-4CBD-813B-4276EBC71434",
+    "name": "Forsythe Student Scholars International Remote Science Camps",
+    "displayName": "Forsythe Remote Science Camps (for Chinese Students)",
+    "url": null,
+    "tagIdList": [
+      8
+    ],
+    "aliasList": [
+      "Forsythe Student Scholars International Remote Science Camps",
+      "Forsythe Remote Science Camps (for Chinese Students)"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [],
+    "programTypeIdList": [],
+    "orgIdList": [],
+    "sessionIdList": [],
+    "applicationIdList": [
+      "F0E0219A-060C-43BD-873D-F15065E72D70"
+    ],
+    "studentInfoIdList": [
+      "A899DF30-6EB3-4BC3-B2B0-0D573A56DAD4"
+    ],
+    "isValid": true,
+    "id": "AB3AF51B-CC43-402F-B970-4CCA5D4E4384",
+    "name": "Stanford Earth Young Investigators",
+    "displayName": "Stanford Earth Young Investigators",
+    "url": "https://earth.stanford.edu/academics/young-investigators#gs.lm3bhb",
+    "tagIdList": [
+      20,
+      10,
+      1
+    ],
+    "aliasList": [
+      "Stanford Earth Young Investigators"
+    ],
+    "urlList": [
+      "https://earth.stanford.edu/academics/young-investigators#gs.lm3bhb"
+    ],
+    "noteList": [
+      "Bay Area students ONLY.",
+      "2022 information will be released 2/1/2022."
+    ]
+  },
+  {
+    "topicIdList": [
+      2,
+      110,
+      109,
+      112,
+      279,
+      200,
+      280
+    ],
+    "subjectIdList": [
+      3
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "D22E1F66-AC39-4DA9-A15E-8C29F2772FD3"
+    ],
+    "sessionIdList": [
+      "ADB8ADB0-F7F2-411D-B50A-E27C6E2E3E86"
+    ],
+    "applicationIdList": [
+      "F581620C-A201-4A1E-B781-2D938FE65657",
+      "67338E4D-95FD-4741-96B9-AF600430D089"
+    ],
+    "studentInfoIdList": [
+      "FE4D0AD4-5F35-4503-A2A7-6CBFBA7C3C85"
+    ],
+    "isValid": true,
+    "id": "AE22F68F-222F-4681-AADD-F8419722B368",
+    "name": "Smith - Creative Writing Workshop",
+    "displayName": "Creative Writing Workshop",
+    "url": "https://www.smith.edu/academics/precollege-programs/creative-writing",
+    "tagIdList": [
+      4,
+      3,
+      14
+    ],
+    "aliasList": [
+      "Smith - Creative Writing Workshop",
+      "Creative Writing Workshop"
+    ],
+    "urlList": [
+      "https://www.smith.edu/academics/precollege-programs/creative-writing"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [
+      8
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "8963669D-8D40-4F8E-9110-9B083CDD0095",
+      "0BB266AA-D918-4355-9289-FEE241DADE0D"
+    ],
+    "sessionIdList": [
+      "F9755F1E-479E-46BB-900C-0463FCEA7CD3"
+    ],
+    "applicationIdList": [
+      "65F8F57D-3A6F-4944-A01C-57CB30309190"
+    ],
+    "studentInfoIdList": [
+      "3757C1CF-1B34-4B0B-84DA-596D9C675A84"
+    ],
+    "isValid": true,
+    "id": "B113A703-B780-4DC6-A802-3F07C36302F0",
+    "name": "National Student Leadership Conference - Law Intensive",
+    "displayName": "National Student Leadership Conference - Law Intensive",
+    "url": "https://www.nslcleaders.org/youth-leadership-programs/law-intensive/",
+    "tagIdList": [
+      4,
+      8,
+      3
+    ],
+    "aliasList": [
+      "National Student Leadership Conference - Law Intensive"
+    ],
+    "urlList": [
+      "https://www.nslcleaders.org/youth-leadership-programs/law-intensive/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      2,
+      281,
+      282
+    ],
+    "subjectIdList": [
+      18,
+      9,
+      42
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "4D5274D6-A2BA-4BE0-A915-F29C59F8F212"
+    ],
+    "sessionIdList": [
+      "1F7D0278-EDB7-465F-90A4-382152DE91C1"
+    ],
+    "applicationIdList": [
+      "384952E8-74FA-40C0-B63F-02D4CCEF2D17"
+    ],
+    "studentInfoIdList": [
+      "A5CDBEAF-49AF-48E6-86E8-246F0C14E45E"
+    ],
+    "isValid": true,
+    "id": "B2210AAF-43FB-4592-85B3-0CDCAAB003AC",
+    "name": "Boston University Summer Preview Program",
+    "displayName": "Boston University Summer Preview",
+    "url": null,
+    "tagIdList": [
+      4,
+      8
+    ],
+    "aliasList": [
+      "Boston University Summer Preview Program",
+      "Boston University Summer Preview"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      283,
+      284,
+      285,
+      242,
+      286,
+      287,
+      117,
+      211,
+      288,
+      27,
+      289,
+      290,
+      99,
+      291,
+      292,
+      293,
+      294,
+      295,
+      296
+    ],
+    "subjectIdList": [
+      1,
+      16
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "47E94ED2-A724-4286-B731-8941BBE28E01"
+    ],
+    "sessionIdList": [
+      "9DE41F9A-ABE8-4D11-9D4B-31628A7EBB36",
+      "E4D15E57-4C1A-430F-8860-FE220D2AD272",
+      "CD2D1356-DB60-4546-8413-C91241CC0A8F"
+    ],
+    "applicationIdList": [
+      "953BD703-A9FB-4BDF-9193-B603DD3E045E"
+    ],
+    "studentInfoIdList": [
+      "6C686E12-9193-4E95-B4ED-F1A7B576AB0E"
+    ],
+    "isValid": true,
+    "id": "B23FECC7-3179-4355-AC30-54DB0808EBE0",
+    "name": "University of Michigan Math and Science Scholars",
+    "displayName": "Michigan Math and Science Scholars (MMSS)",
+    "url": "https://sites.lsa.umich.edu/mmss/",
+    "tagIdList": [],
+    "aliasList": [
+      "University of Michigan Math and Science Scholars",
+      "Michigan Math and Science Scholars (MMSS)",
+      "Michigan Math and Science Scholars"
+    ],
+    "urlList": [
+      "https://sites.lsa.umich.edu/mmss/",
+      "2022 Course List: https://sites.lsa.umich.edu/mmss/all-courses/"
+    ],
+    "noteList": [
+      "Students can attend multiple sessions. Students take only 1 course per session."
+    ]
+  },
+  {
+    "topicIdList": [
+      66,
+      297,
+      103
+    ],
+    "subjectIdList": [
+      7
+    ],
+    "programTypeIdList": [
+      6
+    ],
+    "orgIdList": [
+      "ABE889E5-0DED-453F-A6AF-12F7F9825EA8"
+    ],
+    "sessionIdList": [
+      "3E4AA318-B6CF-4BB2-AFE1-F6CBB25BCE41",
+      "5E0A370C-5CCF-4C55-AE0D-7E3D3BCF0625"
+    ],
+    "applicationIdList": [
+      "26CBFBAB-63EF-4D54-B296-23F55DC711A7"
+    ],
+    "studentInfoIdList": [
+      "993BCE0B-DB80-46FC-98B2-7D92B56F14B4"
+    ],
+    "isValid": true,
+    "id": "B2BF63F9-3B4F-4029-9AAA-9B56C7AD75A2",
+    "name": "Stanford Clinical Neuroscience Immersion Experience",
+    "displayName": "Stanford Clinical Neuroscience Immersion Experience (CNI-X)",
+    "url": "https://med.stanford.edu/content/sm/psychiatry/special-initiatives/CNIX.html.html",
+    "tagIdList": [
+      1,
+      3
+    ],
+    "aliasList": [
+      "Stanford Clinical Neuroscience Immersion Experience",
+      "Stanford Clinical Neuroscience Immersion Experience (CNI-X)"
+    ],
+    "urlList": [
+      "https://med.stanford.edu/content/sm/psychiatry/special-initiatives/CNIX.html.html",
+      "https://file:///C:/Users/BethL/Downloads/CNIX-2022-FAQs-12.13.21.pdf"
+    ],
+    "noteList": [
+      "Due to pandemic uncertainties, in 2022 preference being given to local students who can commute.",
+      "Very unusual application. \u0022We do not require or accept recommendations letters, grades, or transcripts as part of our application. We do require that you write an essay, described in the application, about your interest in CNIX.\u0022"
+    ]
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "667B28A6-88AB-413E-91F4-7C37ECE87E03"
+    ],
+    "sessionIdList": [
+      "3B96FAF5-2AA3-4B85-833F-F680BB5DE436"
+    ],
+    "applicationIdList": [
+      "1D1DFFCA-971A-4E18-B265-BAA9181EE2DD"
+    ],
+    "studentInfoIdList": [
+      "1EAA108E-2445-464D-AEE1-0349BCEA8339"
+    ],
+    "isValid": true,
+    "id": "B50D7016-AD70-4071-B316-D8C8F8528961",
+    "name": "Texas State Honors Summer Math Camp",
+    "displayName": "Honors Summer Math Camp (HSMC)",
+    "url": "https://www.txstate.edu/mathworks/camps/Summer-Math-Camps-Information/hsmc/Honors-Summer-Math-Camp-Information-.html",
+    "tagIdList": [
+      5,
+      1
+    ],
+    "aliasList": [
+      "Texas State Honors Summer Math Camp",
+      "Honors Summer Math Camp (HSMC)",
+      "HSMC"
+    ],
+    "urlList": [
+      "https://www.txstate.edu/mathworks/camps/Summer-Math-Camps-Information/hsmc/Honors-Summer-Math-Camp-Information-.html"
+    ],
+    "noteList": [
+      "There is a new student program (acceptance rate for first-year applicants 20%) as well as returning student program. The returning student program is focused on mentor-led research."
+    ]
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [],
+    "programTypeIdList": [],
+    "orgIdList": [],
+    "sessionIdList": [],
+    "applicationIdList": [],
+    "studentInfoIdList": [],
+    "isValid": true,
+    "id": "B54995EE-9AF8-43AA-8B00-0720F08B5E1C",
+    "name": "Yale Young Global Scholars",
+    "displayName": "Yale Young Global Scholars (YYGS)",
+    "url": "https://globalscholars.yale.edu/",
+    "tagIdList": [
+      1
+    ],
+    "aliasList": [
+      "Yale Young Global Scholars",
+      "Yale Young Global Scholars (YYGS)"
+    ],
+    "urlList": [
+      "https://globalscholars.yale.edu/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      286,
+      59,
+      298
+    ],
+    "subjectIdList": [
+      19,
+      16
+    ],
+    "programTypeIdList": [
+      6
+    ],
+    "orgIdList": [
+      "ABE889E5-0DED-453F-A6AF-12F7F9825EA8"
+    ],
+    "sessionIdList": [
+      "216C37DD-1EBB-4944-9221-5DFCC702CC0F",
+      "7AE716F8-7C46-46D2-A365-14F8879C3D85"
+    ],
+    "applicationIdList": [
+      "1C56A52D-65C5-4E2C-A038-D769D9920528"
+    ],
+    "studentInfoIdList": [
+      "31626DCF-0314-4B37-9016-02346B593317"
+    ],
+    "isValid": true,
+    "id": "B63C5DFF-36B5-4ADC-B508-9A8F274F819F",
+    "name": "Stanford Medicine High School Student Summer Internship",
+    "displayName": "Stanford Medicine High School Student Summer Internship",
+    "url": "https://med.stanford.edu/cssec/summer-internship.html",
+    "tagIdList": [
+      20
+    ],
+    "aliasList": [
+      "Stanford Medicine High School Student Summer Internship",
+      "Stanford Medicine - High School Student Summer Internship"
+    ],
+    "urlList": [
+      "https://med.stanford.edu/cssec/summer-internship.html"
+    ],
+    "noteList": [
+      "Due to pandemic (and format uncertainties), in 2022 preference being given to local students."
+    ]
+  },
+  {
+    "topicIdList": [
+      299,
+      300,
+      301
+    ],
+    "subjectIdList": [
+      12
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "3DD09DEC-3465-4725-A6A5-198EF956FCD9"
+    ],
+    "sessionIdList": [
+      "BAD03974-326D-4975-A429-E24EBF279401"
+    ],
+    "applicationIdList": [
+      "CDE0E0C1-A515-4472-ADEC-198F38A8A751"
+    ],
+    "studentInfoIdList": [
+      "22E06ADA-7A0C-45A1-B476-504AD63604D8"
+    ],
+    "isValid": true,
+    "id": "B6652468-C916-4519-8A18-D4DAEF729C8E",
+    "name": "University of Virgina - Advance: Summer College Experience for Talented High School Students",
+    "displayName": "Advance: Summer College Experience for Talented High School Students",
+    "url": "https://summer.virginia.edu/uva-advance",
+    "tagIdList": [
+      16
+    ],
+    "aliasList": [
+      "University of Virgina - Advance: Summer College Experience for Talented High School Students",
+      "Advance: Summer College Experience for Talented High School Students",
+      "University of Virigina - Advance: Summer College Experience for Talented High School Students"
+    ],
+    "urlList": [
+      "https://summer.virginia.edu/uva-advance"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      147,
+      302,
+      303
+    ],
+    "subjectIdList": [
+      19
+    ],
+    "programTypeIdList": [
+      2,
+      6
+    ],
+    "orgIdList": [
+      "ABE889E5-0DED-453F-A6AF-12F7F9825EA8"
+    ],
+    "sessionIdList": [
+      "6A81E8AD-95D7-4F40-9782-00935FA4F40B",
+      "6FDA226B-8CB8-457B-A888-8D22847B78E2",
+      "17D7099C-0231-4229-9BBE-2507D2827E12"
+    ],
+    "applicationIdList": [
+      "7E467D25-D3FF-4EF2-8991-8D7DCE53FCD9",
+      "DBD86780-1A9B-4BB9-84C8-DBE7182E2E15"
+    ],
+    "studentInfoIdList": [
+      "8F5E8884-294A-4FE8-89E6-1272911FAF79"
+    ],
+    "isValid": true,
+    "id": "B817E709-93F4-4B97-AA95-F4D5457924C7",
+    "name": "Stanford Medicine Clinical Science, Technology and Medicine Summer Internship",
+    "displayName": "Stanford Medicine Clinical Science, Technology and Medicine Summer Internship",
+    "url": "https://med.stanford.edu/anesthesia/education/SASI.html",
+    "tagIdList": [
+      20,
+      1
+    ],
+    "aliasList": [
+      "Stanford Medicine Clinical Science, Technology and Medicine Summer Internship"
+    ],
+    "urlList": [
+      "https://med.stanford.edu/anesthesia/education/SASI.html"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      304
+    ],
+    "subjectIdList": [
+      1
+    ],
+    "programTypeIdList": [
+      4
+    ],
+    "orgIdList": [
+      "3273EE6E-DF1B-46DB-AA6F-21476FAD9B33"
+    ],
+    "sessionIdList": [
+      "15A15211-19C3-4C7C-B629-1DB0325E7A2F"
+    ],
+    "applicationIdList": [
+      "C78877FE-8472-419A-A695-7849E08ECB4D"
+    ],
+    "studentInfoIdList": [
+      "50B0F831-8014-4424-B591-DDDF4E03C839"
+    ],
+    "isValid": true,
+    "id": "BB765331-38A1-4D84-B433-848B348233E2",
+    "name": "Rutgers Young Scholars Program in Discrete Mathematics",
+    "displayName": "Rutgers Young Scholars Program in Discrete Mathematics",
+    "url": "https://archive.dimacs.rutgers.edu/ysp/",
+    "tagIdList": [
+      2
+    ],
+    "aliasList": [
+      "Rutgers Young Scholars Program in Discrete Mathematics",
+      "UNKNOWN"
+    ],
+    "urlList": [
+      "https://archive.dimacs.rutgers.edu/ysp/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      35,
+      218,
+      74,
+      305,
+      34,
+      72,
+      306,
+      73,
+      307,
+      240,
+      129,
+      308,
+      309,
+      59,
+      7,
+      310,
+      311,
+      312,
+      313,
+      314,
+      315,
+      316,
+      317,
+      242,
+      66,
+      297,
+      243
+    ],
+    "subjectIdList": [
+      7
+    ],
+    "programTypeIdList": [
+      2,
+      1
+    ],
+    "orgIdList": [
+      "51148AB8-9713-4EBA-AA88-7F1AFAE7CF13"
+    ],
+    "sessionIdList": [
+      "297D5B1E-62DD-4691-AEEA-1A0656774B0A",
+      "26EAD43E-2EB2-49B7-9CD1-D60D80C97EBE"
+    ],
+    "applicationIdList": [
+      "E1B43133-9507-4861-856B-9AE055283769"
+    ],
+    "studentInfoIdList": [
+      "E614DD78-60AE-43C4-B48B-791D6D9919AA"
+    ],
+    "isValid": true,
+    "id": "BB7F3E8F-E18D-407B-96E3-66C3CB50C281",
+    "name": "Secondary Student Training Program",
+    "displayName": "Secondary Student Training Program",
+    "url": "https://belinblank.education.uiowa.edu/students/sstp/",
+    "tagIdList": [
+      1,
+      4
+    ],
+    "aliasList": [
+      "Secondary Student Training Program"
+    ],
+    "urlList": [
+      "https://belinblank.education.uiowa.edu/students/sstp/"
+    ],
+    "noteList": [
+      "International students may only apply to online format."
+    ]
+  },
+  {
+    "topicIdList": [
+      318,
+      153,
+      319,
+      320,
+      321,
+      322,
+      323,
+      55
+    ],
+    "subjectIdList": [
+      43,
+      35,
+      3,
+      37
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "85B60127-52AB-4E44-80A2-51BAC1974D1F"
+    ],
+    "sessionIdList": [
+      "9E1A6B0E-BD61-40D3-B59E-29C3EFC8226E",
+      "49A782FA-E0E7-427A-9A31-EF4CD7AD4E09",
+      "21C862AF-9ECC-4DA5-9665-5EA542621E2A",
+      "C68E6929-822E-46CB-B153-28768D4216FF"
+    ],
+    "applicationIdList": [
+      "F9A9F606-E0CC-45B4-B4C0-DFFA0D4B6220",
+      "9D2D0050-1354-4CAB-AB5A-9E5A3B1F4D8A",
+      "93BF0FF8-0813-421C-A0F0-F33CF5FB8298"
+    ],
+    "studentInfoIdList": [
+      "B6C7FC2C-C436-4C6E-A982-EF4177C3DBDA"
+    ],
+    "isValid": true,
+    "id": "BDD57773-7BC8-4CC1-A9C5-7B6DCBC74D48",
+    "name": "The School of the New York Times - Washington, DC Summer Academy",
+    "displayName": "The School of the New York Times - Washington, DC Summer Academy",
+    "url": "https://nytedu.com/pre-college/summer-academy/dc/experience/",
+    "tagIdList": [
+      3,
+      4
+    ],
+    "aliasList": [
+      "The School of the New York Times - Washington, DC Summer Academy"
+    ],
+    "urlList": [
+      "https://nytedu.com/pre-college/summer-academy/dc/experience/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      10
+    ],
+    "subjectIdList": [
+      9
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "A4DA9BA6-EBB1-4861-9386-CEEC4E71C645"
+    ],
+    "sessionIdList": [
+      "BFD47698-BCCB-4050-836B-98E7F0373AC6",
+      "C8B5DED5-95F4-44CD-AAF0-B051622356C1",
+      "770D498A-51D0-4131-8ADA-01360D878642",
+      "C49D2A29-5729-4F6F-9508-20FC4D741CAA"
+    ],
+    "applicationIdList": [
+      "9E358A5A-318A-4899-9A69-3296021CE896",
+      "D41B82E4-ADF6-4006-A861-C0ADE5B3BD01"
+    ],
+    "studentInfoIdList": [
+      "26C040FB-A327-4C52-A479-E99B9E5D0400"
+    ],
+    "isValid": true,
+    "id": "BF5D1A62-B185-4D4A-BFD1-81CB55894ECE",
+    "name": "UPenn - Essentials of Leadership",
+    "displayName": "Essentials of Leadership",
+    "url": "https://globalyouth.wharton.upenn.edu/programs-courses/essentials-of-leadership/",
+    "tagIdList": [
+      1,
+      4,
+      3
+    ],
+    "aliasList": [
+      "UPenn - Essentials of Leadership",
+      "Essentials of Leadership"
+    ],
+    "urlList": [
+      "https://globalyouth.wharton.upenn.edu/programs-courses/essentials-of-leadership/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [
+      12
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "ABE889E5-0DED-453F-A6AF-12F7F9825EA8"
+    ],
+    "sessionIdList": [
+      "C89A369B-6ECB-4124-8120-6D37B4EE1A82"
+    ],
+    "applicationIdList": [
+      "CD97C6E1-68CD-4FCC-8FF6-5BCAB6D14E35",
+      "15D9ADF5-B0FB-466C-8B7A-CDC4D7C62C4C",
+      "3A615F95-4DAF-460E-B3C9-466297CF5E20"
+    ],
+    "studentInfoIdList": [
+      "EACD4C57-39DA-4DDA-B3E6-02753DE08DDB"
+    ],
+    "isValid": true,
+    "id": "C01B1BA1-BCF2-46F1-B3E4-359FDB784027",
+    "name": "Stanford Summer Session",
+    "displayName": "Stanford Summer Session",
+    "url": "https://summer.stanford.edu/high-school",
+    "tagIdList": [
+      16
+    ],
+    "aliasList": [
+      "Stanford Summer Session"
+    ],
+    "urlList": [
+      "https://summer.stanford.edu/high-school",
+      "Course List: https://summer.stanford.edu/courses/course-list"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [
+      41
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "A4DA9BA6-EBB1-4861-9386-CEEC4E71C645"
+    ],
+    "sessionIdList": [
+      "0A1A53EE-73D9-42C5-92DE-2DEC09910267",
+      "70231E9D-CD99-46CE-A329-72EC2CB92E80",
+      "CC72D3AD-EEC7-47F7-9CDF-1A436DE7C370",
+      "57D82378-7B80-4DA8-8FBB-D17B8454EFE4"
+    ],
+    "applicationIdList": [
+      "DAC9CC2C-1264-42C5-BA82-2A885B87C0A2",
+      "BB8546F2-43DA-4DC9-A7CB-DB91BAB62D3F"
+    ],
+    "studentInfoIdList": [
+      "7E63EB9B-D32A-4D55-9261-0D81BE29B19C"
+    ],
+    "isValid": true,
+    "id": "C05FEA9B-095B-44FC-9507-29C13307854A",
+    "name": "UPenn - Essentials of Entrepreneurship",
+    "displayName": "Essentials of Entrepreneurship",
+    "url": "https://globalyouth.wharton.upenn.edu/programs-courses/essentials-of-entrepreneurship/",
+    "tagIdList": [
+      3,
+      1
+    ],
+    "aliasList": [
+      "UPenn - Essentials of Entrepreneurship",
+      "Essentials of Entrepreneurship"
+    ],
+    "urlList": [
+      "https://globalyouth.wharton.upenn.edu/programs-courses/essentials-of-entrepreneurship/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      158,
+      220,
+      222,
+      223,
+      21,
+      224,
+      225,
+      230,
+      231
+    ],
+    "subjectIdList": [],
+    "programTypeIdList": [
+      2,
+      1
+    ],
+    "orgIdList": [
+      "4F823DDB-40C5-4719-8A53-ED7331FC0EE9"
+    ],
+    "sessionIdList": [
+      "03275875-6693-4EBB-850C-27C3CD756532",
+      "6E0B6AA3-BFAF-4299-B0BF-4D2335C5590E"
+    ],
+    "applicationIdList": [
+      "2CC4B3FE-0F77-4747-AAB4-53C68EBBDD42",
+      "095A7674-FEC4-426B-B464-C60EE363B43D"
+    ],
+    "studentInfoIdList": [
+      "D54F07CC-A3B4-48E9-A653-3CD32B758BF0"
+    ],
+    "isValid": true,
+    "id": "C104D863-B4BD-452E-ACA9-24FC5873E1C8",
+    "name": "Brown Leadership Institute",
+    "displayName": "Brown Leadership Institute",
+    "url": "https://precollege.brown.edu/programs/leadership-institute",
+    "tagIdList": [
+      3,
+      4
+    ],
+    "aliasList": [
+      "Brown Leadership Institute"
+    ],
+    "urlList": [
+      "https://precollege.brown.edu/programs/leadership-institute"
+    ],
+    "noteList": [
+      "Summer 2022 courses will be available to view on 1/28/2022"
+    ]
+  },
+  {
+    "topicIdList": [
+      324,
+      214,
+      119,
+      1,
+      7
+    ],
+    "subjectIdList": [
+      44
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "F75E7751-A922-4E07-8EB9-C2CE45AE1FD2"
+    ],
+    "sessionIdList": [
+      "1FC88C49-B15F-4DB5-9E5E-6F617E09C5F6",
+      "38710369-5438-4462-8DB9-CC70D868B6D6",
+      "C3EFF131-3F41-47F9-A4AD-B484862B3FD5"
+    ],
+    "applicationIdList": [
+      "7CBA838C-2282-4E3A-B4C2-4146F30FABF3"
+    ],
+    "studentInfoIdList": [
+      "83F5F69F-8866-402B-8B1D-6DF2C52E8020"
+    ],
+    "isValid": true,
+    "id": "C1509816-172F-4604-8740-364DCEC4B16B",
+    "name": "AlphaStar Academy Math - Summer Camp",
+    "displayName": "AlphaStar Academy - Math Summer Camp",
+    "url": "https://alphastar.academy/summer-math/",
+    "tagIdList": [
+      8,
+      3,
+      4
+    ],
+    "aliasList": [
+      "AlphaStar Academy Math - Summer Camp",
+      "AlphaStar Academy - Math Summer Camp",
+      "AlphaStar Academy Math Summer Camp"
+    ],
+    "urlList": [
+      "https://alphastar.academy/summer-math/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      10
+    ],
+    "subjectIdList": [
+      45
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "4F07BE33-D0E9-458D-BF95-120951C07728",
+      "0BB266AA-D918-4355-9289-FEE241DADE0D"
+    ],
+    "sessionIdList": [
+      "E1594324-F650-4D15-BA90-363AD96C8C38",
+      "FB6BE6A1-18D2-4E73-B2EA-ED1817ED256B",
+      "6A27CB69-F3CD-4225-AD4F-9ADB00A61790"
+    ],
+    "applicationIdList": [
+      "6011C065-0D61-4693-B4C6-4159BE1A3960"
+    ],
+    "studentInfoIdList": [
+      "874714F1-A91E-4FE6-8758-BCE3EB5E8D8D"
+    ],
+    "isValid": true,
+    "id": "C2125331-EB2A-438D-9600-3F7926C5D0DB",
+    "name": "National Student Leadership Conference - Environmental Science and Sustainability",
+    "displayName": "National Student Leadership Conference - Environmental Science and Sustainability",
+    "url": "https://www.nslcleaders.org/youth-leadership-programs/environmental-science-sustainability/",
+    "tagIdList": [
+      4,
+      8,
+      3
+    ],
+    "aliasList": [
+      "National Student Leadership Conference - Environmental Science and Sustainability"
+    ],
+    "urlList": [
+      "https://www.nslcleaders.org/youth-leadership-programs/environmental-science-sustainability/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      7
+    ],
+    "subjectIdList": [
+      44
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "A3F2B972-482F-4809-8F07-0C5782691782"
+    ],
+    "sessionIdList": [
+      "16548189-7755-470D-AA74-36A6709B1F0F"
+    ],
+    "applicationIdList": [
+      "FCCB7E08-3F84-411D-9BBE-2D3347B411BD"
+    ],
+    "studentInfoIdList": [
+      "352A58C4-CB04-4252-992F-55DE09E2AE9C"
+    ],
+    "isValid": true,
+    "id": "C3A10916-7E29-4724-8787-7E00D2437EA8",
+    "name": "University of Nebraska - Cryptography Camp",
+    "displayName": "Nebraska - Cryptography Camp",
+    "url": "https://math.unl.edu/programs/agam",
+    "tagIdList": [
+      3,
+      12
+    ],
+    "aliasList": [
+      "University of Nebraska - Cryptography Camp",
+      "Nebraska - Cryptography Camp",
+      "All Girls All Math (AGAM)"
+    ],
+    "urlList": [
+      "https://math.unl.edu/programs/agam"
+    ],
+    "noteList": [
+      "Highly selective. 15 participants.",
+      "Formerly All Girls All Math (AGAM). Now open to all students."
+    ]
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [
+      19,
+      2
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "2535967B-82DB-4037-B157-02BDB621A821",
+      "95F1B8CB-A11B-4113-AB5C-FE4C6DA5558D",
+      "192EB690-3866-40D2-8B4E-EFBFC5CE7299",
+      "0A081159-BA32-40A6-9597-D88812C37BB0",
+      "E0DEA392-2328-48C5-95C0-E41D9FD8AD23",
+      "B95FACEE-869B-4B00-8C51-FE543BE6B731",
+      "A0BF1773-D641-4D98-9FA3-5961FBD3CD9C",
+      "73B04EDB-8659-49E7-88AE-912F0A8903DE"
+    ],
+    "sessionIdList": [
+      "154BB59E-E6C1-459F-8194-D218AB3A31BD",
+      "06143CB0-32E1-4908-A44E-82E4D585731E",
+      "C11934D0-5E3F-4C46-99DA-A87859DDAC5D",
+      "193FF186-1DD3-4E78-BC15-D4EB0C62CB7C",
+      "4C5A6ECB-50BA-4867-8335-E086B8D80D12",
+      "D4BF952B-9E88-4ED0-BD44-0D48E6FEEA28",
+      "C728F346-EE8F-43F0-A81B-3D0C06B97388",
+      "FFCCF7AC-4228-4324-9D20-F6B2B4857A17",
+      "A768D2FB-521E-4367-8C9C-B95EC1D6767D",
+      "8919D43E-17E1-422E-ACD1-DADB7B920B56",
+      "7D46D9D3-89E0-40BE-B069-BA3052AF1973",
+      "CD3D00DB-8D4A-4DF7-A629-D2E4A69CF020",
+      "587F09C5-B363-4BC0-B978-CE11FB61E3CE",
+      "E123A53C-FFF6-4059-B4C4-789424C2732F",
+      "A7F19333-5B34-4198-B435-42AEE6A4976A",
+      "402FA9CF-83C1-4A1C-BB9C-C55FD98BA529",
+      "46C40C12-48D4-4DFE-8100-2FBA09853497",
+      "81AEE2E2-B2EC-4DCC-9E49-EAFCDAE0B125",
+      "4B08E02B-F8EC-49AA-9B64-422327A1CEAC",
+      "4ED35A04-4B39-4DBE-8F70-694FCC48561D",
+      "853C0D3F-49C3-423E-B3CF-DB997F18DDE1",
+      "6A356851-A3B5-4B94-90EF-70DBF194606B",
+      "70002A6F-849D-4AD8-96B0-7C77C8E99739",
+      "5C96EA3E-3138-4676-B965-62196A0B1C9B",
+      "02218B8A-7CFD-4B01-BB3E-08964405C0F2",
+      "AE2C897D-E0FB-4D1A-8681-AC5ECE7B9890",
+      "5A4F8DF6-7F2E-4C53-B974-8C9AFFA3FD54",
+      "3687ED9D-F99E-4CEF-A5EB-40E2208DCDBB"
+    ],
+    "applicationIdList": [
+      "CD6FABAC-4226-44AC-916B-2B205C8A804D"
+    ],
+    "studentInfoIdList": [
+      "B5CFC599-5586-4111-AE8F-6E29ABC23709"
+    ],
+    "isValid": true,
+    "id": "C5872BAD-3A1F-416A-8DB8-D74FE76A7356",
+    "name": "National Student Leadership Conference - Medine and Health Care",
+    "displayName": "National Student Leadership Conference - Medine and Health Care",
+    "url": "https://www.nslcleaders.org/youth-leadership-programs/summer-medical-programs/",
+    "tagIdList": [
+      4,
+      8,
+      3
+    ],
+    "aliasList": [
+      "National Student Leadership Conference - Medine and Health Care"
+    ],
+    "urlList": [
+      "https://www.nslcleaders.org/youth-leadership-programs/summer-medical-programs/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      11,
+      161
+    ],
+    "subjectIdList": [
+      9
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "8963669D-8D40-4F8E-9110-9B083CDD0095"
+    ],
+    "sessionIdList": [
+      "118D805A-9966-4D44-A408-B73516DDF4A7"
+    ],
+    "applicationIdList": [
+      "A7CAE22A-4DEC-49C6-BECE-503B9E6397F1",
+      "FC8EB1A6-E978-419E-8A35-1613D794FA69"
+    ],
+    "studentInfoIdList": [
+      "990EC0B2-4BB3-462F-96CF-789F400E41F9"
+    ],
+    "isValid": true,
+    "id": "C601CE98-51F9-408D-81D6-C7C2F1EB1B7B",
+    "name": "Georgetown Business Academy",
+    "displayName": "Georgetown Business Academy",
+    "url": "https://summer.georgetown.edu/programs/SHS03/business-academy",
+    "tagIdList": [
+      8,
+      4,
+      3
+    ],
+    "aliasList": [
+      "Georgetown Business Academy"
+    ],
+    "urlList": [
+      "https://summer.georgetown.edu/programs/SHS03/business-academy"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [
+      9,
+      46
+    ],
+    "programTypeIdList": [
+      3
+    ],
+    "orgIdList": [
+      "14792C89-DBB4-47BF-BD63-8DE37A2E4631"
+    ],
+    "sessionIdList": [
+      "CD016FCF-8431-46A0-9E35-E302AD7EEF32"
+    ],
+    "applicationIdList": [
+      "7A70C767-6C55-4DCE-9FF7-129BD52954F4"
+    ],
+    "studentInfoIdList": [
+      "B7CA2781-3520-4C39-BF52-45C8A8DF3A9F"
+    ],
+    "isValid": true,
+    "id": "C8C0DC5B-88A2-47C9-906E-9C3AC6E782E5",
+    "name": "Mei International Academy \u2013 High School Study Abroad International Business Program",
+    "displayName": "High School Study Abroad International Business Program",
+    "url": "https://meiacademy.com/high-school-study-abroad/summer/international-business/",
+    "tagIdList": [
+      9,
+      4,
+      16
+    ],
+    "aliasList": [
+      "Mei International Academy \u2013 High School Study Abroad International Business Program",
+      "High School Study Abroad International Business Program"
+    ],
+    "urlList": [
+      "https://meiacademy.com/high-school-study-abroad/summer/international-business/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      325,
+      326,
+      327,
+      328,
+      329,
+      330
+    ],
+    "subjectIdList": [],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "ABE889E5-0DED-453F-A6AF-12F7F9825EA8"
+    ],
+    "sessionIdList": [
+      "922B2DA4-677A-4A5C-8B18-B9B6552E5A72",
+      "FB7ADF2A-9FF9-4EB6-BD2B-89726EFA00CC"
+    ],
+    "applicationIdList": [
+      "86D82942-5D18-475A-BEA6-5D0D5E490503",
+      "830A808D-94FB-4E1D-8BD6-5C9084CBE38F"
+    ],
+    "studentInfoIdList": [
+      "8B063235-9202-48C7-9FE4-15B41D4A1A91"
+    ],
+    "isValid": true,
+    "id": "CC515693-CD0C-4327-BC95-DF32EC223001",
+    "name": "Stanford Summer Humanities Institute",
+    "displayName": "Stanford Summer Humanities Institute",
+    "url": null,
+    "tagIdList": [
+      1,
+      3
+    ],
+    "aliasList": [
+      "Stanford Summer Humanities Institute"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [],
+    "sessionIdList": [
+      "4D1CF429-E6D2-4418-BB6D-DA5092CFAB9C"
+    ],
+    "applicationIdList": [
+      "2781CDAF-A936-4328-A331-F6BDDD225447"
+    ],
+    "studentInfoIdList": [
+      "87ABA1C2-D1B3-45F9-958A-195B7A1D239E"
+    ],
+    "isValid": true,
+    "id": "CD52FEF4-95B5-466C-B44A-76EDF24E38E7",
+    "name": "Girls Make Games",
+    "displayName": "Girls Make Games (GMG)",
+    "url": null,
+    "tagIdList": [
+      14,
+      4,
+      8
+    ],
+    "aliasList": [
+      "Girls Make Games",
+      "Girls Make Games (GMG)"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      331,
+      307,
+      306,
+      72,
+      76,
+      73,
+      71
+    ],
+    "subjectIdList": [
+      10
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "D073E420-D072-4556-AD90-DCE263484463"
+    ],
+    "sessionIdList": [
+      "F5DDAB12-743C-4BC7-9263-CB402F5EFFDA",
+      "A58C06A2-0AB1-4483-A0CD-2AC1D799263B"
+    ],
+    "applicationIdList": [
+      "5FA81198-5278-483D-BA5B-B8ED111108EC"
+    ],
+    "studentInfoIdList": [],
+    "isValid": true,
+    "id": "D01C94F9-7BEB-4BF4-BFAF-560CFFCCC321",
+    "name": "Notre Dame Intro to Engineering Summer Program",
+    "displayName": "Notre Dame Intro to Engineering Summer Program",
+    "url": null,
+    "tagIdList": [
+      1,
+      5
+    ],
+    "aliasList": [
+      "Notre Dame Intro to Engineering Summer Program"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      277,
+      281
+    ],
+    "subjectIdList": [
+      7
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "858BF71F-427B-42B8-89FA-D34B8F467582"
+    ],
+    "sessionIdList": [
+      "66723E35-77C3-4200-AB79-0734F49A8623"
+    ],
+    "applicationIdList": [
+      "7F722A44-4F75-4A89-B8F0-5B245B98E318"
+    ],
+    "studentInfoIdList": [
+      "579F70BB-E7A0-4FB7-A624-9D4E2F1D9130"
+    ],
+    "isValid": true,
+    "id": "D0CCC0CB-8DDD-47DF-BFAA-8D66D2B2C559",
+    "name": "University of Chicago - Research in the Biological Sciences",
+    "displayName": "UChicago - Research in the Biological Sciences (RIBS)",
+    "url": "https://summer.uchicago.edu/programs/research-biological-sciences-ribs",
+    "tagIdList": [
+      16,
+      1
+    ],
+    "aliasList": [
+      "University of Chicago - Research in the Biological Sciences",
+      "UChicago - Research in the Biological Sciences (RIBS)"
+    ],
+    "urlList": [
+      "https://summer.uchicago.edu/programs/research-biological-sciences-ribs"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [],
+    "sessionIdList": [],
+    "applicationIdList": [],
+    "studentInfoIdList": [],
+    "isValid": true,
+    "id": "D17DBCA4-DCEC-4B43-B59E-C90E7DB4E16A",
+    "name": "Queens University Enrichment Studies Unit",
+    "displayName": "Queens University Enrichment Studies Unit",
+    "url": null,
+    "tagIdList": [
+      4,
+      3
+    ],
+    "aliasList": [
+      "Queens University Enrichment Studies Unit"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      324,
+      332,
+      119,
+      1
+    ],
+    "subjectIdList": [
+      1
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [],
+    "sessionIdList": [
+      "130CF888-9374-4BE1-8F1B-BEB0F72FA3D7",
+      "DC40D4DA-0C39-4A6F-B498-8505EF2679B2",
+      "89170C62-5BF3-4F7B-876F-4E262F8BD76A"
+    ],
+    "applicationIdList": [
+      "DD997B54-7F3E-4FB4-A5D8-54177A67C723",
+      "D618ED2B-B27D-4283-AD5E-DBD8ACA80748",
+      "E128073A-476D-48F3-8D5D-B5FA1370E4E6"
+    ],
+    "studentInfoIdList": [
+      "5F3A4071-A52C-414D-95B9-754E5EC48B97"
+    ],
+    "isValid": true,
+    "id": "D5328AFD-BDEB-4BA2-A673-2B17761C1741",
+    "name": "AwesomeMath",
+    "displayName": "AwesomeMath",
+    "url": "https://www.awesomemath.org/summer-program/overview/program-information/",
+    "tagIdList": [],
+    "aliasList": [
+      "AwesomeMath"
+    ],
+    "urlList": [
+      "https://www.awesomemath.org/summer-program/overview/program-information/"
+    ],
+    "noteList": [
+      "Students can enroll in more than one session. No limit to courses per session."
+    ]
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [
+      14
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "18877616-5371-4376-9900-99CEABC7E8C2"
+    ],
+    "sessionIdList": [],
+    "applicationIdList": [
+      "2D58466D-FF4E-4DD5-B0D0-7074365531DE",
+      "A38F1187-A663-4041-8F6E-2089045AC87A",
+      "FB8494E3-9C63-4717-8687-988E351A4B90"
+    ],
+    "studentInfoIdList": [
+      "5D7C82DD-5BD4-418B-BBFA-1940F784D4C1"
+    ],
+    "isValid": true,
+    "id": "D5A4FE08-626D-49F8-AF07-73C5CCB8B25D",
+    "name": "Carnegie Mellon - Computer Science Scholars",
+    "displayName": "Carnegie Mellon - Computer Science Scholars",
+    "url": "https://www.cmu.edu/pre-college/academic-programs/computer-science-scholars.html",
+    "tagIdList": [
+      3,
+      24,
+      7
+    ],
+    "aliasList": [
+      "Carnegie Mellon - Computer Science Scholars"
+    ],
+    "urlList": [
+      "https://www.cmu.edu/pre-college/academic-programs/computer-science-scholars.html"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      159,
+      333
+    ],
+    "subjectIdList": [
+      18
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "18877616-5371-4376-9900-99CEABC7E8C2"
+    ],
+    "sessionIdList": [
+      "DC059038-115B-491B-8686-EEE48F5B2216"
+    ],
+    "applicationIdList": [
+      "54BC83C6-FEEE-4E01-BD8E-2D2EB6F762E2",
+      "CBFD58C6-07C9-4946-8079-54B296BA0485",
+      "BFFCA7AD-B8B8-4CA7-86BD-52ECC8C2536C"
+    ],
+    "studentInfoIdList": [
+      "92DBAFE9-A8A1-4CFC-95B0-9C8F01D1449B"
+    ],
+    "isValid": true,
+    "id": "D5BBC387-C58B-4006-BF5B-E9BDC95F9AF3",
+    "name": "Carnegie Mellon - Computational Biology",
+    "displayName": "Carnegie Mellon - Computational Biology",
+    "url": "https://www.cmu.edu/pre-college/academic-programs/computational-biology.html",
+    "tagIdList": [
+      3
+    ],
+    "aliasList": [
+      "Carnegie Mellon - Computational Biology"
+    ],
+    "urlList": [
+      "https://www.cmu.edu/pre-college/academic-programs/computational-biology.html"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      141,
+      40,
+      125,
+      60,
+      179,
+      180,
+      156
+    ],
+    "subjectIdList": [],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "72CAD824-3C88-4905-A16E-2F10CED463D4"
+    ],
+    "sessionIdList": [
+      "ED8F87DC-393B-4213-B2A2-97F29EDF1606"
+    ],
+    "applicationIdList": [
+      "2FBCA5F6-C7F5-4674-B3C5-08138A3D43CD"
+    ],
+    "studentInfoIdList": [
+      "9FFAF23D-CE52-4BE3-A136-3460ED35514D"
+    ],
+    "isValid": true,
+    "id": "D5ECA976-1683-47ED-A6E3-31FD4FF11B95",
+    "name": "California State Summer School for the Arts",
+    "displayName": "California State Summer School for the Arts (CSSSA)",
+    "url": "https://www.csssa.ca.gov/",
+    "tagIdList": [
+      5,
+      1,
+      16
+    ],
+    "aliasList": [
+      "California State Summer School for the Arts",
+      "California State Summer School for the Arts (CSSSA)"
+    ],
+    "urlList": [
+      "https://www.csssa.ca.gov/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      109,
+      2,
+      334,
+      40,
+      335,
+      336,
+      138,
+      125,
+      193,
+      60,
+      337,
+      179,
+      249,
+      139,
+      338
+    ],
+    "subjectIdList": [],
+    "programTypeIdList": [],
+    "orgIdList": [
+      "0DE100B5-99D7-4AA1-8168-E6A701B938CA"
+    ],
+    "sessionIdList": [],
+    "applicationIdList": [
+      "E79FFFF6-5846-4C87-A8FC-304287476674"
+    ],
+    "studentInfoIdList": [
+      "854A0E22-5323-455C-96F8-CCE7AEA7B1C6"
+    ],
+    "isValid": true,
+    "id": "D5F0FD06-73BB-44D7-A5EF-1A76259E4D7C",
+    "name": "Idyllwild Arts Summer Teen Programs",
+    "displayName": "Idyllwild Arts Summer Teen Programs",
+    "url": "https://idyllwildarts.org/teen-programs/?_ga=2.13644019.597071205.1641506659-1807748289.1641506659",
+    "tagIdList": [
+      4,
+      3,
+      8
+    ],
+    "aliasList": [
+      "Idyllwild Arts Summer Teen Programs",
+      "UNKNOWN"
+    ],
+    "urlList": [
+      "https://idyllwildarts.org/teen-programs/?_ga=2.13644019.597071205.1641506659-1807748289.1641506659"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      2,
+      125,
+      178,
+      60,
+      179,
+      180,
+      339
+    ],
+    "subjectIdList": [
+      32
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "38BCF390-EB72-4425-9754-142944A64740"
+    ],
+    "sessionIdList": [],
+    "applicationIdList": [],
+    "studentInfoIdList": [
+      "57B7E482-97B3-4CC7-A223-AC6CEB30C75E"
+    ],
+    "isValid": true,
+    "id": "D6AD8C43-E52D-4C43-9F7D-6AE4596D5ED8",
+    "name": "Interlochen Online",
+    "displayName": "Interlochen Online",
+    "url": "https://www.interlochen.org/interlochen-online",
+    "tagIdList": [
+      4,
+      3
+    ],
+    "aliasList": [
+      "Interlochen Online"
+    ],
+    "urlList": [
+      "https://www.interlochen.org/interlochen-online"
+    ],
+    "noteList": [
+      "Currently advertising their winter options. Summer TBD."
+    ]
+  },
+  {
+    "topicIdList": [
+      340,
+      341,
+      342,
+      343,
+      261
+    ],
+    "subjectIdList": [
+      13
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [],
+    "sessionIdList": [
+      "277DD8B5-A0FF-432F-9A8C-6F9066388E72"
+    ],
+    "applicationIdList": [
+      "250F748A-0EE1-4A83-A7D2-807A31C2C923"
+    ],
+    "studentInfoIdList": [
+      "3CB48333-6484-4121-B1F8-DDC78BBD82F2"
+    ],
+    "isValid": true,
+    "id": "DA0E1DA4-A548-43B5-8647-D819E8D7EDC5",
+    "name": "Perimeter Institute for Theoretical Physics International Summer School for Young Physicists",
+    "displayName": "International School for Young Physicists (ISSYP)",
+    "url": null,
+    "tagIdList": [
+      1,
+      5
+    ],
+    "aliasList": [
+      "Perimeter Institute for Theoretical Physics International Summer School for Young Physicists",
+      "International School for Young Physicists (ISSYP)"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Selectivity. 30-40 students/year. 50% Canadian, 50% international."
+    ]
+  },
+  {
+    "topicIdList": [
+      205,
+      159,
+      129
+    ],
+    "subjectIdList": [
+      5,
+      2
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "ABE889E5-0DED-453F-A6AF-12F7F9825EA8"
+    ],
+    "sessionIdList": [
+      "B39ED1B6-C0A4-4A49-9142-90BD2AA14062"
+    ],
+    "applicationIdList": [
+      "CD130550-F4FA-440D-BD96-283D070E4D13",
+      "84165421-5CF2-4022-89BD-778B94538449"
+    ],
+    "studentInfoIdList": [
+      "E11F5AD1-A535-4770-8CA7-6A8FFA3361B7"
+    ],
+    "isValid": true,
+    "id": "DC108F07-327C-4838-88A4-2185C65127FB",
+    "name": "Stanford Personalized Medicine, Big Data \u0026 AI Explorers",
+    "displayName": "Stanford Personalized Medicine, Big Data \u0026 AI Explorers",
+    "url": "https://med.stanford.edu/genecamp/SBCCW.html",
+    "tagIdList": [
+      3,
+      8
+    ],
+    "aliasList": [
+      "Stanford Personalized Medicine, Big Data \u0026 AI Explorers"
+    ],
+    "urlList": [
+      "https://med.stanford.edu/genecamp/SBCCW.html"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      244,
+      246
+    ],
+    "subjectIdList": [
+      35
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "D22E1F66-AC39-4DA9-A15E-8C29F2772FD3"
+    ],
+    "sessionIdList": [
+      "7A7692A6-C755-4A82-B404-9EFEC32BDD42"
+    ],
+    "applicationIdList": [
+      "24520FD0-0878-42CF-924E-64C36DD726BE",
+      "747EB373-61ED-468D-B869-89EA435F1BFC"
+    ],
+    "studentInfoIdList": [
+      "007DEDD1-1F6A-484D-837B-5DBC9392AEF2"
+    ],
+    "isValid": true,
+    "id": "E0AE022A-F54F-484E-B7BD-61E9213BE18A",
+    "name": "Smith - Women, Gender \u0026 Representation",
+    "displayName": "Women, Gender \u0026 Representation",
+    "url": "https://www.smith.edu/academics/precollege-programs/women-gender-representation",
+    "tagIdList": [
+      14,
+      3,
+      4
+    ],
+    "aliasList": [
+      "Smith - Women, Gender \u0026 Representation",
+      "Women, Gender \u0026 Representation"
+    ],
+    "urlList": [
+      "https://www.smith.edu/academics/precollege-programs/women-gender-representation"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [
+      19,
+      2
+    ],
+    "programTypeIdList": [
+      2,
+      6
+    ],
+    "orgIdList": [
+      "ABE889E5-0DED-453F-A6AF-12F7F9825EA8"
+    ],
+    "sessionIdList": [
+      "8C218475-25C2-4BC6-95DD-A348E59A9B83",
+      "39B63672-C0E5-4DD1-8E79-6DF475DAE19A"
+    ],
+    "applicationIdList": [
+      "29BDAEF8-0CFE-4D38-AE2A-EC5FBA13069E"
+    ],
+    "studentInfoIdList": [
+      "C4FA861E-2ABE-4BF8-8C8A-A51600AAFAAA"
+    ],
+    "isValid": true,
+    "id": "E1D588CE-4C13-406C-968A-DF4629EC056A",
+    "name": "Stanford Clinical Summer Internship",
+    "displayName": "Stanford Clinical Summer Internship",
+    "url": "https://med.stanford.edu/medcsi.html",
+    "tagIdList": [
+      20,
+      3,
+      1
+    ],
+    "aliasList": [
+      "Stanford Clinical Summer Internship"
+    ],
+    "urlList": [
+      "https://med.stanford.edu/medcsi.html"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      344,
+      345,
+      219,
+      346,
+      75
+    ],
+    "subjectIdList": [
+      10
+    ],
+    "programTypeIdList": [
+      2,
+      1
+    ],
+    "orgIdList": [
+      "8CD47F65-729D-43D5-8FE3-36BCA34979FF"
+    ],
+    "sessionIdList": [
+      "C462D3C5-A12C-4497-AEC2-91FFC7FC4DAA",
+      "A3FED0B4-E6EA-45C1-856E-44FD62CAC504",
+      "EF601C06-EB63-48C5-8F6C-A2474725EA42"
+    ],
+    "applicationIdList": [
+      "3E01F46B-B9D2-4F81-9A23-6A8B56831357"
+    ],
+    "studentInfoIdList": [
+      "FA69ECD5-22A4-4EEC-A50F-3991D9108620"
+    ],
+    "isValid": true,
+    "id": "E86997AF-A651-4F10-AEAF-ADCAE42DABD0",
+    "name": "Drexel Materials Science and Engineering Summer Institute",
+    "displayName": "Drexel Materials Science and Engineering Summer Institute",
+    "url": null,
+    "tagIdList": [
+      3,
+      8,
+      4
+    ],
+    "aliasList": [
+      "Drexel Materials Science and Engineering Summer Institute"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [
+      15
+    ],
+    "programTypeIdList": [],
+    "orgIdList": [],
+    "sessionIdList": [
+      "5882E9ED-4905-4934-895A-61FBA43F58EB",
+      "54B0276D-6006-4055-B40A-FE6538F82EC1"
+    ],
+    "applicationIdList": [],
+    "studentInfoIdList": [
+      "F243B16A-452C-4F94-AD05-399AD46B69E8"
+    ],
+    "isValid": true,
+    "id": "E8CAE5E6-EF01-4E47-A56C-464F7066A93B",
+    "name": "Girls Who Code",
+    "displayName": "Girls Who Code",
+    "url": "https://girlswhocode.com/programs/summer-immersion-program",
+    "tagIdList": [
+      14,
+      4,
+      17
+    ],
+    "aliasList": [
+      "Girls Who Code"
+    ],
+    "urlList": [
+      "https://girlswhocode.com/programs/summer-immersion-program"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      347,
+      10
+    ],
+    "subjectIdList": [
+      33
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "8963669D-8D40-4F8E-9110-9B083CDD0095"
+    ],
+    "sessionIdList": [
+      "DE7CB58C-E620-48FA-ADE4-A312B3C6CBC8",
+      "679F492D-C570-41C5-BA03-4441899B1C61",
+      "880582F3-26E2-4BA7-8B74-839A92FDEE02",
+      "71543D1D-F2DA-489E-B83A-DD1E9ED41394"
+    ],
+    "applicationIdList": [
+      "FD6B0E0F-D50E-4699-8BC2-62FD3D940E07"
+    ],
+    "studentInfoIdList": [
+      "F278D4EE-EE9A-45E5-A629-10B1642E7141"
+    ],
+    "isValid": true,
+    "id": "EE4CB9BB-AA67-434A-A83C-A81EC485E734",
+    "name": "National Student Leadership Conference - International Diplomacy",
+    "displayName": "National Student Leadership Conference - International Diplomacy",
+    "url": "https://www.nslcleaders.org/youth-leadership-programs/international-diplomacy/",
+    "tagIdList": [
+      4,
+      3,
+      8
+    ],
+    "aliasList": [
+      "National Student Leadership Conference - International Diplomacy"
+    ],
+    "urlList": [
+      "https://www.nslcleaders.org/youth-leadership-programs/international-diplomacy/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      120
+    ],
+    "subjectIdList": [
+      9
+    ],
+    "programTypeIdList": [
+      1,
+      2,
+      5
+    ],
+    "orgIdList": [],
+    "sessionIdList": [
+      "1C61EF13-44A9-49D9-A204-501D464D15C2",
+      "0733A3E2-E739-444B-A6EA-2AE22E37FD60",
+      "45FB06CF-8C38-4FA2-8BF7-0561B2AD7EEA"
+    ],
+    "applicationIdList": [
+      "DB4CEE65-2CE8-48DA-8181-C4797A8E10EC",
+      "E1E52B58-6EAC-48CB-AE4A-004515EF0474"
+    ],
+    "studentInfoIdList": [],
+    "isValid": true,
+    "id": "EED4EBB1-BDC2-4BF5-890C-EDC899DE69A1",
+    "name": "LaunchX",
+    "displayName": "LaunchX",
+    "url": "https://launchx.com/summer-program/",
+    "tagIdList": [
+      1,
+      3
+    ],
+    "aliasList": [
+      "LaunchX"
+    ],
+    "urlList": [
+      "https://launchx.com/summer-program/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      10,
+      42
+    ],
+    "subjectIdList": [],
+    "programTypeIdList": [],
+    "orgIdList": [
+      "04B3EA72-EC4B-4847-B437-0243FF532147",
+      "73B04EDB-8659-49E7-88AE-912F0A8903DE",
+      "4F07BE33-D0E9-458D-BF95-120951C07728",
+      "F6FD5B67-FB28-4532-BCFE-D4BD746088C7",
+      "6734E6E5-4E78-449E-B283-80FB4FEBD866",
+      "E0DEA392-2328-48C5-95C0-E41D9FD8AD23",
+      "B95FACEE-869B-4B00-8C51-FE543BE6B731",
+      "66B72312-3491-4C59-A940-0A56D31462C2",
+      "8DADBF91-9A22-4502-9523-867A41010A8F",
+      "809BE48B-FBCD-4F84-A9A7-C1F1D7BB6F49",
+      "37FF0C8E-4F0E-47CE-9CF7-DCF386728D2C",
+      "0A081159-BA32-40A6-9597-D88812C37BB0",
+      "4F823DDB-40C5-4719-8A53-ED7331FC0EE9",
+      "8A283B65-4A10-4538-B736-38F1E47971E1"
+    ],
+    "sessionIdList": [
+      "D938CDC2-A7A2-4DF4-9901-729974078001",
+      "F6765622-367E-46C2-89B9-F1142C8A1D06",
+      "C0AE79C6-35BA-4AC1-8139-83D335752269",
+      "C14BC37A-16E0-4309-A8BD-F774849078AF",
+      "F0F8D70B-1789-46E1-B34C-433235EA9208",
+      "9D9C6C04-63B9-4D70-A145-6C7DD7EC5A56",
+      "6B0E5432-B322-49EC-8235-A6D317E35893",
+      "41B08D60-92BA-4CC1-88F6-74CC981F000E",
+      "4D3048AA-631D-445C-9110-643D4FA80257",
+      "6F285DA6-19BF-4DDA-9C2E-451F289E2190",
+      "5C70539B-A922-4554-8AE9-3DAD0A3798F2",
+      "22040E6B-950A-44C7-B429-50EDE940F9A8",
+      "BD6ADD2F-6F19-436A-A217-4C826241610D",
+      "1A23681B-68B1-450F-A786-4592DE76FF5F",
+      "B43FE908-FE6D-4EB2-9FE4-C2A115C159B1",
+      "7DACFFEC-CCCF-43A7-ACFC-62A2440BD9DB",
+      "59090F86-CAB0-435B-9831-0E0BA78C52E6",
+      "516AB3D4-AF6D-4515-9309-291E86753A74",
+      "886E2BB5-97CF-4FE4-8088-058C04FCC4B7",
+      "6AE09C09-8BFA-4C09-BF7A-335666901797",
+      "DD5834B6-2135-4F57-A69B-729D571763F7",
+      "872E1825-5A1F-4B14-84FC-D1050C33CCD2"
+    ],
+    "applicationIdList": [
+      "98E89E79-3AF9-4945-98B0-570B80F5F7CD",
+      "07108716-C2BC-4DF0-A627-2163AFA1D8FD",
+      "C507C6D1-04B9-4617-8803-743A78D02771"
+    ],
+    "studentInfoIdList": [
+      "C40C4B98-4F55-49C3-8D0B-DC7B316AD383"
+    ],
+    "isValid": true,
+    "id": "F521B895-7587-46E5-9AA3-454195EABE18",
+    "name": "Economics For Leaders",
+    "displayName": "Economics For Leaders",
+    "url": null,
+    "tagIdList": [
+      16,
+      1,
+      4
+    ],
+    "aliasList": [
+      "Economics For Leaders"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      10
+    ],
+    "subjectIdList": [
+      47
+    ],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "B95FACEE-869B-4B00-8C51-FE543BE6B731"
+    ],
+    "sessionIdList": [
+      "FBD8574D-8A08-4DC1-9930-1EB3C1DB7EE5"
+    ],
+    "applicationIdList": [
+      "679E4C99-D41C-4098-8AE4-E41A9905A38B"
+    ],
+    "studentInfoIdList": [
+      "FA9B788D-DAC3-4AC8-B3E6-0163940E6760"
+    ],
+    "isValid": true,
+    "id": "F5E2A544-33EA-4163-B8FC-C5A67FFCD463",
+    "name": "National Student Leadership Conference - Film Intensive",
+    "displayName": "National Student Leadership Conference - Film Intensive",
+    "url": "https://www.nslcleaders.org/youth-leadership-programs/film-intensive/",
+    "tagIdList": [
+      4,
+      3,
+      8
+    ],
+    "aliasList": [
+      "National Student Leadership Conference - Film Intensive"
+    ],
+    "urlList": [
+      "https://www.nslcleaders.org/youth-leadership-programs/film-intensive/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      10,
+      348
+    ],
+    "subjectIdList": [],
+    "programTypeIdList": [
+      1
+    ],
+    "orgIdList": [
+      "EBDEC5FB-6C03-4423-A0E8-043683C98522",
+      "7EE121E0-3B61-4375-B650-A1C34151AC60"
+    ],
+    "sessionIdList": [
+      "17FC6356-5CF4-4A15-9114-3B3C0FA6477C",
+      "EDC60553-B167-4813-9E49-00B73B32CC7C",
+      "4069588E-F44C-4DB5-91B2-994780482DCB",
+      "B9448DAF-49A8-4278-9C36-CF86A7466D54",
+      "36CDBBBB-BADF-4145-A776-25A18CED8FE5"
+    ],
+    "applicationIdList": [
+      "D0D5C96C-3D81-42F3-BDB6-ABF8F792AFD9"
+    ],
+    "studentInfoIdList": [
+      "19890A12-2EB9-4028-8057-765E186CBFC7"
+    ],
+    "isValid": true,
+    "id": "F9D2FA42-5C32-44BC-9B09-FD154679A39E",
+    "name": "National Student Leadership Conference - Mastering Leadership",
+    "displayName": "National Student Leadership Conference - Mastering Leadership",
+    "url": "https://www.nslcleaders.org/youth-leadership-programs/leadership-development-programs/",
+    "tagIdList": [
+      4,
+      8,
+      3
+    ],
+    "aliasList": [
+      "National Student Leadership Conference - Mastering Leadership"
+    ],
+    "urlList": [
+      "https://www.nslcleaders.org/youth-leadership-programs/leadership-development-programs/"
+    ],
+    "noteList": []
+  },
+  {
+    "topicIdList": [
+      304,
+      332,
+      117,
+      349,
+      115,
+      1,
+      215,
+      116,
+      350,
+      114
+    ],
+    "subjectIdList": [
+      1
+    ],
+    "programTypeIdList": [
+      4
+    ],
+    "orgIdList": [],
+    "sessionIdList": [],
+    "applicationIdList": [
+      "CE7ACC7E-1B77-49DD-BE41-668AFF58A564"
+    ],
+    "studentInfoIdList": [
+      "EC7433D6-CA78-4408-BCE7-1A4199906340"
+    ],
+    "isValid": true,
+    "id": "FA7A0D39-0158-4170-921B-0151CCB71820",
+    "name": "MathILy, MathILy-Er",
+    "displayName": "MathILy, MathILy-Er",
+    "url": "https://www.mathily.org/app.html",
+    "tagIdList": [
+      5
+    ],
+    "aliasList": [
+      "MathILy, MathILy-Er"
+    ],
+    "urlList": [
+      "https://www.mathily.org/app.html"
+    ],
+    "noteList": [
+      "International applicants should apply early so that they will have time to apply for a visa (*in the event of running residentially -- TBD.)"
+    ]
+  },
+  {
+    "topicIdList": [],
+    "subjectIdList": [
+      10,
+      7
+    ],
+    "programTypeIdList": [
+      2
+    ],
+    "orgIdList": [
+      "ABE889E5-0DED-453F-A6AF-12F7F9825EA8"
+    ],
+    "sessionIdList": [
+      "B7E3E8FB-2179-4DCD-8F74-F634F4B77372"
+    ],
+    "applicationIdList": [
+      "CAB2E425-D17B-4C09-B1BA-712A3EC9699E"
+    ],
+    "studentInfoIdList": [
+      "B1260788-0A51-4CC6-A297-ACF006F4D562"
+    ],
+    "isValid": true,
+    "id": "FACE82A3-B6EB-4FAE-B8F8-184079912FF6",
+    "name": "Stanford Science, Humanities, Technology, Engineering and Mathematics Internship",
+    "displayName": "Stanford Science, Humanities, Technology, Engineering and Mathematics Internship (SHTEM)",
+    "url": "https://compression.stanford.edu/summer-internships-high-school-and-cc-students",
+    "tagIdList": [
+      20,
+      3,
+      1
+    ],
+    "aliasList": [
+      "Stanford Science, Humanities, Technology, Engineering and Mathematics Internship",
+      "Stanford Science, Humanities, Technology, Engineering and Mathematics Internship (SHTEM)"
+    ],
+    "urlList": [
+      "https://compression.stanford.edu/summer-internships-high-school-and-cc-students"
+    ],
+    "noteList": [
+      "Selective ~60 participants per year"
+    ]
+  },
+  {
+    "topicIdList": [
+      351,
+      158,
+      342,
+      352
+    ],
+    "subjectIdList": [],
+    "programTypeIdList": [],
+    "orgIdList": [],
+    "sessionIdList": [],
+    "applicationIdList": [],
+    "studentInfoIdList": [
+      "3733DF6E-E5EA-4F94-AD46-DEAF68226C2C"
+    ],
+    "isValid": true,
+    "id": "FBCF4426-6223-4E7F-BD6F-17DED8F22DE5",
+    "name": "Stanford Program For Inspiring The Next Generation Of Women In Physics",
+    "displayName": "Stanford Program For Inspiring The Next Generation Of Women In Physics (SPINWIP)",
+    "url": "https://physics.stanford.edu/about/equity-and-inclusion/spinwip",
+    "tagIdList": [
+      14,
+      10,
+      4
+    ],
+    "aliasList": [
+      "Stanford Program For Inspiring The Next Generation Of Women In Physics",
+      "Stanford Program For Inspiring The Next Generation Of Women In Physics (SPINWIP)"
+    ],
+    "urlList": [
+      "https://physics.stanford.edu/about/equity-and-inclusion/spinwip"
+    ],
+    "noteList": [
+      "Preference given to Juniors.",
+      "Details for 2022 not yet released."
+    ]
+  },
+  {
+    "topicIdList": [
+      353,
+      354,
+      355,
+      356,
+      115,
+      351,
+      357,
+      340,
+      358
+    ],
+    "subjectIdList": [
+      1,
+      10,
+      13,
+      14
+    ],
+    "programTypeIdList": [
+      2,
+      1
+    ],
+    "orgIdList": [
+      "AFDF5733-830A-4E0C-B9B2-EA9E0F50C7C6"
+    ],
+    "sessionIdList": [
+      "9D0A5A49-7494-492D-8BFE-1FDB256001DF",
+      "51C9E044-6E29-4DAA-ABF6-9C881BB2FEAD"
+    ],
+    "applicationIdList": [
+      "4115C926-9EB8-48C5-A0A7-660779DF40D0"
+    ],
+    "studentInfoIdList": [
+      "4AB3B88F-4F9D-4710-B915-ECE5E380CD91"
+    ],
+    "isValid": true,
+    "id": "FFE2033C-4C59-4557-95AD-3F978ECD6744",
+    "name": "University of Waterloo Quantum School for Young Students",
+    "displayName": "Quantum School for Young Students",
+    "url": "https://uwaterloo.ca/institute-for-quantum-computing/qsys",
+    "tagIdList": [],
+    "aliasList": [
+      "University of Waterloo Quantum School for Young Students",
+      "Quantum School for Young Students"
+    ],
+    "urlList": [
+      "https://uwaterloo.ca/institute-for-quantum-computing/qsys"
+    ],
+    "noteList": [
+      "Experience with quantum physics not required. Grade 11 math required. Grade 11 physics recommended."
+    ]
+  }
+]

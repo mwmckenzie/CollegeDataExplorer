@@ -1,0 +1,2430 @@
+[
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-04-01",
+    "summerProgramId": "0119C243-8490-4D41-AA74-7D9D0E410706",
+    "isValid": true,
+    "id": "7173274C-36E2-4A49-B0EA-CF4FBE1403B7",
+    "name": "Single Application Deadline",
+    "displayName": "Single Application Deadline",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Application Deadline"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Transcript, 1 LOR, TOEFL 90"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-12",
+    "endDate": "2022-02-11",
+    "summerProgramId": "0164E0A9-4476-4AFB-924C-5331A22322D3",
+    "isValid": true,
+    "id": "E3B5E426-A46B-4427-96CB-7E11C7483280",
+    "name": "Single Session",
+    "displayName": "Single Session",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Session"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application. 2 LOR, Transcript",
+      "Online application. 2 LOR, Transcript, 3.0\u002B GPA"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-02-23",
+    "summerProgramId": "02D65D03-0347-4B08-8915-12293339A0C8",
+    "isValid": true,
+    "id": "65F70B3E-6994-419B-9C8C-A2990364897B",
+    "name": "International",
+    "displayName": "International",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Early",
+      "Regular",
+      "International"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, Unofficial transcript, Test scores (optional), 1 LOR, 1 300-500 word essay, Audition submission (varies by major)",
+      "International applicants residing in US may apply to early and regular deadlines."
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-21",
+    "endDate": "2022-04-07",
+    "summerProgramId": "02DF7895-7D56-4C48-8728-1AEE50BE79B3",
+    "isValid": true,
+    "id": "A0AEB609-B1F4-4D4F-9BF5-2DAE77B7CEE1",
+    "name": "Final",
+    "displayName": "Final",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Priority",
+      "Final"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Unofficial transcript, 1 LOR, 1 250 word essay, 1 200 word essay, 3 top activities, test scores optional, TOEFL 100/Duolingo 130"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-03-01",
+    "summerProgramId": "082641B1-0702-4E60-A26C-7A1F2F393C9F",
+    "isValid": true,
+    "id": "C4F9A135-C32E-4C0E-B814-4A7F88351881",
+    "name": "Single Session",
+    "displayName": "Single Session",
+    "url": "https://education.msu.edu/hshsp/application/",
+    "tagIdList": [],
+    "aliasList": [
+      "Single Session"
+    ],
+    "urlList": [
+      "https://education.msu.edu/hshsp/application/"
+    ],
+    "noteList": [
+      "Online application, 600 word Personal Statement, 600 word essay, Transcript, Reading list, 2 LOR"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-21",
+    "endDate": "2022-04-07",
+    "summerProgramId": "08B3A213-0277-4549-90DF-67037F23947A",
+    "isValid": true,
+    "id": "135D795F-620C-49F6-9BA2-C9FC7CFE7B29",
+    "name": "Final",
+    "displayName": "Final",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Priority",
+      "Final"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Unofficial transcript, 1 LOR, 2 450 word essays, test scores optional, TOEFL 100/Duolingo 130"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-06-01",
+    "summerProgramId": "09179F9C-354C-4316-8557-F55CDE7B77B8",
+    "isValid": true,
+    "id": "DF8C5F3D-6D0D-4257-A3DF-804FD508CCA9",
+    "name": "Rolling Enrollment",
+    "displayName": "Rolling Enrollment",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Enrollment"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online Application, GPA, Recommender Contact Information"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-15",
+    "endDate": "2022-04-11",
+    "summerProgramId": "0CD79672-47B6-4A5F-A5A2-259A649211EC",
+    "isValid": true,
+    "id": "47872498-557E-44E9-9756-6ED26383E259",
+    "name": "Single Session",
+    "displayName": "Single Session",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Session"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application form, Transcript, 1 Letter of Recommendation"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-06-01",
+    "summerProgramId": "0D74EFDA-7495-49E6-81FF-4B3A59672758",
+    "isValid": true,
+    "id": "CBEDAEB4-C9FB-41EA-9AF0-A695037A8879",
+    "name": "Rolling Enrollment",
+    "displayName": "Rolling Enrollment",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Enrollment"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online Application, GPA, Recommender Contact Information"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-12-31",
+    "summerProgramId": "0DED6341-77DB-449A-BC2D-082CF006C14E",
+    "isValid": true,
+    "id": "0D0BD5D4-CCE5-4606-8980-A75FB91D6BE7",
+    "name": "Open Registration",
+    "displayName": "Open Registration",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Open Registration"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-02-16",
+    "summerProgramId": "0F33C626-6BDF-42EA-84C9-0B7BC43B023F",
+    "isValid": true,
+    "id": "5406F7DB-8AEE-4AA8-A15E-6482F6E1661D",
+    "name": "Single Application",
+    "displayName": "Single Application",
+    "url": "https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/scholars.php",
+    "tagIdList": [],
+    "aliasList": [
+      "Single Application"
+    ],
+    "urlList": [
+      "https://www.depts.ttu.edu/honors/academicsandenrichment/affiliatedandhighschool/clarks/scholars.php"
+    ],
+    "noteList": [
+      "Online application, 4 2,000 character essays, 1 1,500 character essay, Official transcript, AP test scores (if applicable), PSAT or SAT scores (*international students not required), 3 LOR, Top 5 Activities"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-07",
+    "endDate": "2022-01-07",
+    "summerProgramId": "0F3BDE94-5AF4-4B03-913F-0A2C83AEC48B",
+    "isValid": true,
+    "id": "752190AD-9C04-47DE-A18A-44B068EE5874",
+    "name": "Single Application",
+    "displayName": "Single Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Application"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, 2 short essays (length not specified), Contact information for 1 recommender",
+      "Website does not specify applicationd deadline."
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-06-01",
+    "summerProgramId": "10048C39-04D8-4725-931C-E16D5815241D",
+    "isValid": true,
+    "id": "EF61464D-E4A4-471C-AD61-6A0B97B9B791",
+    "name": "Rolling Enrollment",
+    "displayName": "Rolling Enrollment",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Enrollment"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online Application, GPA, Recommender Contact Information"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-06-01",
+    "summerProgramId": "11F68E63-F904-4BB5-AA16-0E69B2FBFDD6",
+    "isValid": true,
+    "id": "827DAD2F-C2D5-416E-BAE4-7491EC6A3FC0",
+    "name": "Rolling Enrollment",
+    "displayName": "Rolling Enrollment",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Enrollment"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online Application, GPA, Recommender Contact Information"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-06-01",
+    "summerProgramId": "1208C164-CA16-47E5-8CC8-BC9D6E250E93",
+    "isValid": true,
+    "id": "1DBEBC32-7B14-4D0B-8228-28ACCC4BDB5E",
+    "name": "Rolling Enrollment",
+    "displayName": "Rolling Enrollment",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Enrollment"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online Application, GPA, Recommender Contact Information"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-01-04",
+    "summerProgramId": "15785DD1-5AE9-4619-89D8-92884820F21F",
+    "isValid": true,
+    "id": "1E4E95E9-C833-4B15-8F7D-539949CC3F17",
+    "name": "UNKNOWN",
+    "displayName": "UNKNOWN",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "UNKNOWN"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2021-11-04",
+    "endDate": "2021-01-10",
+    "summerProgramId": "16AFBE4F-B815-455B-8EC3-E576A841A7C2",
+    "isValid": true,
+    "id": "9DF76A42-2525-422C-A9C1-908A47E0BC7D",
+    "name": "Regular",
+    "displayName": "Regular",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Early",
+      "Regular"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Activities list, 1 400 word essay, 1 200 word essay, 2 280 word essays, Official transcript, 2 LOR, English proficiency scores (optional)"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-04-12",
+    "endDate": "2022-05-01",
+    "summerProgramId": "1944662A-0E01-40ED-B650-BCCC6EE46384",
+    "isValid": true,
+    "id": "3D49C6F3-EB22-45A3-8CFA-29A0D3745FCD",
+    "name": "Rolling",
+    "displayName": "Rolling",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Priority",
+      "Regular",
+      "Extended",
+      "Rolling"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, Official transcript, 1 500 word essay, 1 250 word essay, Writing sample, Test scores (required for international, optional domestic), up to 3 LOR"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-05-01",
+    "summerProgramId": "1D139BC6-7C5D-407B-9BD9-561FB2326160",
+    "isValid": true,
+    "id": "879D08A9-2584-43AC-9D54-51CAD57558F7",
+    "name": "Rolling Application",
+    "displayName": "Rolling Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Application"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Transcript, 1 LOR"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-04-12",
+    "endDate": "2022-05-01",
+    "summerProgramId": "1E120221-2706-4A46-8F97-7FDDA806182E",
+    "isValid": true,
+    "id": "FC133E32-96CB-4469-9C49-509C8C529A38",
+    "name": "Rolling",
+    "displayName": "Rolling",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Priority",
+      "Regular",
+      "Extended",
+      "Rolling"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, Official transcript, 1 500 word essay, 1 250 word essay, Writing sample, Test scores (required for international, optional domestic), up to 3 LOR"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-05-20",
+    "summerProgramId": "1ED52627-CDE4-4F3B-8A29-80AA8AE73D1F",
+    "isValid": true,
+    "id": "C800A160-3501-443C-9215-0DBF9D6B65C2",
+    "name": "US student deadline",
+    "displayName": "US student deadline",
+    "url": "https://ei.jhu.edu/deadlines/",
+    "tagIdList": [],
+    "aliasList": [
+      "Round I",
+      "Round II",
+      "In-person, international student deadline",
+      "Round III (Final in-person, international students)",
+      "Round IV",
+      "Round V",
+      "Round VI",
+      "Round VII",
+      "Round VIII",
+      "Online, international student deadline",
+      "US student deadline"
+    ],
+    "urlList": [
+      "https://ei.jhu.edu/deadlines/"
+    ],
+    "noteList": [
+      "2 short essays, test scores, 1 LOR, official transcript, 100\u002B TEOFL/120 Duolingo"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-03",
+    "endDate": "2022-05-02",
+    "summerProgramId": "243740EE-DE6C-4AAB-8CB5-0FED4C993195",
+    "isValid": true,
+    "id": "0BFEDEED-C0C7-4FA4-B054-63F833FA9B55",
+    "name": "Single Session",
+    "displayName": "Single Session",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Session"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Application Form, 2 LOR"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-07-01",
+    "summerProgramId": "2582EA2C-8B0A-4249-9026-D32C3989FF6C",
+    "isValid": true,
+    "id": "75411395-AB9F-49CF-82D7-52583DF6508E",
+    "name": "Rolling Enrollment",
+    "displayName": "Rolling Enrollment",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Enrollment"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online Application, GPA, Recommender Contact Information"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-03-15",
+    "endDate": "2022-07-10",
+    "summerProgramId": "26644834-0776-4F95-B88D-8BC60593A209",
+    "isValid": true,
+    "id": "DE9E1EA5-442F-47E4-A5CE-FE703BDF7005",
+    "name": "Rolling Registration",
+    "displayName": "Rolling Registration",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Registration"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-21",
+    "endDate": "2022-04-07",
+    "summerProgramId": "278BC411-F420-4767-A2C8-3072283B0A31",
+    "isValid": true,
+    "id": "D7B3A532-CF37-40E6-959D-AF3E5CBF7AB9",
+    "name": "Final",
+    "displayName": "Final",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Priority",
+      "Final"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Unofficial transcript, 1 LOR, 1 140 character tweet bio, 1 400-600 word essay, test scores optional, TOEFL 100/Duolingo 130"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-24",
+    "endDate": "2022-02-06",
+    "summerProgramId": "2A46D435-F84B-40FF-913F-22A5F7B27F07",
+    "isValid": true,
+    "id": "4B243C80-FDAC-40D7-96A2-6F0CA2015B1F",
+    "name": "Single Application",
+    "displayName": "Single Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Session I",
+      "Session II",
+      "Single Application"
+    ],
+    "urlList": [],
+    "noteList": [
+      "10 pages (or less) of fiction, poetry, creative nonfiction/essay or any combination of the three.1-2 page Statement of Purpose. 1 Letter of Recommendation. Transcript."
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-12",
+    "endDate": "2022-03-31",
+    "summerProgramId": "2B994C81-B9B3-4C15-AFC1-82012A578BF6",
+    "isValid": true,
+    "id": "61718EE3-035E-4874-8262-42B060AFB038",
+    "name": "Single Session",
+    "displayName": "Single Session",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Session"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Qualifying Quiz, Online application"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2021-12-29",
+    "endDate": "2022-05-01",
+    "summerProgramId": "3106B8C8-1279-487B-ABBA-02325F394729",
+    "isValid": true,
+    "id": "CAE802AE-1E01-462D-AD43-C592FFD81A22",
+    "name": "US Application",
+    "displayName": "US Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "International Application",
+      "US Application"
+    ],
+    "urlList": [],
+    "noteList": [
+      "3.3\u002B GPA, Transcript, 1 LOR, Standardized Scores (optional), English Proficiency Scores (TOEFL 100, Duolingo 120)",
+      "3.3\u002B GPA, Transcript, 1 LOR, Standardized Scores (optional)"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-01-07",
+    "summerProgramId": "34A3DC61-AADF-4F58-8D0D-38571E501A95",
+    "isValid": true,
+    "id": "FB3D0F6A-F7C1-4904-9365-9FC008E4C533",
+    "name": "Rolling Enrollment",
+    "displayName": "Rolling Enrollment",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Enrollment"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online Application, GPA, Recommender Contact Information"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-12-01",
+    "summerProgramId": "38049324-180E-4BA5-ABC7-8DC9A866DA63",
+    "isValid": true,
+    "id": "59CBE603-207B-49BF-9712-925AEBB6987F",
+    "name": "Rolling Application",
+    "displayName": "Rolling Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Application"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, personal statement. No English language proficiency scores required."
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-06-01",
+    "summerProgramId": "3AA6F9A7-3A41-490A-9DDE-36B572639568",
+    "isValid": true,
+    "id": "99735D55-8D2D-45FC-8257-49D39FFE975C",
+    "name": "Rolling Enrollment",
+    "displayName": "Rolling Enrollment",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Enrollment"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-03-02",
+    "endDate": "2022-05-15",
+    "summerProgramId": "3F57B50D-CC27-4A00-940B-5CCD2731A51F",
+    "isValid": true,
+    "id": "7202E8BD-C918-4310-B091-55BD82FBA797",
+    "name": "Final",
+    "displayName": "Final",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Priority",
+      "Single Application",
+      "Final"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, 1 LOR, Transcript, 1 250-500-word essay",
+      "TOEFL 90/Duolingo 115"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-04-15",
+    "summerProgramId": "3FFA46DD-6226-4F65-AE96-B6EE0AA2954B",
+    "isValid": true,
+    "id": "0D8B6631-7231-4522-94CC-15ACAC79A199",
+    "name": "Rolling Application",
+    "displayName": "Rolling Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Application",
+      "Single Session"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, Unofficial Transcript, List of Extracurricular Activities, Recommendations (unclear how many), 500-word Statement of Purpose"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-02-23",
+    "summerProgramId": "4343488D-1760-45FF-BA74-0A16D54A2DE6",
+    "isValid": true,
+    "id": "29ECAE25-63E6-4D39-AB2B-8E5143790B82",
+    "name": "International",
+    "displayName": "International",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Early",
+      "Regular",
+      "International"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, Unofficial transcript, Standardized test scores (optional), 1 LOR, 1 300-500 word essay, 2 300 word essays, Sample of artwork",
+      "*International applicants residing in US can apply through Early and Regular deadlines"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-06-01",
+    "summerProgramId": "44F1463F-C3E6-4373-8C9D-17FB6D23C739",
+    "isValid": true,
+    "id": "1EBD734D-B3C5-4962-8634-DD59CF205A83",
+    "name": "Single Application",
+    "displayName": "Single Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Application"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Transcript, Personal Statement, 1 LOR, 84\u002B TOEFL/105 Duolingo",
+      "Rolling until filled. No specific application deadline."
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-15",
+    "endDate": "2022-03-01",
+    "summerProgramId": "474EEECF-8126-4B97-B2F5-9BF230BE2D00",
+    "isValid": true,
+    "id": "055E6193-4819-4F9C-A664-BD4B6DAD6DCA",
+    "name": "Single Application",
+    "displayName": "Single Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Application"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, 300-word essay, Unofficial transcript, Recommender contact information"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-07-01",
+    "summerProgramId": "57324622-E6D7-4CEF-BAE4-0CE9737AA23B",
+    "isValid": true,
+    "id": "6F7CB7D1-A589-4491-8F9E-86BB0CDABE84",
+    "name": "Rolling Enrollment",
+    "displayName": "Rolling Enrollment",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Enrollment"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online Application, GPA, Recommender Contact Information"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-21",
+    "endDate": "2022-04-07",
+    "summerProgramId": "5A9ED398-0DDF-484B-A926-02AFFD395ACC",
+    "isValid": true,
+    "id": "66E2C549-2889-4E18-900E-A49872E4C7E7",
+    "name": "Final",
+    "displayName": "Final",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Priority",
+      "Final"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Unofficial transcript, 1 LOR, 2 400 word essays, test scores optional, TOEFL 100/Duolingo 130"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-03-16",
+    "endDate": "2022-05-05",
+    "summerProgramId": "5E1A1AC7-F82F-44DB-8799-3D57DF22A219",
+    "isValid": true,
+    "id": "61313663-FD05-4268-999A-8AE4773AC53E",
+    "name": "Final",
+    "displayName": "Final",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Priority",
+      "Final"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Unofficial transcript, 2 LOR, 2 400 word essay, test scores optional, 3.3 GPA, TOEFL 100/Duolingo 130"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-06-01",
+    "summerProgramId": "600ABE5F-F1F0-49BB-B29D-6F87132988C4",
+    "isValid": true,
+    "id": "BBBC51B3-8C17-4124-AAF3-698D49F7745D",
+    "name": "Rolling Enrollment",
+    "displayName": "Rolling Enrollment",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Enrollment"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online Application, GPA, Recommender Contact Information"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2021-12-28",
+    "endDate": "2022-03-15",
+    "summerProgramId": "604B0304-FFE7-4C05-A112-2B860FA2E041",
+    "isValid": true,
+    "id": "094C6B58-0745-4F76-8356-EF538B93FD0B",
+    "name": "March Application",
+    "displayName": "March Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "March Application"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Transcript, 1 LOR, Video Essay"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-05-01",
+    "summerProgramId": "6227D655-62AA-4682-9E82-7075B1B78954",
+    "isValid": true,
+    "id": "B71B9601-F304-4E8B-A011-A1FCEDC7073E",
+    "name": "Rolling Application",
+    "displayName": "Rolling Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Application"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2021-12-15",
+    "endDate": "2022-01-28",
+    "summerProgramId": "637E92E1-B7E9-4B2E-ABB1-A40494A4878D",
+    "isValid": true,
+    "id": "5EF43848-54EB-4442-A5E8-0B62EF5BF1A2",
+    "name": "Single Session",
+    "displayName": "Single Session",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Session"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2024-07-12",
+    "summerProgramId": "67AC8E27-F583-4B9D-9C0C-150E4E203E71",
+    "isValid": true,
+    "id": "50C15E6C-B496-4BEC-B1AC-1FA5C6AEDAE2",
+    "name": "Enroll Anytime",
+    "displayName": "Enroll Anytime",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Enroll Anytime"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-06-01",
+    "summerProgramId": "6A26F794-0138-4EDE-BEDD-3CEB2550F7DA",
+    "isValid": true,
+    "id": "B2D8463D-8A0F-4DF5-8826-BBAA4C9BF97F",
+    "name": "Rolling Enrollment",
+    "displayName": "Rolling Enrollment",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Enrollment"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online Application, GPA, Recommender Contact Information"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2021-12-28",
+    "endDate": "2021-12-28",
+    "summerProgramId": "6E1B0A7E-9982-47F0-B6FA-ED5539552C8A",
+    "isValid": true,
+    "id": "326D7B26-B7BC-46E3-A624-2753F72E4C56",
+    "name": "Information in December 2021",
+    "displayName": "Information in December 2021",
+    "url": "https://hcssim.org/",
+    "tagIdList": [],
+    "aliasList": [
+      "Information in December 2021",
+      "Information in December 2022"
+    ],
+    "urlList": [
+      "https://hcssim.org/"
+    ],
+    "noteList": []
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2021-02-02",
+    "endDate": "2021-04-11",
+    "summerProgramId": "714C294D-C4C1-4745-877C-F560FC5A76A7",
+    "isValid": true,
+    "id": "29D2E44F-010E-404E-AE27-FCAD27210A73",
+    "name": "Final",
+    "displayName": "Final",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Priority",
+      "Final"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Unofficial transcript, 1 LOR, 1 500 word essay, test scores optional, TOEFL 100/Duolingo 130"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-10",
+    "endDate": "2022-05-27",
+    "summerProgramId": "720AF57C-3224-4047-A60B-DA4111EAB7CE",
+    "isValid": true,
+    "id": "04E55C29-BB0A-4375-9FCE-3B2B0BD3627D",
+    "name": "Single Session",
+    "displayName": "Single Session",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Session"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Application form, Transcript, 1 Letter of Recommendation, Standardized Test Scores *if available/not required"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-06-01",
+    "summerProgramId": "73E204A6-D053-419B-B764-879A9AD179F0",
+    "isValid": true,
+    "id": "240A790E-D7D0-4A28-B273-4ED0F2AFE4DE",
+    "name": "Rolling Enrollment",
+    "displayName": "Rolling Enrollment",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Enrollment"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-07-10",
+    "summerProgramId": "75D9D65A-6D9E-4C44-90B9-77E5501C3FBB",
+    "isValid": true,
+    "id": "82D52FCA-B0C4-4B53-9AD2-F8F34F1E3B59",
+    "name": "Rolling Enrollment",
+    "displayName": "Rolling Enrollment",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Enrollment"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online Application, GPA, Recommender Contact Information"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-20",
+    "endDate": "2022-03-09",
+    "summerProgramId": "7B28F902-B04F-4F72-AAD9-4ABD22128E10",
+    "isValid": true,
+    "id": "EE956650-3C1B-4425-B8F4-7A1351C96C31",
+    "name": "Final",
+    "displayName": "Final",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Priority",
+      "Final"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, Official transcript, 1 500 word essay, 1 250 word essay, Writing sample, Test scores (required for international, optional domestic), up to 3 LOR"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-03-16",
+    "endDate": "2022-05-05",
+    "summerProgramId": "7D35081A-4E73-4454-B5E7-92D75FF705BC",
+    "isValid": true,
+    "id": "D91BB9F8-D12A-433B-A400-CDB37B95D074",
+    "name": "Final Deadline",
+    "displayName": "Final Deadline",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Priority Deadline",
+      "Final Deadline"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Transcript, 1 Letter of Recommendation, 2 short answer essays, Test Scores optional"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-06-01",
+    "summerProgramId": "809F6481-3FF7-45AF-9076-A943C5F31D74",
+    "isValid": true,
+    "id": "21B7D79A-B459-4E8B-8C5D-781FA6E4E78B",
+    "name": "Rolling Enrollment",
+    "displayName": "Rolling Enrollment",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Enrollment"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online Application, GPA, Recommender Contact Information"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2021-12-15",
+    "endDate": "2022-04-15",
+    "summerProgramId": "860DE6B3-7270-457F-B235-56C91FC098BB",
+    "isValid": true,
+    "id": "6E2EAEB6-F123-4CB3-ADB2-B945CB220B84",
+    "name": "Single Application",
+    "displayName": "Single Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Application"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Pre-req: 1 year chemistry or physics",
+      "Online application, Unofficial transcript, 1 LOR"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-07",
+    "endDate": "2022-01-07",
+    "summerProgramId": "8810BA01-A301-4B79-8527-E99B921A965C",
+    "isValid": true,
+    "id": "7E8A3BDB-BF8D-43F2-B1D9-4D60F541C8DD",
+    "name": "UNKNOWN",
+    "displayName": "UNKNOWN",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Early",
+      "Priority",
+      "Single Application",
+      "UNKNOWN"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, Audition/portfolio (topic specific)"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2021-12-06",
+    "endDate": "2022-03-01",
+    "summerProgramId": "881C61CB-3451-4CCA-8E59-76745C7B66C1",
+    "isValid": true,
+    "id": "BAD90DDB-33A5-4A48-ACF7-54CB4522E785",
+    "name": "Single Application",
+    "displayName": "Single Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Application"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, Transcript, Resume, 1 LOR"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-02-22",
+    "endDate": "2022-04-04",
+    "summerProgramId": "88366E28-7053-4833-AC71-F7C43D66D0F7",
+    "isValid": true,
+    "id": "4FEF1B69-B1C7-4BFB-8F23-32AF3DE1161E",
+    "name": "Regular",
+    "displayName": "Regular",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Early",
+      "Priority",
+      "Regular"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, Course preferences, Short answer question(s), Official transcript, 1 LOR, Work/writing sample (optional)"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-02-19",
+    "endDate": "2022-03-11",
+    "summerProgramId": "89687319-36E3-4602-B4DD-85BE51FBD4CD",
+    "isValid": true,
+    "id": "41B9660D-1052-41EC-9BF2-54AFF5A8C9F4",
+    "name": "Online application, Unofficial transcript, 3 short answer responses, mathematical exploration activity, 1 LOR",
+    "displayName": "Online application, Unofficial transcript, 3 short answer responses, mathematical exploration activity, 1 LOR",
+    "url": "https://stanford-hai.slideroom.com/#/login/program/64506/zseyshfWNu",
+    "tagIdList": [],
+    "aliasList": [
+      "Early",
+      "Regular",
+      "Online application, Unofficial transcript, 3 short answer responses, mathematical exploration activity, 1 LOR",
+      "Extended"
+    ],
+    "urlList": [
+      "https://stanford-hai.slideroom.com/#/login/program/64506/zseyshfWNu"
+    ],
+    "noteList": [
+      "Online application, Unofficial transcript, 3 short answer responses, mathematical exploration activity, 1 LOR"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-02-02",
+    "endDate": "2022-03-01",
+    "summerProgramId": "8AE3A85C-6989-46FB-AA79-B194811DCD6F",
+    "isValid": true,
+    "id": "481EE578-8ACD-4CEB-A4A6-D348943517F0",
+    "name": "Final",
+    "displayName": "Final",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Early",
+      "Final",
+      "Regular"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, Official transcript, 1 500 word essay, 1 250 word essay, Writing sample, Test scores (required for international, optional domestic), up to 3 LOR"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2021-10-15",
+    "endDate": "2022-01-05",
+    "summerProgramId": "8AF30CA2-B2A5-4325-B91D-2D4176663921",
+    "isValid": true,
+    "id": "8AF07C93-9F15-47A1-9C9F-86A27B1204DC",
+    "name": "Single Application",
+    "displayName": "Single Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Application"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-06",
+    "endDate": "2022-01-06",
+    "summerProgramId": "8CB29A9D-90B2-4057-B63A-8D47EAE63873",
+    "isValid": true,
+    "id": "530659FD-E1A4-4090-A671-5C9F0C906610",
+    "name": "International",
+    "displayName": "International",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Early Decision",
+      "Regular",
+      "International"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, unofficial transcript, 1 LOR, 2 300-500 word essays, 30-second video, 5-10 sample artwork (optional but recommended)",
+      "*International applicants within US may follow Early and Regular application dates."
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-04-12",
+    "endDate": "2022-05-01",
+    "summerProgramId": "8ECBE87B-189A-428F-8FDA-DE8126DB4200",
+    "isValid": true,
+    "id": "36895FE6-CABE-49B8-8CB2-3433076DA381",
+    "name": "Rolling",
+    "displayName": "Rolling",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Priority",
+      "Regular",
+      "Extended",
+      "Rolling"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, Official transcript, 1 500 word essay, 1 250 word essay, Writing sample, Test scores (required for international, optional domestic), up to 3 LOR"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-03-16",
+    "endDate": "2022-06-24",
+    "summerProgramId": "8F6B4BAD-9807-42C7-BA8F-16DA61F8C511",
+    "isValid": true,
+    "id": "3C455D7C-0470-4C2D-B43B-D571C3608237",
+    "name": "Final (Rolling)",
+    "displayName": "Final (Rolling)",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Priority (Summer Housing)",
+      "Priority",
+      "International",
+      "Final (Rolling)",
+      "Final"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Transcript, 500-word Personal Statement, TOEFL 100/Duolingo 125"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2021-12-28",
+    "endDate": "2021-12-28",
+    "summerProgramId": "918980D6-677E-48B2-9F7E-DABD3FB47F9C",
+    "isValid": true,
+    "id": "5AFDA242-093A-404B-B67C-223999E2EF7F",
+    "name": "Information in January 2022",
+    "displayName": "Information in January 2022",
+    "url": "https://rossprogram.org/",
+    "tagIdList": [],
+    "aliasList": [
+      "Information in January 2022"
+    ],
+    "urlList": [
+      "https://rossprogram.org/"
+    ],
+    "noteList": []
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-02-01",
+    "endDate": "2022-04-15",
+    "summerProgramId": "95063134-C076-46A1-906A-95EF061DCAB9",
+    "isValid": true,
+    "id": "A73E9457-29B1-4DA5-A4B1-9CEC91F904E0",
+    "name": "Single Application",
+    "displayName": "Single Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Application"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online Application, Short essays, Unofficial transcript, Resume",
+      "3.5/4.0 GPA required"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-02-26",
+    "summerProgramId": "9720FF64-31F7-43A1-946E-4628E44589D7",
+    "isValid": true,
+    "id": "4489809A-F30A-4CE0-B65E-DBD1988EA6A0",
+    "name": "Single Application",
+    "displayName": "Single Application",
+    "url": "https://simr.slideroom.com/#/Login",
+    "tagIdList": [],
+    "aliasList": [
+      "Single Application"
+    ],
+    "urlList": [
+      "https://simr.slideroom.com/#/Login"
+    ],
+    "noteList": [
+      "Application materials not specified on website. Application link (via Slideroom) provided here."
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-06-01",
+    "summerProgramId": "97FF3004-840F-430A-BF93-9DA79C67184E",
+    "isValid": true,
+    "id": "5D16F526-F6DB-44FA-A635-B4C32F251E40",
+    "name": "Rolling Enrollment",
+    "displayName": "Rolling Enrollment",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Enrollment"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online Application, GPA, Recommender Contact Information"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2021-07-01",
+    "endDate": "2021-11-09",
+    "summerProgramId": "999A68FB-642B-41BE-A8EF-BD3FAC9D4D5E",
+    "isValid": true,
+    "id": "F6F31F96-1B00-4B2F-9C4F-D4BDC190B254",
+    "name": "Single Application",
+    "displayName": "Single Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Application"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-15",
+    "endDate": "2022-03-15",
+    "summerProgramId": "9A6AB2C5-D554-4D50-940E-ABC7ECE44AEF",
+    "isValid": true,
+    "id": "2E07EBB1-4DD5-46B7-97FE-674A429BB7CB",
+    "name": "UNKNOWN",
+    "displayName": "UNKNOWN",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "UNKNOWN"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-02-28",
+    "summerProgramId": "9AFC5408-E08E-4E7D-8A69-2772E16F53E4",
+    "isValid": true,
+    "id": "E32A3625-D89D-425E-9E6C-C1157C260EFD",
+    "name": "Regular Application",
+    "displayName": "Regular Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Early Application",
+      "Regular Application"
+    ],
+    "urlList": [],
+    "noteList": [
+      "*Applications must be completed in one sitting. Transcript, Preliminary research proposal."
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-10-18",
+    "endDate": "2022-10-18",
+    "summerProgramId": "9BD01853-9C67-49B4-AEA0-1308F863452C",
+    "isValid": true,
+    "id": "F853414C-8279-40A6-B119-C74538D7E8F4",
+    "name": "Single Application",
+    "displayName": "Single Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Application"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, Transcript, 1 Teacher LOR (and recommenders contact info), 1 Counselor LOR (and recommenders contact info), Test scores (optional), TOEFL/Duolingo (scores not specified)"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-04-12",
+    "endDate": "2022-05-01",
+    "summerProgramId": "9EF7E7BB-5B31-4D90-94E7-D0F8F8746BB2",
+    "isValid": true,
+    "id": "5F4DD446-A924-4321-8F65-E9842FF3B9AF",
+    "name": "Rolling",
+    "displayName": "Rolling",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Priority",
+      "Early",
+      "Regular",
+      "Extended",
+      "Rolling"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, Official transcript, 1 500 word essay, 1 250 word essay, Writing sample, Test scores (required for international, optional domestic), up to 3 LOR"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-15",
+    "endDate": "2022-05-31",
+    "summerProgramId": "A042FF65-2BE0-4C89-92F1-24556084968A",
+    "isValid": true,
+    "id": "D3B30ADD-58A3-4EEB-926E-866A9652E457",
+    "name": "Single Application",
+    "displayName": "Single Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Application"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-06-01",
+    "summerProgramId": "A0C51872-BDE8-4359-B7BA-FFCAF0FA810E",
+    "isValid": true,
+    "id": "B5439FCB-68F6-437F-8CC2-A9FB7E7E195E",
+    "name": "Rolling Enrollment",
+    "displayName": "Rolling Enrollment",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Enrollment"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online Application, GPA, Recommender Contact Information"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-21",
+    "endDate": "2022-04-07",
+    "summerProgramId": "A10C1F35-257E-4F9B-9AA5-3E54C489AFE0",
+    "isValid": true,
+    "id": "D49770A2-4312-430E-818E-B8350D354D05",
+    "name": "Final",
+    "displayName": "Final",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Priority",
+      "Final"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Unofficial transcript, 1 LOR, 1 200-300 word essay, 1 300-400 word essay, 1 140 tweet bio, test scores optional, TOEFL 100/Duolingo 130"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-02-14",
+    "summerProgramId": "A24246E6-F3A4-496C-AAC4-1BAC305D6735",
+    "isValid": true,
+    "id": "F81AF46D-DD1C-4CDF-9577-A2793DDCA17E",
+    "name": "Single Session",
+    "displayName": "Single Session",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Session"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Transcript, Test Scores, 2 LOR"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-07-01",
+    "summerProgramId": "A2FB7F1C-0A6C-4842-B77E-17E2348D236E",
+    "isValid": true,
+    "id": "4F63DF06-6EEE-43BA-82AB-DD00E12ABD43",
+    "name": "Rolling Enrollment",
+    "displayName": "Rolling Enrollment",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Enrollment"
+    ],
+    "urlList": [],
+    "noteList": [
+      "\u2022\tOnline enrollment with tuition deposit for first stage of application."
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-17",
+    "endDate": "2022-04-17",
+    "summerProgramId": "A529B321-852E-4485-AA02-4C36E0339D7B",
+    "isValid": true,
+    "id": "2149760C-E560-43D5-A9F7-498A63BDA0D9",
+    "name": "Regular Admission",
+    "displayName": "Regular Admission",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Early Admission",
+      "Early Application",
+      "Regular Admission"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, Transcript, Test Scores, Personal Statement",
+      "Online application, Transcript, Test Scores, Resume, Personal Statement"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-02-01",
+    "endDate": "2022-03-15",
+    "summerProgramId": "AB3AF51B-CC43-402F-B970-4CCA5D4E4384",
+    "isValid": true,
+    "id": "F0E0219A-060C-43BD-873D-F15065E72D70",
+    "name": "Single Session",
+    "displayName": "Single Session",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Session"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-03-02",
+    "endDate": "2022-06-15",
+    "summerProgramId": "AE22F68F-222F-4681-AADD-F8419722B368",
+    "isValid": true,
+    "id": "67338E4D-95FD-4741-96B9-AF600430D089",
+    "name": "Final",
+    "displayName": "Final",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Priority",
+      "Final"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, 1 LOR, Transcript, 1 250-500-word essay, TOEFL 90/Duolingo 110"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-01-06",
+    "summerProgramId": "B113A703-B780-4DC6-A802-3F07C36302F0",
+    "isValid": true,
+    "id": "65F8F57D-3A6F-4944-A01C-57CB30309190",
+    "name": "Rolling Enrollment",
+    "displayName": "Rolling Enrollment",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Enrollment"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online Application, GPA, Recommender Contact Information"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-06-10",
+    "summerProgramId": "B2210AAF-43FB-4592-85B3-0CDCAAB003AC",
+    "isValid": true,
+    "id": "384952E8-74FA-40C0-B63F-02D4CCEF2D17",
+    "name": "Single Session",
+    "displayName": "Single Session",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Session"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Transcript, Personal Statement"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-03",
+    "endDate": "2022-01-03",
+    "summerProgramId": "B23FECC7-3179-4355-AC30-54DB0808EBE0",
+    "isValid": true,
+    "id": "953BD703-A9FB-4BDF-9193-B603DD3E045E",
+    "name": "All Sessions",
+    "displayName": "All Sessions",
+    "url": null,
+    "tagIdList": [
+      21
+    ],
+    "aliasList": [
+      "All Sessions"
+    ],
+    "urlList": [],
+    "noteList": [
+      "1 LOR, Transcript, Personal Statement Essay"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2021-12-15",
+    "endDate": "2022-03-01",
+    "summerProgramId": "B2BF63F9-3B4F-4029-9AAA-9B56C7AD75A2",
+    "isValid": true,
+    "id": "26CBFBAB-63EF-4D54-B296-23F55DC711A7",
+    "name": "Single Application",
+    "displayName": "Single Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Application"
+    ],
+    "urlList": [],
+    "noteList": [
+      "We do not require or accept recommendations letters, grades, or transcripts as part of our application."
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-04-15",
+    "summerProgramId": "B50D7016-AD70-4071-B316-D8C8F8528961",
+    "isValid": true,
+    "id": "1D1DFFCA-971A-4E18-B265-BAA9181EE2DD",
+    "name": "Single Session",
+    "displayName": "Single Session",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Session"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Application, 1 LOR, Transcript"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-10",
+    "endDate": "2022-03-07",
+    "summerProgramId": "B63C5DFF-36B5-4ADC-B508-9A8F274F819F",
+    "isValid": true,
+    "id": "1C56A52D-65C5-4E2C-A038-D769D9920528",
+    "name": "Single Application",
+    "displayName": "Single Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Application",
+      "Single Session"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, Resume/CV, Official transcript, Test scores (if available), 500-word essay, 2\u002B LOR,"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-05-01",
+    "summerProgramId": "B6652468-C916-4519-8A18-D4DAEF729C8E",
+    "isValid": true,
+    "id": "CDE0E0C1-A515-4472-ADEC-198F38A8A751",
+    "name": "Rolling until filled",
+    "displayName": "Rolling until filled",
+    "url": "https://summer.virginia.edu/uva-advance",
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling until filled",
+      "Rolling"
+    ],
+    "urlList": [
+      "https://summer.virginia.edu/uva-advance"
+    ],
+    "noteList": [
+      "Application Requirements: Online application, Unofficial transcript, 1 LOR, 1 350-word essay, UVA application supplement",
+      "English language: 90 TOEFL"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-07",
+    "endDate": "2022-01-28",
+    "summerProgramId": "B817E709-93F4-4B97-AA95-F4D5457924C7",
+    "isValid": true,
+    "id": "DBD86780-1A9B-4BB9-84C8-DBE7182E2E15",
+    "name": "Standard",
+    "displayName": "Standard",
+    "url": "https://stanfordaimlab.slideroom.com/#/login/program/64884",
+    "tagIdList": [],
+    "aliasList": [
+      "Early",
+      "Standard"
+    ],
+    "urlList": [
+      "https://stanfordaimlab.slideroom.com/#/login/program/64884"
+    ],
+    "noteList": [
+      "https://stanfordaimlab.slideroom.com/#/login/program/64884",
+      "Online app, 2 essays (word limit not specified), Test scores, Resume/CV, Official transcript, Portfolio of up-to 3 pieces of work"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-03",
+    "endDate": "2022-03-31",
+    "summerProgramId": "BB765331-38A1-4D84-B433-848B348233E2",
+    "isValid": true,
+    "id": "C78877FE-8472-419A-A695-7849E08ECB4D",
+    "name": "Single Session",
+    "displayName": "Single Session",
+    "url": "https://archive.dimacs.rutgers.edu/ysp/Application2022.pdf",
+    "tagIdList": [
+      22
+    ],
+    "aliasList": [
+      "Single Session"
+    ],
+    "urlList": [
+      "https://archive.dimacs.rutgers.edu/ysp/Application2022.pdf"
+    ],
+    "noteList": [
+      "Math Problem Set, 1 LOR, Transcript"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-02-18",
+    "summerProgramId": "BB7F3E8F-E18D-407B-96E3-66C3CB50C281",
+    "isValid": true,
+    "id": "E1B43133-9507-4861-856B-9AE055283769",
+    "name": "Single Application",
+    "displayName": "Single Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Application"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, 1 LOR and contact information for 1 character reference, 2 750 word essays, Transcript"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-02-22",
+    "endDate": "2022-04-04",
+    "summerProgramId": "BDD57773-7BC8-4CC1-A9C5-7B6DCBC74D48",
+    "isValid": true,
+    "id": "93BF0FF8-0813-421C-A0F0-F33CF5FB8298",
+    "name": "Regular",
+    "displayName": "Regular",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Early",
+      "Priority",
+      "Regular"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, Course preferences, Short answer questions(s), Official transcript, Writing/work sample (optional)"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2021-03-16",
+    "endDate": "2021-05-05",
+    "summerProgramId": "BF5D1A62-B185-4D4A-BFD1-81CB55894ECE",
+    "isValid": true,
+    "id": "D41B82E4-ADF6-4006-A861-C0ADE5B3BD01",
+    "name": "Final",
+    "displayName": "Final",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Priority",
+      "Final"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Unofficial transcript, 1 LOR, 1 140 character tweet style bio, 1 300 word essay, 1 400 word essay, test scores optional, 3.3 GPA, TOEFL 100/Duolingo 130"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-11",
+    "endDate": "2022-06-01",
+    "summerProgramId": "C01B1BA1-BCF2-46F1-B3E4-359FDB784027",
+    "isValid": true,
+    "id": "3A615F95-4DAF-460E-B3C9-466297CF5E20",
+    "name": "Rolling",
+    "displayName": "Rolling",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "ED 1",
+      "ED 2",
+      "Rolling"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-21",
+    "endDate": "2022-04-07",
+    "summerProgramId": "C05FEA9B-095B-44FC-9507-29C13307854A",
+    "isValid": true,
+    "id": "BB8546F2-43DA-4DC9-A7CB-DB91BAB62D3F",
+    "name": "Final",
+    "displayName": "Final",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Priority",
+      "Final"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Unofficial transcript, 1 LOR, 1 200-300 word essay, 2 200-300 word essay, 1 140 character tweet bio, test scores optional, TOEFL 100/Duolingo 130"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-15",
+    "endDate": "2022-05-20",
+    "summerProgramId": "C104D863-B4BD-452E-ACA9-24FC5873E1C8",
+    "isValid": true,
+    "id": "095A7674-FEC4-426B-B464-C60EE363B43D",
+    "name": "Regular Admission",
+    "displayName": "Regular Admission",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Early Action",
+      "Regular Admission"
+    ],
+    "urlList": [],
+    "noteList": [
+      ": Online application, Short essay, 1 Letter of Recommendation (*program specific), Official Transcript, Most Recent Grade Report"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-03-31",
+    "summerProgramId": "C1509816-172F-4604-8740-364DCEC4B16B",
+    "isValid": true,
+    "id": "7CBA838C-2282-4E3A-B4C2-4146F30FABF3",
+    "name": "Rolling Registration",
+    "displayName": "Rolling Registration",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Registration"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-06-01",
+    "summerProgramId": "C2125331-EB2A-438D-9600-3F7926C5D0DB",
+    "isValid": true,
+    "id": "6011C065-0D61-4693-B4C6-4159BE1A3960",
+    "name": "Rolling Enrollment",
+    "displayName": "Rolling Enrollment",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Enrollment"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online Application, GPA, Recommender Contact Information"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-03",
+    "endDate": "2022-01-03",
+    "summerProgramId": "C3A10916-7E29-4724-8787-7E00D2437EA8",
+    "isValid": true,
+    "id": "FCCB7E08-3F84-411D-9BBE-2D3347B411BD",
+    "name": "Single Session",
+    "displayName": "Single Session",
+    "url": null,
+    "tagIdList": [
+      21
+    ],
+    "aliasList": [
+      "Single Session"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Applicants must have completed geometry. Special consideration for those who have not yet taken calculus."
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-06-01",
+    "summerProgramId": "C5872BAD-3A1F-416A-8DB8-D74FE76A7356",
+    "isValid": true,
+    "id": "CD6FABAC-4226-44AC-916B-2B205C8A804D",
+    "name": "Rolling Enrollment",
+    "displayName": "Rolling Enrollment",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Enrollment"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online Application, GPA, Recommender Contact Information"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2021-02-01",
+    "endDate": "2022-05-15",
+    "summerProgramId": "C601CE98-51F9-408D-81D6-C7C2F1EB1B7B",
+    "isValid": true,
+    "id": "FC8EB1A6-E978-419E-8A35-1613D794FA69",
+    "name": "Final Application",
+    "displayName": "Final Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Early Bird Application",
+      "Rolling Application",
+      "Final Application"
+    ],
+    "urlList": [],
+    "noteList": [
+      "300-500 word Personal Statement, 1 Letter of Recommendation, Transcript"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-07-01",
+    "summerProgramId": "C8C0DC5B-88A2-47C9-906E-9C3AC6E782E5",
+    "isValid": true,
+    "id": "7A70C767-6C55-4DCE-9FF7-129BD52954F4",
+    "name": "Rolling Registration",
+    "displayName": "Rolling Registration",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Registration"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-06",
+    "endDate": "2022-01-06",
+    "summerProgramId": "CC515693-CD0C-4327-BC95-DF32EC223001",
+    "isValid": true,
+    "id": "830A808D-94FB-4E1D-8BD6-5C9084CBE38F",
+    "name": "UNKNOWN",
+    "displayName": "UNKNOWN",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Application",
+      "Early Decision 1",
+      "UNKNOWN"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Official transcript, Graded work sample, 1 LOR (history, English, social science), Video essay (optional)"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-07-01",
+    "summerProgramId": "CD52FEF4-95B5-466C-B44A-76EDF24E38E7",
+    "isValid": true,
+    "id": "2781CDAF-A936-4328-A331-F6BDDD225447",
+    "name": "Registration",
+    "displayName": "Registration",
+    "url": "https://fs6.formsite.com/o3XUYW/4issn6rmjs/index.html",
+    "tagIdList": [],
+    "aliasList": [
+      "Registration"
+    ],
+    "urlList": [
+      "https://fs6.formsite.com/o3XUYW/4issn6rmjs/index.html"
+    ],
+    "noteList": []
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-04",
+    "endDate": "2022-01-04",
+    "summerProgramId": "D01C94F9-7BEB-4BF4-BFAF-560CFFCCC321",
+    "isValid": true,
+    "id": "5FA81198-5278-483D-BA5B-B8ED111108EC",
+    "name": "Rolling Admission",
+    "displayName": "Rolling Admission",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Admission"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Per site: \u0022Students with a very high GPA and challenging coursework encouraged to apply\u0022"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2021-12-01",
+    "endDate": "2022-01-19",
+    "summerProgramId": "D0CCC0CB-8DDD-47DF-BFAA-8D66D2B2C559",
+    "isValid": true,
+    "id": "7F722A44-4F75-4A89-B8F0-5B245B98E318",
+    "name": "Single Session",
+    "displayName": "Single Session",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Session"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, Official transcript,1 500 word essay, 1 250 word essay, Writing sample, up to 3 LOR, Pre-req information"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-03",
+    "endDate": "2022-05-15",
+    "summerProgramId": "D5328AFD-BDEB-4BA2-A673-2B17761C1741",
+    "isValid": true,
+    "id": "E128073A-476D-48F3-8D5D-B5FA1370E4E6",
+    "name": "Late Application",
+    "displayName": "Late Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Early Application",
+      "Regular Application",
+      "Late Application"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online Application, 1 LOR, Admissions Test"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-02-23",
+    "summerProgramId": "D5A4FE08-626D-49F8-AF07-73C5CCB8B25D",
+    "isValid": true,
+    "id": "FB8494E3-9C63-4717-8687-988E351A4B90",
+    "name": "International",
+    "displayName": "International",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Early",
+      "Regular",
+      "International"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, Unofficial transcript, Test scores (optional), 1 counselor LOR, 1 teacher LOR, 3 300-500 word essays",
+      "International applicants residing in US may apply to Early and Regular application deadlines."
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-02-23",
+    "summerProgramId": "D5BBC387-C58B-4006-BF5B-E9BDC95F9AF3",
+    "isValid": true,
+    "id": "BFFCA7AD-B8B8-4CA7-86BD-52ECC8C2536C",
+    "name": "International",
+    "displayName": "International",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Early",
+      "Regular",
+      "International"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, Unofficial transcript, Test scores (optional), mathematics coursework (optional), 1 LOR, 2 300-500 word essays",
+      "International applicants residing in US may apply to Early and Regular deadlines"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-02-28",
+    "summerProgramId": "D5ECA976-1683-47ED-A6E3-31FD4FF11B95",
+    "isValid": true,
+    "id": "2FBCA5F6-C7F5-4674-B3C5-08138A3D43CD",
+    "name": "Single Application",
+    "displayName": "Single Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Application"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-06-01",
+    "summerProgramId": "D5F0FD06-73BB-44D7-A5EF-1A76259E4D7C",
+    "isValid": true,
+    "id": "E79FFFF6-5846-4C87-A8FC-304287476674",
+    "name": "Rolling Registration",
+    "displayName": "Rolling Registration",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Registration"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2021-12-01",
+    "endDate": "2022-03-31",
+    "summerProgramId": "DA0E1DA4-A548-43B5-8647-D819E8D7EDC5",
+    "isValid": true,
+    "id": "250F748A-0EE1-4A83-A7D2-807A31C2C923",
+    "name": "Single Session",
+    "displayName": "Single Session",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Session"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, 1 LOR, 1 Teacher Assessment, Transcript"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-02-02",
+    "endDate": "2022-07-17",
+    "summerProgramId": "DC108F07-327C-4838-88A4-2185C65127FB",
+    "isValid": true,
+    "id": "84165421-5CF2-4022-89BD-778B94538449",
+    "name": "Final Registration",
+    "displayName": "Final Registration",
+    "url": "https://www.eventbrite.com/e/personalized-medicine-big-data-and-ai-explorers-workshop-tickets-195560585977",
+    "tagIdList": [],
+    "aliasList": [
+      "Early Bird Registration",
+      "Final Registration"
+    ],
+    "urlList": [
+      "https://www.eventbrite.com/e/personalized-medicine-big-data-and-ai-explorers-workshop-tickets-195560585977"
+    ],
+    "noteList": []
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-03-02",
+    "endDate": "2022-05-15",
+    "summerProgramId": "E0AE022A-F54F-484E-B7BD-61E9213BE18A",
+    "isValid": true,
+    "id": "747EB373-61ED-468D-B869-89EA435F1BFC",
+    "name": "Final",
+    "displayName": "Final",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Priority",
+      "Final"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, 1 LOR, Transcript, 1 250-500-word essay, TOEFL 90/Duolingo 110"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2021-11-18",
+    "endDate": "2022-02-21",
+    "summerProgramId": "E1D588CE-4C13-406C-968A-DF4629EC056A",
+    "isValid": true,
+    "id": "29BDAEF8-0CFE-4D38-AE2A-EC5FBA13069E",
+    "name": "Single Application",
+    "displayName": "Single Application",
+    "url": "Slideroom Applicaiton Portal: https://stanfordcsi.slideroom.com",
+    "tagIdList": [],
+    "aliasList": [
+      "Single Application"
+    ],
+    "urlList": [
+      "Slideroom Applicaiton Portal: https://stanfordcsi.slideroom.com"
+    ],
+    "noteList": [
+      "Online application, Unofficial transcript, Resume, 2 short essays (length not specified), 1 LOR"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-06-01",
+    "summerProgramId": "E86997AF-A651-4F10-AEAF-ADCAE42DABD0",
+    "isValid": true,
+    "id": "3E01F46B-B9D2-4F81-9A23-6A8B56831357",
+    "name": "Rolling Application",
+    "displayName": "Rolling Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Application"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Transcript, Short Essay"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-06-01",
+    "summerProgramId": "EE4CB9BB-AA67-434A-A83C-A81EC485E734",
+    "isValid": true,
+    "id": "FD6B0E0F-D50E-4699-8BC2-62FD3D940E07",
+    "name": "Rolling Enrollment",
+    "displayName": "Rolling Enrollment",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Enrollment"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online Application, GPA, Recommender Contact Information"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2021-12-21",
+    "endDate": "2022-02-15",
+    "summerProgramId": "EED4EBB1-BDC2-4BF5-890C-EDC899DE69A1",
+    "isValid": true,
+    "id": "E1E52B58-6EAC-48CB-AE4A-004515EF0474",
+    "name": "Regular",
+    "displayName": "Regular",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Early",
+      "Regular"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, Transcript, Activity list/Resume, Video, Portfolio, Recommender contact info (optional)"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-03-17",
+    "endDate": "2022-04-13",
+    "summerProgramId": "F521B895-7587-46E5-9AA3-454195EABE18",
+    "isValid": true,
+    "id": "C507C6D1-04B9-4617-8803-743A78D02771",
+    "name": "Final",
+    "displayName": "Final",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Early",
+      "Priority",
+      "Final"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, 1 LOR, Official transcript, 750-word personal statement"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-06-01",
+    "summerProgramId": "F5E2A544-33EA-4163-B8FC-C5A67FFCD463",
+    "isValid": true,
+    "id": "679E4C99-D41C-4098-8AE4-E41A9905A38B",
+    "name": "Rolling Enrollment",
+    "displayName": "Rolling Enrollment",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Enrollment"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online Application, GPA, Recommender Contact Information"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-06-01",
+    "summerProgramId": "F9D2FA42-5C32-44BC-9B09-FD154679A39E",
+    "isValid": true,
+    "id": "D0D5C96C-3D81-42F3-BDB6-ABF8F792AFD9",
+    "name": "Rolling Enrollment",
+    "displayName": "Rolling Enrollment",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Enrollment"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online Application, GPA, Recommender Contact Information"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-03",
+    "endDate": "2022-04-26",
+    "summerProgramId": "FA7A0D39-0158-4170-921B-0151CCB71820",
+    "isValid": true,
+    "id": "CE7ACC7E-1B77-49DD-BE41-668AFF58A564",
+    "name": "Rolling Application",
+    "displayName": "Rolling Application",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rolling Application"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-01",
+    "endDate": "2022-03-04",
+    "summerProgramId": "FACE82A3-B6EB-4FAE-B8F8-184079912FF6",
+    "isValid": true,
+    "id": "CAB2E425-D17B-4C09-B1BA-712A3EC9699E",
+    "name": "Single Session",
+    "displayName": "Single Session",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Session"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Online application, 1 LOR"
+    ]
+  },
+  {
+    "sessionIdList": [],
+    "startDate": "2022-01-03",
+    "endDate": "2022-03-28",
+    "summerProgramId": "FFE2033C-4C59-4557-95AD-3F978ECD6744",
+    "isValid": true,
+    "id": "4115C926-9EB8-48C5-A0A7-660779DF40D0",
+    "name": "Single Application for Both Sessions",
+    "displayName": "Single Application for Both Sessions",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Single Application for Both Sessions",
+      "UNKNOWN"
+    ],
+    "urlList": [],
+    "noteList": [
+      "Application form, 1 LOR, 1 essay"
+    ]
+  }
+]

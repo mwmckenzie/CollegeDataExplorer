@@ -1,6 +1,6 @@
 ﻿@page "/fetchschooldata"
 @using CollegeDataExplorer.Services
-@using CollegeDataBrowser.Models
+@using CollegeDataExplorer.Models
 @implements IDisposable
 
 @inject DataStateService dataStateService
@@ -90,13 +90,18 @@
     Anchor anchor;
     private string width = "40%";
     private string height = "100%";
+    
+    private List<string> _states = new();
+    private List<School> _schoolsToDisplay = new();
+    private string _stateFullName = string.Empty;
+    private int _schoolCount;
+    
 
     private void OpenEndDrawer() {
         open = true;
         this.anchor = anchor;
     }
-
-
+    
     void OpenDrawer(Anchor anchor) {
         open = true;
         this.anchor = anchor;
@@ -127,13 +132,7 @@
         OpenDrawer(Anchor.End);
     //navigationManager.NavigateTo("/schoolview");
     }
-
-    private List<string> _states = new();
-    private List<School> _schoolsToDisplay = new();
-    private string _stateFullName = string.Empty;
-    private int _schoolCount;
-
-
+    
     protected override Task OnInitializedAsync() {
         dataStateService.OnValueChange += DataStateHasChanged;
 

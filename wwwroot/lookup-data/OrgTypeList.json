@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "value": "University",
+    "typeName": "OrgType"
+  },
+  {
+    "id": 2,
+    "value": "ForProfitOrg",
+    "typeName": "OrgType"
+  },
+  {
+    "id": 3,
+    "value": "High School",
+    "typeName": "OrgType"
+  },
+  {
+    "id": 4,
+    "value": "College",
+    "typeName": "OrgType"
+  },
+  {
+    "id": 5,
+    "value": "NonProfitOrg",
+    "typeName": "OrgType"
+  },
+  {
+    "id": 6,
+    "value": "GovAgency",
+    "typeName": "OrgType"
+  },
+  {
+    "id": 7,
+    "value": "ResearchCenter",
+    "typeName": "OrgType"
+  },
+  {
+    "id": 8,
+    "value": "Private School",
+    "typeName": "OrgType"
+  }
+]

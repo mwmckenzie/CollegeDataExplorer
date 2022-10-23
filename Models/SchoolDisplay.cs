@@ -1,4 +1,4 @@
-﻿namespace CollegeDataBrowser.Models;
+﻿namespace CollegeDataExplorer.Models;
 
 public class SchoolDisplay {
 

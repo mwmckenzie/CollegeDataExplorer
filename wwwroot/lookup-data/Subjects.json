@@ -1,0 +1,237 @@
+[
+  {
+    "id": 1,
+    "value": "Mathematics",
+    "typeName": "Subject"
+  },
+  {
+    "id": 2,
+    "value": "Healthcare",
+    "typeName": "Subject"
+  },
+  {
+    "id": 3,
+    "value": "Writing",
+    "typeName": "Subject"
+  },
+  {
+    "id": 4,
+    "value": "Music",
+    "typeName": "Subject"
+  },
+  {
+    "id": 5,
+    "value": "Data Science",
+    "typeName": "Subject"
+  },
+  {
+    "id": 6,
+    "value": "Life Sciences",
+    "typeName": "Subject"
+  },
+  {
+    "id": 7,
+    "value": "Research Program",
+    "typeName": "Subject"
+  },
+  {
+    "id": 8,
+    "value": "Law",
+    "typeName": "Subject"
+  },
+  {
+    "id": 9,
+    "value": "Business",
+    "typeName": "Subject"
+  },
+  {
+    "id": 10,
+    "value": "Engineering",
+    "typeName": "Subject"
+  },
+  {
+    "id": 11,
+    "value": "Cybersecurity",
+    "typeName": "Subject"
+  },
+  {
+    "id": 12,
+    "value": "College Coursework (see Individual Catalogue)",
+    "typeName": "Subject"
+  },
+  {
+    "id": 13,
+    "value": "Physics",
+    "typeName": "Subject"
+  },
+  {
+    "id": 14,
+    "value": "Computer Science",
+    "typeName": "Subject"
+  },
+  {
+    "id": 15,
+    "value": "Programming",
+    "typeName": "Subject"
+  },
+  {
+    "id": 16,
+    "value": "Science",
+    "typeName": "Subject"
+  },
+  {
+    "id": 17,
+    "value": "Architecture",
+    "typeName": "Subject"
+  },
+  {
+    "id": 18,
+    "value": "Biology",
+    "typeName": "Subject"
+  },
+  {
+    "id": 19,
+    "value": "Medicine",
+    "typeName": "Subject"
+  },
+  {
+    "id": 20,
+    "value": "Lecture Series",
+    "typeName": "Subject"
+  },
+  {
+    "id": 21,
+    "value": "Finance",
+    "typeName": "Subject"
+  },
+  {
+    "id": 22,
+    "value": "Communications",
+    "typeName": "Subject"
+  },
+  {
+    "id": 23,
+    "value": "Physical Sciences",
+    "typeName": "Subject"
+  },
+  {
+    "id": 24,
+    "value": "Fine Arts",
+    "typeName": "Subject"
+  },
+  {
+    "id": 25,
+    "value": "Psychology",
+    "typeName": "Subject"
+  },
+  {
+    "id": 26,
+    "value": "Sports Analytics",
+    "typeName": "Subject"
+  },
+  {
+    "id": 27,
+    "value": "Forensic Science",
+    "typeName": "Subject"
+  },
+  {
+    "id": 28,
+    "value": "Theater",
+    "typeName": "Subject"
+  },
+  {
+    "id": 29,
+    "value": "Acting",
+    "typeName": "Subject"
+  },
+  {
+    "id": 30,
+    "value": "Ancient Languages",
+    "typeName": "Subject"
+  },
+  {
+    "id": 31,
+    "value": "Modern Languages",
+    "typeName": "Subject"
+  },
+  {
+    "id": 32,
+    "value": "Art",
+    "typeName": "Subject"
+  },
+  {
+    "id": 33,
+    "value": "International Relations",
+    "typeName": "Subject"
+  },
+  {
+    "id": 34,
+    "value": "Race And Identity Studies",
+    "typeName": "Subject"
+  },
+  {
+    "id": 35,
+    "value": "Social Studies",
+    "typeName": "Subject"
+  },
+  {
+    "id": 36,
+    "value": "Science And Technology",
+    "typeName": "Subject"
+  },
+  {
+    "id": 37,
+    "value": "Culture",
+    "typeName": "Subject"
+  },
+  {
+    "id": 38,
+    "value": "Abstract Mathematics",
+    "typeName": "Subject"
+  },
+  {
+    "id": 39,
+    "value": "Biotechnology",
+    "typeName": "Subject"
+  },
+  {
+    "id": 40,
+    "value": "Philosophy",
+    "typeName": "Subject"
+  },
+  {
+    "id": 41,
+    "value": "Entrepreneurship",
+    "typeName": "Subject"
+  },
+  {
+    "id": 42,
+    "value": "Creative Writing",
+    "typeName": "Subject"
+  },
+  {
+    "id": 43,
+    "value": "Politics",
+    "typeName": "Subject"
+  },
+  {
+    "id": 44,
+    "value": "Formal Science",
+    "typeName": "Subject"
+  },
+  {
+    "id": 45,
+    "value": "Environmental Science",
+    "typeName": "Subject"
+  },
+  {
+    "id": 46,
+    "value": "English",
+    "typeName": "Subject"
+  },
+  {
+    "id": 47,
+    "value": "Filmmaking",
+    "typeName": "Subject"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "value": "California",
+    "typeName": "Residence"
+  },
+  {
+    "id": 2,
+    "value": "Dormitory",
+    "typeName": "Residence"
+  },
+  {
+    "id": 3,
+    "value": "China",
+    "typeName": "Residence"
+  },
+  {
+    "id": 4,
+    "value": "California - Bay Area",
+    "typeName": "Residence"
+  }
+]

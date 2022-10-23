@@ -1,0 +1,30 @@
+﻿@page "/summerprogramview"
+
+@using CollegeDataExplorer.Services
+@using CollegeDataExplorer.Models
+@implements IDisposable
+
+@inject DataStateService dataStateService
+
+<ProgramDetails summerProgram="@_summerProgram" />
+
+
+@code {
+
+    private SummerProgramObj _summerProgram = new();
+
+    protected override Task OnInitializedAsync() {
+        dataStateService.OnValueChange += DataStateHasChanged;
+        
+        DataStateHasChanged();
+        return Task.CompletedTask;
+    }
+
+    private void DataStateHasChanged() {
+        _summerProgram = dataStateService.selectedProgram;
+    }
+
+    public void Dispose() {
+        dataStateService.OnValueChange -= DataStateHasChanged;
+    }
+}

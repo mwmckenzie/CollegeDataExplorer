@@ -5,6 +5,7 @@
 
 @inject HttpClient httpClient
 @inject SchoolDataService schoolDataService
+@inject ProgramDataService programDataService
 
 <PageTitle>Index</PageTitle>
 
@@ -44,8 +45,8 @@ else {
 
     protected override async Task OnInitializedAsync() {
         
-        schoolDataService.LoadProgressOccured += OnLoadProgressOccured;
         _isLoading = true;
+        await programDataService.Init(httpClient);
         _isLoading = false;
         
         await finishedLoading.InvokeAsync();
@@ -60,7 +61,7 @@ else {
     }
 
     public void Dispose() {
-        schoolDataService.LoadProgressOccured -= OnLoadProgressOccured;
+        
     }
 
 }

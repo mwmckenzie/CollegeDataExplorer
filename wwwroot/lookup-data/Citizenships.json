@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "value": "United States",
+    "typeName": "Citizenship"
+  },
+  {
+    "id": 2,
+    "value": "Primarily USA",
+    "typeName": "Citizenship"
+  }
+]

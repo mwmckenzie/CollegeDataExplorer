@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "value": "Residential",
+    "typeName": "ProgramType"
+  },
+  {
+    "id": 2,
+    "value": "Online",
+    "typeName": "ProgramType"
+  },
+  {
+    "id": 3,
+    "value": "Travel",
+    "typeName": "ProgramType"
+  },
+  {
+    "id": 4,
+    "value": "TBD",
+    "typeName": "ProgramType"
+  },
+  {
+    "id": 5,
+    "value": "Commuter",
+    "typeName": "ProgramType"
+  },
+  {
+    "id": 6,
+    "value": "In-person",
+    "typeName": "ProgramType"
+  }
+]

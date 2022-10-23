@@ -1,6 +1,6 @@
 ﻿using System.Net.Http.Json;
-using CollegeDataBrowser.Models;
 using CollegeDataExplorer.Helpers;
+using CollegeDataExplorer.Models;
 
 namespace CollegeDataExplorer.Services;
 
@@ -17,8 +17,7 @@ public class SchoolDataService {
     public string loadProgress => $"{(int) (100f * _pagesLoaded / 26f)}%";
     public bool loadComplete { get; private set; }
 
-    public event Action? LoadProgressOccured;
-    public event Action? LoadCompleted;
+    
 
     public async Task Init(HttpClient http) {
         _http = http;
@@ -38,7 +37,6 @@ public class SchoolDataService {
                 _stateAbbrevs.TryAdd(state, _schoolLookUps.GetStateFullNameByFip(school.StateFips));
                 schoolCount++;
             }
-            OnInitializationUpdated();
         }
 
         if (_schoolsByState.Count < 1) return;
@@ -53,14 +51,9 @@ public class SchoolDataService {
         OnInitializationComplete();
     }
 
-    private void OnInitializationUpdated() {
-        LoadProgressOccured?.Invoke();
-    }
-
     private void OnInitializationComplete() {
         _isInitialized = true;
         loadComplete = true;
-        LoadCompleted?.Invoke();
     }
 
     public List<School> GetSchoolsByState(string state) {

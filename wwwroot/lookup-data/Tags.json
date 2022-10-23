@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "value": "Selective",
+    "typeName": "Tag"
+  },
+  {
+    "id": 2,
+    "value": "FemalesEncouraged",
+    "typeName": "Tag"
+  },
+  {
+    "id": 3,
+    "value": "Noncredit",
+    "typeName": "Tag"
+  },
+  {
+    "id": 4,
+    "value": "JumpStart",
+    "typeName": "Tag"
+  },
+  {
+    "id": 5,
+    "value": "Competitive",
+    "typeName": "Tag"
+  },
+  {
+    "id": 6,
+    "value": "STEM",
+    "typeName": "Tag"
+  },
+  {
+    "id": 7,
+    "value": "USOnly",
+    "typeName": "Tag"
+  },
+  {
+    "id": 8,
+    "value": "PayToPlay",
+    "typeName": "Tag"
+  },
+  {
+    "id": 9,
+    "value": "IntlTravel",
+    "typeName": "Tag"
+  },
+  {
+    "id": 10,
+    "value": "Free",
+    "typeName": "Tag"
+  },
+  {
+    "id": 11,
+    "value": "StipendReceived",
+    "typeName": "Tag"
+  },
+  {
+    "id": 12,
+    "value": "HighlySelective",
+    "typeName": "Tag"
+  },
+  {
+    "id": 13,
+    "value": "StudentNoms",
+    "typeName": "Tag"
+  },
+  {
+    "id": 14,
+    "value": "AllGirls",
+    "typeName": "Tag"
+  },
+  {
+    "id": 15,
+    "value": "TopSchool",
+    "typeName": "Tag"
+  },
+  {
+    "id": 16,
+    "value": "Credit",
+    "typeName": "Tag"
+  },
+  {
+    "id": 17,
+    "value": "Asynchronous",
+    "typeName": "Tag"
+  },
+  {
+    "id": 18,
+    "value": "YearRound",
+    "typeName": "Tag"
+  },
+  {
+    "id": 19,
+    "value": "SouthHem",
+    "typeName": "Tag"
+  },
+  {
+    "id": 20,
+    "value": "Internship",
+    "typeName": "Tag"
+  },
+  {
+    "id": 21,
+    "value": "JanStart",
+    "typeName": "Tag"
+  },
+  {
+    "id": 22,
+    "value": "FCFS",
+    "typeName": "Tag"
+  },
+  {
+    "id": 23,
+    "value": "IvyLeague",
+    "typeName": "Tag"
+  },
+  {
+    "id": 24,
+    "value": "ESLEncouraged",
+    "typeName": "Tag"
+  }
+]

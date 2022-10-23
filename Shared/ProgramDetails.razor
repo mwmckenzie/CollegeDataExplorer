@@ -1,0 +1,89 @@
+﻿@using CollegeDataExplorer.Services
+@using CollegeDataExplorer.Models
+
+<MudPaper Class="pa-4">
+    <MudPaper Class="pa-4 mb-4">
+        <MudText Typo="Typo.h3">@summerProgram.name</MudText>
+        <MudStack Row="true" Justify="Justify.SpaceBetween">
+            <MudText Typo="Typo.body1">@summerProgram.displayName</MudText>
+            <MudStack Row="true" Spacing="3">
+                <MudIcon Icon="@Icons.Material.Filled.Link"></MudIcon>
+                <MudLink Href="@summerProgram.url" Target="_blank" Typo="Typo.body1">@summerProgram.url</MudLink>
+            </MudStack>
+        </MudStack>
+    </MudPaper>
+    
+    
+    <MudPaper Class="pa-4 mb-4">
+        <MudText Typo="Typo.h5">Subjects</MudText>
+        @foreach (var subject in summerProgram.Subjects()) {
+            <MudStack Row="true" Spacing="3">
+                <MudIcon Icon="@Icons.Filled.LocationOn"></MudIcon>
+                <MudText class="mr-4" Typo="Typo.h6"></MudText>
+                <MudText Typo="Typo.h6">@subject</MudText>
+                @* <MudText class="ml-4" Typo="Typo.h6">@summerProgram.zip</MudText> *@
+            </MudStack>
+        }
+    </MudPaper>
+    
+    <MudPaper Class="pa-4 mb-4">
+        <MudText Typo="Typo.h5">Topics</MudText>
+        @foreach (var topic in summerProgram.Topics()) {
+            <MudStack Row="true" Spacing="3">
+                <MudIcon Icon="@Icons.Filled.LocationOn"></MudIcon>
+                <MudText class="mr-4" Typo="Typo.h6"></MudText>
+                <MudText Typo="Typo.h6">@topic</MudText>
+                @* <MudText class="ml-4" Typo="Typo.h6">@summerProgram.zip</MudText> *@
+            </MudStack>
+        }
+    </MudPaper>
+    
+    @* <MudStack Row="true" Spacing="3"> *@
+    @*     <MudIcon Icon="@Icons.Filled.Map"></MudIcon> *@
+    @*     <MudText Class="mr-4" Typo="Typo.h6">@summerProgram.regionId</MudText> *@
+    @*     <MudText Typo="Typo.h6">@summerProgram.locale</MudText> *@
+    @* </MudStack> *@
+    @* *@
+    @* <MudStack Row="true" Spacing="3"> *@
+    @*     <MudIcon Icon="@Icons.Filled.School"></MudIcon> *@
+    @*     <MudText Class="mr-4" Typo="Typo.h6">@summerProgram.mainCampus</MudText> *@
+    @*     <MudText Typo="Typo.h6">@summerProgram.genderRestriction</MudText> *@
+    @* </MudStack> *@
+    @* *@
+    @* <MudPaper Class="mt-2 mb-2 pa-2"> *@
+    @*     <MudText Typo="Typo.subtitle2">Carnegie Basic</MudText> *@
+    @*     <MudText Typo="Typo.h6">@summerProgram.carnegieBasic</MudText> *@
+    @* *@
+    @*     <MudText Typo="Typo.subtitle2" Class="mt-4">Carnegie Undergrad</MudText> *@
+    @*     <MudText Typo="Typo.h6">@summerProgram.carnegieUndergrad</MudText> *@
+    @* *@
+    @*     <MudText Typo="Typo.subtitle2" Class="mt-4">Carnegie Size & Setting</MudText> *@
+    @*     <MudText Typo="Typo.h6">@summerProgram.carnegieSizeSetting</MudText> *@
+    @* *@
+    @*     <MudText Typo="Typo.subtitle2" Class="mt-4">Type</MudText> *@
+    @*     <MudText Typo="Typo.h6">@summerProgram.ownership</MudText> *@
+    @*     <MudText Typo="Typo.h6">Online Only: @summerProgram.onlineOnly</MudText> *@
+    @* *@
+    @*     @if (summerProgram.aliasListToString != string.Empty) { *@
+    @*         <MudText Typo="Typo.subtitle2" Class="mt-4">Nicknames</MudText> *@
+    @*         <MudText Typo="Typo.body1">@summerProgram.aliasListToString</MudText> *@
+    @*     } *@
+    @* *@
+    @*     @if (summerProgram.priceCalculatorUrl != string.Empty) { *@
+    @*         <MudText Typo="Typo.subtitle2" Class="mt-4">Price Calculator</MudText> *@
+    @*         <MudStack Row="true" Spacing="3"> *@
+    @*             <MudIcon Icon="@Icons.Material.Filled.Link"></MudIcon> *@
+    @*             <MudLink Href="@summerProgram.schoolUrl" Target="_blank" Typo="Typo.body1">@summerProgram.priceCalculatorUrl</MudLink> *@
+    @*         </MudStack> *@
+    @*     } *@
+    @* </MudPaper> *@
+    
+</MudPaper>
+
+
+@code {
+
+    [Parameter]
+    public SummerProgramObj summerProgram { get; set; } = new();
+
+}

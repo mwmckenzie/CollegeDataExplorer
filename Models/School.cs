@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace CollegeDataBrowser.Models
+namespace CollegeDataExplorer.Models
 {
     public class School
     {

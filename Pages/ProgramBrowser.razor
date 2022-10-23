@@ -1,0 +1,159 @@
+﻿@page "/programbrowser"
+
+@using CollegeDataExplorer.Services
+@using CollegeDataExplorer.Models
+
+@implements IDisposable
+
+@inject ProgramDataService programDataService
+@inject DataStateService dataStateService
+@inject NavigationManager navigationManager
+
+<MudText Typo="Typo.h3" Class="mt-4 mb-4">Summer Program Database</MudText>
+
+<MudPaper Style="padding: 15px; margin-top: 10px; margin-bottom: 10px;">
+    <MudStack Row="true" AlignItems="AlignItems.Center">
+        <MudText Typo="Typo.h5">Programs in Database:</MudText>
+        <MudChip Color="Color.Primary">@_programCount</MudChip>
+    </MudStack>
+</MudPaper>
+
+<MudPaper Style="padding: 15px">
+    <MudStack Row="true" AlignItems="AlignItems.Center" Justify="Justify.SpaceBetween">
+        <MudText Typo="Typo.h4" Class="mb-4">Filter By Subject (@_subjects.Count)</MudText>
+        <MudSwitch @bind-Checked="str" Color="Color.Tertiary">filter: "@(str)"</MudSwitch>
+    </MudStack>
+    @if (str == "on") {
+        @foreach (var subject in _subjects) {
+            <MudButton Variant="Variant.Filled" style="margin: 2px;"
+                       @onclick="@(e => dataStateService.selectedSubject = subject)">@subject</MudButton>
+        }
+    }
+</MudPaper>
+
+<MudTable Items="@_programsToDisplay" Dense="@dense" Hover="@hover" Bordered="@bordered" Striped="@striped"
+          Filter="new Func<SummerProgramObj, bool>(FilterFunc1)"
+          @bind-SelectedItem="selectedItem1"
+          Style="margin-top: 1em">
+    <ToolBarContent>
+        <MudText Typo="Typo.h6">@_programFullName</MudText>
+        <MudSpacer/>
+        <MudTextField @bind-Value="searchString1" Placeholder="Search" Adornment="Adornment.Start"
+                      AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0">
+        </MudTextField>
+    </ToolBarContent>
+    <HeaderContent>
+        <MudTh>Name</MudTh>
+    </HeaderContent>
+    <RowTemplate>
+        <MudTd DataLabel="Name">@context.name</MudTd>
+    </RowTemplate>
+    <PagerContent>
+        <MudTablePager/>
+    </PagerContent>
+</MudTable>
+
+<div class="d-flex flex-wrap mt-4" style="margin-bottom: 1em">
+    <MudSwitch @bind-Checked="@hover" Color="Color.Primary">Hover</MudSwitch>
+    <MudSwitch @bind-Checked="@dense" Color="Color.Secondary">Dense</MudSwitch>
+    <MudSwitch @bind-Checked="@striped" Color="Color.Tertiary">Striped</MudSwitch>
+    <MudSwitch @bind-Checked="@bordered" Color="Color.Warning">Bordered</MudSwitch>
+    <MudSpacer/>
+    <div style="min-width:200px;">
+        <MudText Inline="true" Class="align-self-center">Selected: @selectedItem1.name</MudText>
+    </div>
+</div>
+
+
+
+@code {
+    
+    private List<string> _subjects = new();
+
+    private string? _selectedSubject;
+
+    private string selectedSubject {
+        get => _selectedSubject ?? string.Empty;
+        set {
+            if (_selectedSubject != null && value == _selectedSubject) {
+                return;
+            }
+            _selectedSubject = value;
+            OnSelectedSubjectChanged();
+        }
+    }
+
+    
+
+
+    private List<SummerProgramObj> _programsToDisplay = new();
+    private string _programFullName = string.Empty;
+    private int _programCount = 0;
+    
+    private bool dense;
+    private bool hover = true;
+    private bool striped;
+    private bool bordered;
+    private string searchString1 = "";
+    
+    private SummerProgramObj _selectedProgram = new();
+    private SchoolDisplay _selectedDisplay = new();
+
+    private SummerProgramObj selectedItem1 {
+        get => _selectedProgram;
+        set {
+            _selectedProgram = value;
+            OnSelectedProgramChanged();
+        }
+    }
+    public string str { get; set; } = "on";
+    
+
+    private void OnSelectedProgramChanged() {
+        dataStateService.selectedProgram = _selectedProgram;
+        navigationManager.NavigateTo("/summerprogramview");
+    }
+    
+    private void OnSelectedSubjectChanged() {
+        if (string.IsNullOrWhiteSpace(_selectedSubject)) {
+            _programsToDisplay = programDataService.programList;
+            return;
+        }
+        var subjectId = programDataService.GetSubjectId(_selectedSubject);
+        _programsToDisplay =
+            programDataService.programList.Where(x => x.subjectIdList.Contains(subjectId)).ToList();
+    }
+
+    protected override Task OnInitializedAsync() {
+        dataStateService.OnValueChange += DataStateHasChanged;
+
+        _programCount = programDataService.programCount;
+        _programsToDisplay = programDataService.programList;
+        _subjects = programDataService.subjects.ToList();
+        
+        return base.OnInitializedAsync();
+    }
+
+    private void DataStateHasChanged() {
+        selectedSubject = dataStateService.selectedSubject;
+    }
+    
+    private bool FilterFunc1(SummerProgramObj program) {
+        return FilterFunc(program, searchString1);
+    }
+
+    private bool FilterFunc(SummerProgramObj program, string searchString) {
+        if (string.IsNullOrWhiteSpace(searchString))
+            return true;
+        if (program.name is not null) {
+            if (program.name.Contains(searchString, StringComparison.OrdinalIgnoreCase))
+                return true;
+        }
+        return false;
+    }
+
+    public void Dispose() {
+        dataStateService.OnValueChange -= DataStateHasChanged;
+    }
+
+}

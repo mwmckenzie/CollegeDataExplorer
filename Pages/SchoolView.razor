@@ -1,7 +1,7 @@
 ﻿@page "/schoolview"
 
 @using CollegeDataExplorer.Services
-@using CollegeDataBrowser.Models
+@using CollegeDataExplorer.Models
 @implements IDisposable
 
 @inject DataStateService dataStateService
@@ -9,15 +9,10 @@
 <SchoolDetails school="@_school"/>
 
 
-
-
-
 @code {
-
-
+    
     private SchoolDisplay _school = new();
-
-
+    
     protected override Task OnInitializedAsync() {
         dataStateService.OnValueChange += DataStateHasChanged;
 
