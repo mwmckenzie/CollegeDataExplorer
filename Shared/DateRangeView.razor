@@ -25,6 +25,16 @@
                     </MudPaper>
                 </ItemContent>
             </MudTimelineItem>
+            <MudTimelineItem Color="Color.Tertiary" Elevation="25">
+                            <ItemOpposite>
+                                <MudText Color="Color.Tertiary" Typo="Typo.h6" GutterBottom="true">Today</MudText>
+                            </ItemOpposite>
+                            <ItemContent>
+                                <MudPaper Elevation="0" Class="mt-n1">
+                                    <MudText Color="Color.Tertiary" Typo="Typo.h6" Align="Align.Start" GutterBottom="true">@DateTime.Now.ToShortDateString() </MudText>
+                                </MudPaper>
+                            </ItemContent>
+                        </MudTimelineItem>
     </MudTimeline>
     
 </MudPaper>

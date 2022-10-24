@@ -31,19 +31,59 @@
   {
     "orgTypeId": 1,
     "isValid": true,
+    "id": "806F36B7-2614-4D66-83A1-ED93B048DD19",
+    "name": "University of California - Davis",
+    "displayName": "UC Davis",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of California - Davis",
+      "UC Davis",
+      "UNKNOWN"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "C3C2D3CC-F150-4306-9ABF-6E5A7D609E32",
+    "name": "University of California - Irvine",
+    "displayName": "UC Irvine",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of California - Irvine",
+      "UC Irvine",
+      "UNKNOWN"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "A0BF1773-D641-4D98-9FA3-5961FBD3CD9C",
+    "name": "University of California - San Diego",
+    "displayName": "UC San Diego",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of California - San Diego",
+      "UC San Diego"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
     "id": "2C43AA8F-BBCB-43C6-8998-65DAF7FE7C65",
     "name": "University of California - Santa Cruz",
     "displayName": "UC Santa Cruz",
     "url": null,
     "tagIdList": [],
     "aliasList": [
-      "University of California - Davis",
-      "UC Davis",
-      "UNKNOWN",
-      "University of California - Irvine",
-      "UC Irvine",
-      "University of California - San Diego",
-      "UC San Diego",
       "University of California - Santa Cruz",
       "UC Santa Cruz"
     ],
@@ -96,6 +136,36 @@
     "noteList": []
   },
   {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "A4DA9BA6-EBB1-4861-9386-CEEC4E71C645",
+    "name": "University of Pennsylvania",
+    "displayName": "UPenn",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of Pennsylvania",
+      "UPenn"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "8963669D-8D40-4F8E-9110-9B083CDD0095",
+    "name": "Georgetown University",
+    "displayName": "Georgetown",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Georgetown University",
+      "Georgetown"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
     "orgTypeId": 2,
     "isValid": true,
     "id": "0BB266AA-D918-4355-9289-FEE241DADE0D",
@@ -104,8 +174,6 @@
     "url": null,
     "tagIdList": [],
     "aliasList": [
-      "Georgetown University",
-      "Georgetown",
       "National Student Leadership Conference"
     ],
     "urlList": [],
@@ -127,6 +195,53 @@
     "noteList": []
   },
   {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "95F1B8CB-A11B-4113-AB5C-FE4C6DA5558D",
+    "name": "Duke University",
+    "displayName": "Duke",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Duke University",
+      "Duke",
+      "AlphaStar Academy",
+      "AlphaStar"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "8963669D-8D40-4F8E-9110-9B083CDD0095",
+    "name": "Georgetown University",
+    "displayName": "Georgetown",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Georgetown University",
+      "Georgetown"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "4F07BE33-D0E9-458D-BF95-120951C07728",
+    "name": "Yale University",
+    "displayName": "Yale",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Yale University",
+      "Yale"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
     "orgTypeId": 2,
     "isValid": true,
     "id": "0BB266AA-D918-4355-9289-FEE241DADE0D",
@@ -135,14 +250,6 @@
     "url": null,
     "tagIdList": [],
     "aliasList": [
-      "Duke University",
-      "Duke",
-      "AlphaStar Academy",
-      "AlphaStar",
-      "Georgetown University",
-      "Georgetown",
-      "Yale University",
-      "Yale",
       "National Student Leadership Conference"
     ],
     "urlList": [],
@@ -181,22 +288,74 @@
   {
     "orgTypeId": 1,
     "isValid": true,
-    "id": "73B04EDB-8659-49E7-88AE-912F0A8903DE",
-    "name": "University of Texas - Austin",
-    "displayName": "UT Austin",
+    "id": "95F1B8CB-A11B-4113-AB5C-FE4C6DA5558D",
+    "name": "Duke University",
+    "displayName": "Duke",
     "url": null,
     "tagIdList": [],
     "aliasList": [
       "Duke University",
       "Duke",
       "AlphaStar Academy",
-      "AlphaStar",
+      "AlphaStar"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "7EE121E0-3B61-4375-B650-A1C34151AC60",
+    "name": "Johns Hopkins University",
+    "displayName": "Johns Hopkins",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
       "Johns Hopkins University",
-      "Johns Hopkins",
+      "Johns Hopkins"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "E0DEA392-2328-48C5-95C0-E41D9FD8AD23",
+    "name": "University of California - Berkeley",
+    "displayName": "UC Berkeley",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
       "University of California - Berkeley",
-      "UC Berkeley",
+      "UC Berkeley"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "4F07BE33-D0E9-458D-BF95-120951C07728",
+    "name": "Yale University",
+    "displayName": "Yale",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
       "Yale University",
-      "Yale",
+      "Yale"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "73B04EDB-8659-49E7-88AE-912F0A8903DE",
+    "name": "University of Texas - Austin",
+    "displayName": "UT Austin",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
       "University of Texas - Austin",
       "UT Austin"
     ],
@@ -204,17 +363,16 @@
     "noteList": []
   },
   {
-    "orgTypeId": 2,
+    "orgTypeId": 1,
     "isValid": true,
-    "id": "0BB266AA-D918-4355-9289-FEE241DADE0D",
-    "name": "National Student Leadership Conference",
-    "displayName": "National Student Leadership Conference",
+    "id": "7EE121E0-3B61-4375-B650-A1C34151AC60",
+    "name": "Johns Hopkins University",
+    "displayName": "Johns Hopkins",
     "url": null,
     "tagIdList": [],
     "aliasList": [
       "Johns Hopkins University",
-      "Johns Hopkins",
-      "National Student Leadership Conference"
+      "Johns Hopkins"
     ],
     "urlList": [],
     "noteList": []
@@ -228,8 +386,35 @@
     "url": null,
     "tagIdList": [],
     "aliasList": [
+      "National Student Leadership Conference"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "2535967B-82DB-4037-B157-02BDB621A821",
+    "name": "American University",
+    "displayName": "American",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
       "American University",
-      "American",
+      "American"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 2,
+    "isValid": true,
+    "id": "0BB266AA-D918-4355-9289-FEE241DADE0D",
+    "name": "National Student Leadership Conference",
+    "displayName": "National Student Leadership Conference",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
       "National Student Leadership Conference"
     ],
     "urlList": [],
@@ -319,6 +504,21 @@
   {
     "orgTypeId": 1,
     "isValid": true,
+    "id": "858BF71F-427B-42B8-89FA-D34B8F467582",
+    "name": "University of Chicago",
+    "displayName": "UChicago",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of Chicago",
+      "UChicago"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
     "id": "7EE121E0-3B61-4375-B650-A1C34151AC60",
     "name": "Johns Hopkins University",
     "displayName": "Johns Hopkins",
@@ -327,6 +527,21 @@
     "aliasList": [
       "Johns Hopkins University",
       "Johns Hopkins"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "BD82E5EE-C14F-45E4-AF8F-8E3A799E6B28",
+    "name": "Stony Brook University",
+    "displayName": "Stony Brook",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Stony Brook University",
+      "Stony Brook"
     ],
     "urlList": [],
     "noteList": []
@@ -346,6 +561,21 @@
     "noteList": []
   },
   {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "2535967B-82DB-4037-B157-02BDB621A821",
+    "name": "American University",
+    "displayName": "American",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "American University",
+      "American"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
     "orgTypeId": 2,
     "isValid": true,
     "id": "0BB266AA-D918-4355-9289-FEE241DADE0D",
@@ -354,8 +584,6 @@
     "url": null,
     "tagIdList": [],
     "aliasList": [
-      "American University",
-      "American",
       "National Student Leadership Conference"
     ],
     "urlList": [],
@@ -383,6 +611,21 @@
   {
     "orgTypeId": 1,
     "isValid": true,
+    "id": "A4DA9BA6-EBB1-4861-9386-CEEC4E71C645",
+    "name": "University of Pennsylvania",
+    "displayName": "UPenn",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of Pennsylvania",
+      "UPenn"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
     "id": "51148AB8-9713-4EBA-AA88-7F1AFAE7CF13",
     "name": "University of Iowa",
     "displayName": "Iowa",
@@ -396,6 +639,36 @@
     "noteList": []
   },
   {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "A4DA9BA6-EBB1-4861-9386-CEEC4E71C645",
+    "name": "University of Pennsylvania",
+    "displayName": "UPenn",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of Pennsylvania",
+      "UPenn"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 4,
+    "isValid": true,
+    "id": "F4129270-F18F-4780-A728-9D3C2CA0FC69",
+    "name": "Georgia Institute of Technology",
+    "displayName": "Georgia Tech",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Georgia Institute of Technology",
+      "Georgia Tech"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
     "orgTypeId": 2,
     "isValid": true,
     "id": "0BB266AA-D918-4355-9289-FEE241DADE0D",
@@ -404,8 +677,6 @@
     "url": null,
     "tagIdList": [],
     "aliasList": [
-      "Georgia Institute of Technology",
-      "Georgia Tech",
       "National Student Leadership Conference"
     ],
     "urlList": [],
@@ -429,15 +700,41 @@
   {
     "orgTypeId": 1,
     "isValid": true,
+    "id": "2535967B-82DB-4037-B157-02BDB621A821",
+    "name": "American University",
+    "displayName": "American",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "American University",
+      "American"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 2,
+    "isValid": true,
+    "id": "0BB266AA-D918-4355-9289-FEE241DADE0D",
+    "name": "National Student Leadership Conference",
+    "displayName": "National Student Leadership Conference",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "National Student Leadership Conference"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
     "id": "E0DEA392-2328-48C5-95C0-E41D9FD8AD23",
     "name": "University of California - Berkeley",
     "displayName": "UC Berkeley",
     "url": null,
     "tagIdList": [],
     "aliasList": [
-      "American University",
-      "American",
-      "National Student Leadership Conference",
       "University of California - Berkeley",
       "UC Berkeley"
     ],
@@ -475,6 +772,36 @@
     "noteList": []
   },
   {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "18877616-5371-4376-9900-99CEABC7E8C2",
+    "name": "Carnegie Mellon University",
+    "displayName": "Carnegie Mellon",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Carnegie Mellon University",
+      "Carnegie Mellon"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "4D5274D6-A2BA-4BE0-A915-F29C59F8F212",
+    "name": "Boston University",
+    "displayName": "BU",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Boston University",
+      "BU"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
     "orgTypeId": 4,
     "isValid": true,
     "id": "FB555188-4765-4268-A1D3-D27E9759E4DC",
@@ -506,6 +833,51 @@
     "noteList": []
   },
   {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "A4DA9BA6-EBB1-4861-9386-CEEC4E71C645",
+    "name": "University of Pennsylvania",
+    "displayName": "UPenn",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of Pennsylvania",
+      "UPenn"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "A4DA9BA6-EBB1-4861-9386-CEEC4E71C645",
+    "name": "University of Pennsylvania",
+    "displayName": "UPenn",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of Pennsylvania",
+      "UPenn"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "2535967B-82DB-4037-B157-02BDB621A821",
+    "name": "American University",
+    "displayName": "American",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "American University",
+      "American"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
     "orgTypeId": 2,
     "isValid": true,
     "id": "0BB266AA-D918-4355-9289-FEE241DADE0D",
@@ -514,9 +886,101 @@
     "url": null,
     "tagIdList": [],
     "aliasList": [
-      "American University",
-      "American",
       "National Student Leadership Conference"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "ABE889E5-0DED-453F-A6AF-12F7F9825EA8",
+    "name": "Stanford University",
+    "displayName": "Stanford",
+    "url": "https://www.stanford.edu",
+    "tagIdList": [
+      15
+    ],
+    "aliasList": [
+      "Stanford University",
+      "Stanford"
+    ],
+    "urlList": [
+      "https://www.stanford.edu"
+    ],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "464ABA43-A851-4B4E-BD5A-D31BC5B3744D",
+    "name": "Wake Forest University",
+    "displayName": "Wake Forest",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Wake Forest University",
+      "Wake Forest"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "341D09CC-E688-4DD4-9C20-810D935CAE9A",
+    "name": "New Mexico Institute of Mining and Technology",
+    "displayName": "New Mexico Tech",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "New Mexico Institute of Mining and Technology",
+      "New Mexico Tech"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "1842194F-4E33-4745-AA90-8C42E129F2DA",
+    "name": "University of North Carolina - Chapel Hill",
+    "displayName": "UNC Chapel Hill",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of North Carolina - Chapel Hill",
+      "UNC Chapel Hill"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "95921D29-A88C-4726-912B-66B29AB13DF5",
+    "name": "Purdue University",
+    "displayName": "Purdue",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Purdue University",
+      "Purdue"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "D50D356F-8C53-45D4-B45D-41DE54A2C332",
+    "name": "Indiana University",
+    "displayName": "Indiana",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Indiana University",
+      "Indiana"
     ],
     "urlList": [],
     "noteList": []
@@ -530,16 +994,37 @@
     "url": null,
     "tagIdList": [],
     "aliasList": [
-      "New Mexico Institute of Mining and Technology",
-      "New Mexico Tech",
-      "University of North Carolina - Chapel Hill",
-      "UNC Chapel Hill",
-      "Purdue University",
-      "Purdue",
-      "Indiana University",
-      "Indiana",
       "University of Colorado - Boulder",
       "Colorado"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "A4DA9BA6-EBB1-4861-9386-CEEC4E71C645",
+    "name": "University of Pennsylvania",
+    "displayName": "UPenn",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of Pennsylvania",
+      "UPenn"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 2,
+    "isValid": true,
+    "id": "0BB266AA-D918-4355-9289-FEE241DADE0D",
+    "name": "National Student Leadership Conference",
+    "displayName": "National Student Leadership Conference",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "National Student Leadership Conference"
     ],
     "urlList": [],
     "noteList": []
@@ -553,7 +1038,6 @@
     "url": null,
     "tagIdList": [],
     "aliasList": [
-      "National Student Leadership Conference",
       "University of California - San Diego",
       "UC San Diego"
     ],
@@ -578,6 +1062,21 @@
   {
     "orgTypeId": 1,
     "isValid": true,
+    "id": "A4DA9BA6-EBB1-4861-9386-CEEC4E71C645",
+    "name": "University of Pennsylvania",
+    "displayName": "UPenn",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of Pennsylvania",
+      "UPenn"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
     "id": "8CD47F65-729D-43D5-8FE3-36BCA34979FF",
     "name": "Drexel University",
     "displayName": "Drexel",
@@ -591,18 +1090,17 @@
     "noteList": []
   },
   {
-    "orgTypeId": 2,
+    "orgTypeId": 1,
     "isValid": true,
-    "id": "0BB266AA-D918-4355-9289-FEE241DADE0D",
-    "name": "National Student Leadership Conference",
-    "displayName": "National Student Leadership Conference",
+    "id": "B95FACEE-869B-4B00-8C51-FE543BE6B731",
+    "name": "University of California - Los Angeles",
+    "displayName": "UCLA",
     "url": null,
     "tagIdList": [],
     "aliasList": [
       "University of California - Los Angeles",
       "UCLA",
-      "University of California Los Angeles",
-      "National Student Leadership Conference"
+      "University of California Los Angeles"
     ],
     "urlList": [],
     "noteList": []
@@ -616,8 +1114,94 @@
     "url": null,
     "tagIdList": [],
     "aliasList": [
+      "National Student Leadership Conference"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "7EE121E0-3B61-4375-B650-A1C34151AC60",
+    "name": "Johns Hopkins University",
+    "displayName": "Johns Hopkins",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Johns Hopkins University",
+      "Johns Hopkins"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 2,
+    "isValid": true,
+    "id": "0BB266AA-D918-4355-9289-FEE241DADE0D",
+    "name": "National Student Leadership Conference",
+    "displayName": "National Student Leadership Conference",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "National Student Leadership Conference"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "858BF71F-427B-42B8-89FA-D34B8F467582",
+    "name": "University of Chicago",
+    "displayName": "UChicago",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of Chicago",
+      "UChicago"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "A4DA9BA6-EBB1-4861-9386-CEEC4E71C645",
+    "name": "University of Pennsylvania",
+    "displayName": "UPenn",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of Pennsylvania",
+      "UPenn"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "2535967B-82DB-4037-B157-02BDB621A821",
+    "name": "American University",
+    "displayName": "American",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
       "American University",
-      "American",
+      "American"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 2,
+    "isValid": true,
+    "id": "0BB266AA-D918-4355-9289-FEE241DADE0D",
+    "name": "National Student Leadership Conference",
+    "displayName": "National Student Leadership Conference",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
       "National Student Leadership Conference"
     ],
     "urlList": [],
@@ -669,6 +1253,25 @@
     "noteList": []
   },
   {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "ABE889E5-0DED-453F-A6AF-12F7F9825EA8",
+    "name": "Stanford University",
+    "displayName": "Stanford",
+    "url": "https://www.stanford.edu",
+    "tagIdList": [
+      15
+    ],
+    "aliasList": [
+      "Stanford University",
+      "Stanford"
+    ],
+    "urlList": [
+      "https://www.stanford.edu"
+    ],
+    "noteList": []
+  },
+  {
     "orgTypeId": 2,
     "isValid": true,
     "id": "85B60127-52AB-4E44-80A2-51BAC1974D1F",
@@ -685,19 +1288,109 @@
   {
     "orgTypeId": 1,
     "isValid": true,
+    "id": "ABE889E5-0DED-453F-A6AF-12F7F9825EA8",
+    "name": "Stanford University",
+    "displayName": "Stanford",
+    "url": "https://www.stanford.edu",
+    "tagIdList": [
+      15
+    ],
+    "aliasList": [
+      "Stanford University",
+      "Stanford"
+    ],
+    "urlList": [
+      "https://www.stanford.edu"
+    ],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "858BF71F-427B-42B8-89FA-D34B8F467582",
+    "name": "University of Chicago",
+    "displayName": "UChicago",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of Chicago",
+      "UChicago"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "8DADBF91-9A22-4502-9523-867A41010A8F",
+    "name": "Cornell University",
+    "displayName": "Cornell",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Cornell University",
+      "Cornell"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "47E94ED2-A724-4286-B731-8941BBE28E01",
+    "name": "University of Michigan - Ann Arbor",
+    "displayName": "Michigan",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of Michigan - Ann Arbor",
+      "Michigan",
+      "University of Michigan"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
     "id": "1098F138-9A38-454C-BDAA-76B28DBCE937",
     "name": "University of Maryland",
     "displayName": "Maryland",
     "url": null,
     "tagIdList": [],
     "aliasList": [
-      "Cornell University",
-      "Cornell",
-      "University of Michigan - Ann Arbor",
-      "Michigan",
-      "University of Michigan",
       "University of Maryland",
       "Maryland"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "18877616-5371-4376-9900-99CEABC7E8C2",
+    "name": "Carnegie Mellon University",
+    "displayName": "Carnegie Mellon",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Carnegie Mellon University",
+      "Carnegie Mellon"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "858BF71F-427B-42B8-89FA-D34B8F467582",
+    "name": "University of Chicago",
+    "displayName": "UChicago",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of Chicago",
+      "UChicago"
     ],
     "urlList": [],
     "noteList": []
@@ -733,6 +1426,68 @@
     "noteList": []
   },
   {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "D50D356F-8C53-45D4-B45D-41DE54A2C332",
+    "name": "Indiana University",
+    "displayName": "Indiana",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Indiana University",
+      "Indiana"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "2535967B-82DB-4037-B157-02BDB621A821",
+    "name": "American University",
+    "displayName": "American",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "American University",
+      "American"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "95F1B8CB-A11B-4113-AB5C-FE4C6DA5558D",
+    "name": "Duke University",
+    "displayName": "Duke",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Duke University",
+      "Duke",
+      "AlphaStar Academy",
+      "AlphaStar"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "E0DEA392-2328-48C5-95C0-E41D9FD8AD23",
+    "name": "University of California - Berkeley",
+    "displayName": "UC Berkeley",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of California - Berkeley",
+      "UC Berkeley"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
     "orgTypeId": 2,
     "isValid": true,
     "id": "0BB266AA-D918-4355-9289-FEE241DADE0D",
@@ -741,14 +1496,6 @@
     "url": null,
     "tagIdList": [],
     "aliasList": [
-      "American University",
-      "American",
-      "Duke University",
-      "Duke",
-      "AlphaStar Academy",
-      "AlphaStar",
-      "University of California - Berkeley",
-      "UC Berkeley",
       "National Student Leadership Conference"
     ],
     "urlList": [],
@@ -815,25 +1562,97 @@
     "noteList": []
   },
   {
-    "orgTypeId": 2,
+    "orgTypeId": 1,
     "isValid": true,
-    "id": "0BB266AA-D918-4355-9289-FEE241DADE0D",
-    "name": "National Student Leadership Conference",
-    "displayName": "National Student Leadership Conference",
+    "id": "858BF71F-427B-42B8-89FA-D34B8F467582",
+    "name": "University of Chicago",
+    "displayName": "UChicago",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of Chicago",
+      "UChicago"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "ABE889E5-0DED-453F-A6AF-12F7F9825EA8",
+    "name": "Stanford University",
+    "displayName": "Stanford",
+    "url": "https://www.stanford.edu",
+    "tagIdList": [
+      15
+    ],
+    "aliasList": [
+      "Stanford University",
+      "Stanford"
+    ],
+    "urlList": [
+      "https://www.stanford.edu"
+    ],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "95F1B8CB-A11B-4113-AB5C-FE4C6DA5558D",
+    "name": "Duke University",
+    "displayName": "Duke",
     "url": null,
     "tagIdList": [],
     "aliasList": [
       "Duke University",
       "Duke",
       "AlphaStar Academy",
-      "AlphaStar",
+      "AlphaStar"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "B3516134-8042-403E-8F44-B1E1232BAF01",
+    "name": "Fordham University",
+    "displayName": "Fordham",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
       "Fordham University",
-      "Fordham",
+      "Fordham"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "E0DEA392-2328-48C5-95C0-E41D9FD8AD23",
+    "name": "University of California - Berkeley",
+    "displayName": "UC Berkeley",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
       "University of California - Berkeley",
-      "UC Berkeley",
+      "UC Berkeley"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "4F07BE33-D0E9-458D-BF95-120951C07728",
+    "name": "Yale University",
+    "displayName": "Yale",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
       "Yale University",
-      "Yale",
-      "National Student Leadership Conference"
+      "Yale"
     ],
     "urlList": [],
     "noteList": []
@@ -847,9 +1666,52 @@
     "url": null,
     "tagIdList": [],
     "aliasList": [
-      "Georgetown University",
-      "Georgetown",
       "National Student Leadership Conference"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "A4DA9BA6-EBB1-4861-9386-CEEC4E71C645",
+    "name": "University of Pennsylvania",
+    "displayName": "UPenn",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of Pennsylvania",
+      "UPenn"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "4D5274D6-A2BA-4BE0-A915-F29C59F8F212",
+    "name": "Boston University",
+    "displayName": "BU",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Boston University",
+      "BU"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "8963669D-8D40-4F8E-9110-9B083CDD0095",
+    "name": "Georgetown University",
+    "displayName": "Georgetown",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Georgetown University",
+      "Georgetown"
     ],
     "urlList": [],
     "noteList": []
@@ -863,9 +1725,66 @@
     "url": null,
     "tagIdList": [],
     "aliasList": [
-      "Georgetown University",
-      "Georgetown",
       "National Student Leadership Conference"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 4,
+    "isValid": true,
+    "id": "D22E1F66-AC39-4DA9-A15E-8C29F2772FD3",
+    "name": "Smith College",
+    "displayName": "Smith",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Smith College",
+      "Smith"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "8963669D-8D40-4F8E-9110-9B083CDD0095",
+    "name": "Georgetown University",
+    "displayName": "Georgetown",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Georgetown University",
+      "Georgetown"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 2,
+    "isValid": true,
+    "id": "0BB266AA-D918-4355-9289-FEE241DADE0D",
+    "name": "National Student Leadership Conference",
+    "displayName": "National Student Leadership Conference",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "National Student Leadership Conference"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "4D5274D6-A2BA-4BE0-A915-F29C59F8F212",
+    "name": "Boston University",
+    "displayName": "BU",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Boston University",
+      "BU"
     ],
     "urlList": [],
     "noteList": []
@@ -889,6 +1808,25 @@
   {
     "orgTypeId": 1,
     "isValid": true,
+    "id": "ABE889E5-0DED-453F-A6AF-12F7F9825EA8",
+    "name": "Stanford University",
+    "displayName": "Stanford",
+    "url": "https://www.stanford.edu",
+    "tagIdList": [
+      15
+    ],
+    "aliasList": [
+      "Stanford University",
+      "Stanford"
+    ],
+    "urlList": [
+      "https://www.stanford.edu"
+    ],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
     "id": "667B28A6-88AB-413E-91F4-7C37ECE87E03",
     "name": "Texas State University",
     "displayName": "Texas State",
@@ -899,6 +1837,25 @@
       "Texas State"
     ],
     "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "ABE889E5-0DED-453F-A6AF-12F7F9825EA8",
+    "name": "Stanford University",
+    "displayName": "Stanford",
+    "url": "https://www.stanford.edu",
+    "tagIdList": [
+      15
+    ],
+    "aliasList": [
+      "Stanford University",
+      "Stanford"
+    ],
+    "urlList": [
+      "https://www.stanford.edu"
+    ],
     "noteList": []
   },
   {
@@ -919,6 +1876,25 @@
   {
     "orgTypeId": 1,
     "isValid": true,
+    "id": "ABE889E5-0DED-453F-A6AF-12F7F9825EA8",
+    "name": "Stanford University",
+    "displayName": "Stanford",
+    "url": "https://www.stanford.edu",
+    "tagIdList": [
+      15
+    ],
+    "aliasList": [
+      "Stanford University",
+      "Stanford"
+    ],
+    "urlList": [
+      "https://www.stanford.edu"
+    ],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
     "id": "3273EE6E-DF1B-46DB-AA6F-21476FAD9B33",
     "name": "Rutgers University",
     "displayName": "Rutgers",
@@ -927,6 +1903,84 @@
     "aliasList": [
       "Rutgers University",
       "Rutgers"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "51148AB8-9713-4EBA-AA88-7F1AFAE7CF13",
+    "name": "University of Iowa",
+    "displayName": "Iowa",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of Iowa",
+      "Iowa"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 2,
+    "isValid": true,
+    "id": "85B60127-52AB-4E44-80A2-51BAC1974D1F",
+    "name": "The School of the New York Times",
+    "displayName": "The School of the New York Times",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "The School of the New York Times"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "A4DA9BA6-EBB1-4861-9386-CEEC4E71C645",
+    "name": "University of Pennsylvania",
+    "displayName": "UPenn",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of Pennsylvania",
+      "UPenn"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "ABE889E5-0DED-453F-A6AF-12F7F9825EA8",
+    "name": "Stanford University",
+    "displayName": "Stanford",
+    "url": "https://www.stanford.edu",
+    "tagIdList": [
+      15
+    ],
+    "aliasList": [
+      "Stanford University",
+      "Stanford"
+    ],
+    "urlList": [
+      "https://www.stanford.edu"
+    ],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "A4DA9BA6-EBB1-4861-9386-CEEC4E71C645",
+    "name": "University of Pennsylvania",
+    "displayName": "UPenn",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of Pennsylvania",
+      "UPenn"
     ],
     "urlList": [],
     "noteList": []
@@ -964,6 +2018,35 @@
   {
     "orgTypeId": 1,
     "isValid": true,
+    "id": "4F07BE33-D0E9-458D-BF95-120951C07728",
+    "name": "Yale University",
+    "displayName": "Yale",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Yale University",
+      "Yale"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 2,
+    "isValid": true,
+    "id": "0BB266AA-D918-4355-9289-FEE241DADE0D",
+    "name": "National Student Leadership Conference",
+    "displayName": "National Student Leadership Conference",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "National Student Leadership Conference"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
     "id": "A3F2B972-482F-4809-8F07-0C5782691782",
     "name": "University of Nebraska",
     "displayName": "Nebraska",
@@ -980,38 +2063,129 @@
   {
     "orgTypeId": 1,
     "isValid": true,
-    "id": "73B04EDB-8659-49E7-88AE-912F0A8903DE",
-    "name": "University of Texas - Austin",
-    "displayName": "UT Austin",
+    "id": "2535967B-82DB-4037-B157-02BDB621A821",
+    "name": "American University",
+    "displayName": "American",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "American University",
+      "American"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "95F1B8CB-A11B-4113-AB5C-FE4C6DA5558D",
+    "name": "Duke University",
+    "displayName": "Duke",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Duke University",
+      "Duke",
+      "AlphaStar Academy",
+      "AlphaStar"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "192EB690-3866-40D2-8B4E-EFBFC5CE7299",
+    "name": "Harvard University",
+    "displayName": "Harvard",
     "url": "https://www.harvard.edu",
     "tagIdList": [
       23,
       15
     ],
     "aliasList": [
-      "American University",
-      "American",
-      "Duke University",
-      "Duke",
-      "AlphaStar Academy",
-      "AlphaStar",
       "Harvard University",
-      "Harvard",
-      "Northwestern University",
-      "Northwestern",
-      "University of California - Berkeley",
-      "UC Berkeley",
-      "University of California - Los Angeles",
-      "UCLA",
-      "University of California Los Angeles",
-      "University of California - San Diego",
-      "UC San Diego",
-      "University of Texas - Austin",
-      "UT Austin"
+      "Harvard"
     ],
     "urlList": [
       "https://www.harvard.edu"
     ],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "0A081159-BA32-40A6-9597-D88812C37BB0",
+    "name": "Northwestern University",
+    "displayName": "Northwestern",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Northwestern University",
+      "Northwestern"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "E0DEA392-2328-48C5-95C0-E41D9FD8AD23",
+    "name": "University of California - Berkeley",
+    "displayName": "UC Berkeley",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of California - Berkeley",
+      "UC Berkeley"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "B95FACEE-869B-4B00-8C51-FE543BE6B731",
+    "name": "University of California - Los Angeles",
+    "displayName": "UCLA",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of California - Los Angeles",
+      "UCLA",
+      "University of California Los Angeles"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "A0BF1773-D641-4D98-9FA3-5961FBD3CD9C",
+    "name": "University of California - San Diego",
+    "displayName": "UC San Diego",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of California - San Diego",
+      "UC San Diego"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "73B04EDB-8659-49E7-88AE-912F0A8903DE",
+    "name": "University of Texas - Austin",
+    "displayName": "UT Austin",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of Texas - Austin",
+      "UT Austin"
+    ],
+    "urlList": [],
     "noteList": []
   },
   {
@@ -1046,6 +2220,25 @@
   {
     "orgTypeId": 1,
     "isValid": true,
+    "id": "ABE889E5-0DED-453F-A6AF-12F7F9825EA8",
+    "name": "Stanford University",
+    "displayName": "Stanford",
+    "url": "https://www.stanford.edu",
+    "tagIdList": [
+      15
+    ],
+    "aliasList": [
+      "Stanford University",
+      "Stanford"
+    ],
+    "urlList": [
+      "https://www.stanford.edu"
+    ],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
     "id": "D073E420-D072-4556-AD90-DCE263484463",
     "name": "Notre Dame University",
     "displayName": "Notre Dame",
@@ -1054,6 +2247,51 @@
     "aliasList": [
       "Notre Dame University",
       "Notre Dame"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "858BF71F-427B-42B8-89FA-D34B8F467582",
+    "name": "University of Chicago",
+    "displayName": "UChicago",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of Chicago",
+      "UChicago"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "18877616-5371-4376-9900-99CEABC7E8C2",
+    "name": "Carnegie Mellon University",
+    "displayName": "Carnegie Mellon",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Carnegie Mellon University",
+      "Carnegie Mellon"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "18877616-5371-4376-9900-99CEABC7E8C2",
+    "name": "Carnegie Mellon University",
+    "displayName": "Carnegie Mellon",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Carnegie Mellon University",
+      "Carnegie Mellon"
     ],
     "urlList": [],
     "noteList": []
@@ -1089,48 +2327,190 @@
     "noteList": []
   },
   {
+    "orgTypeId": 5,
+    "isValid": true,
+    "id": "38BCF390-EB72-4425-9754-142944A64740",
+    "name": "Interlochen Center for the Arts",
+    "displayName": "Interlochen",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Interlochen Center for the Arts",
+      "Interlochen"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
     "orgTypeId": 1,
     "isValid": true,
-    "id": "8A283B65-4A10-4538-B736-38F1E47971E1",
-    "name": "University of California - Santa Barbara",
-    "displayName": "UC Santa Barbara",
-    "url": "https://www.tufts.edu",
+    "id": "ABE889E5-0DED-453F-A6AF-12F7F9825EA8",
+    "name": "Stanford University",
+    "displayName": "Stanford",
+    "url": "https://www.stanford.edu",
     "tagIdList": [
       15
     ],
     "aliasList": [
-      "Foundation for Teaching Economics",
-      "Foundation for Teaching Economics (FTE)",
-      "University of Texas - Austin",
-      "UT Austin",
-      "Yale University",
-      "Yale",
-      "Rice University",
-      "Rice",
-      "Washington University St. Louis",
-      "University of California - Berkeley",
-      "UC Berkeley",
-      "University of California - Los Angeles",
-      "UCLA",
-      "University of California Los Angeles",
-      "Tufts University",
-      "Tufts",
-      "Cornell University",
-      "Cornell",
-      "Emory University",
-      "Emory",
-      "University of Washington - Seattle",
-      "UW",
-      "Northwestern University",
-      "Northwestern",
-      "Brown University",
-      "Brown",
-      "University of California - Santa Barbara",
-      "UC Santa Barbara"
+      "Stanford University",
+      "Stanford"
     ],
     "urlList": [
-      "https://www.tufts.edu"
+      "https://www.stanford.edu"
     ],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 4,
+    "isValid": true,
+    "id": "D22E1F66-AC39-4DA9-A15E-8C29F2772FD3",
+    "name": "Smith College",
+    "displayName": "Smith",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Smith College",
+      "Smith"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "ABE889E5-0DED-453F-A6AF-12F7F9825EA8",
+    "name": "Stanford University",
+    "displayName": "Stanford",
+    "url": "https://www.stanford.edu",
+    "tagIdList": [
+      15
+    ],
+    "aliasList": [
+      "Stanford University",
+      "Stanford"
+    ],
+    "urlList": [
+      "https://www.stanford.edu"
+    ],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "8CD47F65-729D-43D5-8FE3-36BCA34979FF",
+    "name": "Drexel University",
+    "displayName": "Drexel",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Drexel University",
+      "Drexel"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "8963669D-8D40-4F8E-9110-9B083CDD0095",
+    "name": "Georgetown University",
+    "displayName": "Georgetown",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Georgetown University",
+      "Georgetown"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 5,
+    "isValid": true,
+    "id": "04B3EA72-EC4B-4847-B437-0243FF532147",
+    "name": "Foundation for Teaching Economics",
+    "displayName": "Foundation for Teaching Economics (FTE)",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Foundation for Teaching Economics",
+      "Foundation for Teaching Economics (FTE)"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "73B04EDB-8659-49E7-88AE-912F0A8903DE",
+    "name": "University of Texas - Austin",
+    "displayName": "UT Austin",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of Texas - Austin",
+      "UT Austin"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "4F07BE33-D0E9-458D-BF95-120951C07728",
+    "name": "Yale University",
+    "displayName": "Yale",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Yale University",
+      "Yale"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "F6FD5B67-FB28-4532-BCFE-D4BD746088C7",
+    "name": "Rice University",
+    "displayName": "Rice",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Rice University",
+      "Rice"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "6734E6E5-4E78-449E-B283-80FB4FEBD866",
+    "name": "Washington University St. Louis",
+    "displayName": "Washington University St. Louis",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Washington University St. Louis"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "E0DEA392-2328-48C5-95C0-E41D9FD8AD23",
+    "name": "University of California - Berkeley",
+    "displayName": "UC Berkeley",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of California - Berkeley",
+      "UC Berkeley"
+    ],
+    "urlList": [],
     "noteList": []
   },
   {
@@ -1152,17 +2532,174 @@
   {
     "orgTypeId": 1,
     "isValid": true,
+    "id": "66B72312-3491-4C59-A940-0A56D31462C2",
+    "name": "Tufts University",
+    "displayName": "Tufts",
+    "url": "https://www.tufts.edu",
+    "tagIdList": [
+      15
+    ],
+    "aliasList": [
+      "Tufts University",
+      "Tufts"
+    ],
+    "urlList": [
+      "https://www.tufts.edu"
+    ],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "8DADBF91-9A22-4502-9523-867A41010A8F",
+    "name": "Cornell University",
+    "displayName": "Cornell",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Cornell University",
+      "Cornell"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "809BE48B-FBCD-4F84-A9A7-C1F1D7BB6F49",
+    "name": "Emory University",
+    "displayName": "Emory",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Emory University",
+      "Emory"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "37FF0C8E-4F0E-47CE-9CF7-DCF386728D2C",
+    "name": "University of Washington - Seattle",
+    "displayName": "UW",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of Washington - Seattle",
+      "UW"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "0A081159-BA32-40A6-9597-D88812C37BB0",
+    "name": "Northwestern University",
+    "displayName": "Northwestern",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Northwestern University",
+      "Northwestern"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "4F823DDB-40C5-4719-8A53-ED7331FC0EE9",
+    "name": "Brown University",
+    "displayName": "Brown",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "Brown University",
+      "Brown"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "8A283B65-4A10-4538-B736-38F1E47971E1",
+    "name": "University of California - Santa Barbara",
+    "displayName": "UC Santa Barbara",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of California - Santa Barbara",
+      "UC Santa Barbara"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "B95FACEE-869B-4B00-8C51-FE543BE6B731",
+    "name": "University of California - Los Angeles",
+    "displayName": "UCLA",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of California - Los Angeles",
+      "UCLA",
+      "University of California Los Angeles"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "EBDEC5FB-6C03-4423-A0E8-043683C98522",
+    "name": "University of San Diego",
+    "displayName": "University of San Diego",
+    "url": null,
+    "tagIdList": [],
+    "aliasList": [
+      "University of San Diego"
+    ],
+    "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
     "id": "7EE121E0-3B61-4375-B650-A1C34151AC60",
     "name": "Johns Hopkins University",
     "displayName": "Johns Hopkins",
     "url": null,
     "tagIdList": [],
     "aliasList": [
-      "University of San Diego",
       "Johns Hopkins University",
       "Johns Hopkins"
     ],
     "urlList": [],
+    "noteList": []
+  },
+  {
+    "orgTypeId": 1,
+    "isValid": true,
+    "id": "ABE889E5-0DED-453F-A6AF-12F7F9825EA8",
+    "name": "Stanford University",
+    "displayName": "Stanford",
+    "url": "https://www.stanford.edu",
+    "tagIdList": [
+      15
+    ],
+    "aliasList": [
+      "Stanford University",
+      "Stanford"
+    ],
+    "urlList": [
+      "https://www.stanford.edu"
+    ],
     "noteList": []
   },
   {
