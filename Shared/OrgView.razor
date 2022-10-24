@@ -1,10 +1,11 @@
 ﻿@using CollegeDataExplorer.Models
 
+<MudPaper Class="my-2 pa-4">
+    
+    <BaseInfoView baseInfoObj="@org" objTitle="Organization"/>
 
-<BaseInfoView baseInfoObj="@org" objTitle="Organization"/>
-
-@if (org.orgTypeId != null && !string.IsNullOrWhiteSpace(orgType) ) {
-        <MudPaper Class="pa-4 mb-4">
+    @if (hasOrgType) {
+        <MudPaper Class="my-2 pa-2">
             <MudText Typo="Typo.h4">Organization Type</MudText>
             <MudStack Row="true" Spacing="3" AlignItems="AlignItems.Center">
                 <MudIcon Icon="@Icons.Filled.Label"></MudIcon>
@@ -12,12 +13,16 @@
             </MudStack>
         </MudPaper>
     }
+</MudPaper>
+
 
 @code {
     
     [Parameter]
-    public Org org { get; set; } = new();
+    public Org? org { get; set; }
 
-    private string orgType => org.orgTypeId != null ? org.lookUps.GetOrgType((int) org.orgTypeId) : string.Empty;
+    private bool hasOrgType => !string.IsNullOrWhiteSpace(orgType);
+    
+    private string orgType => org?.orgTypeId != null ? org.lookUps.GetOrgType((int) org.orgTypeId) : string.Empty;
 
 }

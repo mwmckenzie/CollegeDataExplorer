@@ -1,34 +1,30 @@
 ﻿@using CollegeDataExplorer.Models
+
 @if (baseInfoObj is not null) {
-    <MudPaper Class="pa-4">
 
-        <MudPaper Class="pa-4 mb-4">
-            <MudText Class="my-1" Typo="Typo.body1" Color="Color.Tertiary">@objTitle</MudText>
-            <MudText Typo="Typo.h3">@baseInfoObj.displayName</MudText>
-            @if (!string.IsNullOrEmpty(baseInfoObj.url)) {
-                <MudStack Row="true" Spacing="3" Class="my-1">
-                    <MudIcon Icon="@Icons.Material.Filled.Link"></MudIcon>
-                    <MudLink Href="@baseInfoObj.url" Target="_blank" Typo="Typo.body1">@baseInfoObj.url</MudLink>
-                </MudStack>
+    <MudText Class="mb-1" Typo="Typo.body1" Color="Color.Tertiary">@objTitle</MudText>
+        <MudText Typo="Typo.h3">@baseInfoObj.displayName</MudText>
+        @if (!string.IsNullOrEmpty(baseInfoObj.url)) {
+            <MudStack Row="true" Spacing="3" Class="my-1">
+                <MudIcon Icon="@Icons.Material.Filled.Link"></MudIcon>
+                <MudLink Href="@baseInfoObj.url" Target="_blank" Typo="Typo.body1">@baseInfoObj.url</MudLink>
+            </MudStack>
+        }
+
+        @* <MudStack Row="true" Justify="Justify.SpaceBetween"> *@
+        @*     <MudText Typo="Typo.body1">@baseInfoObj.displayName</MudText> *@
+        @* </MudStack> *@
+
+        @if (hasTags) {
+            @foreach (var tag in baseInfoObj.Tags()) {
+                <MudChip Text="@tag" Color="Color.Primary">@tag</MudChip>
             }
+        }
 
-            @* <MudStack Row="true" Justify="Justify.SpaceBetween"> *@
-            @*     <MudText Typo="Typo.body1">@baseInfoObj.displayName</MudText> *@
-            @* </MudStack> *@
-
-            @if (baseInfoObj.Tags().ToList().Count > 0) {
-                @foreach (var tag in baseInfoObj.Tags()) {
-                    <MudChip Text="@tag" Color="Color.Primary">@tag</MudChip>
-                }
-            }
-        </MudPaper>
-
-        @if (baseInfoObj.aliasList.Count > 1 ||
-             baseInfoObj.urlList.Count > 1 ||
-             baseInfoObj.noteList.Count > 0) {
-            <MudPaper Class="pa-4 mb-4">
+        @if (hasDetails) {
+            <MudPaper Class="my-2 pa-2">
                 <MudList Clickable="true">
-                    @if (baseInfoObj.noteList.Count > 0) {
+                    @if (hasNotes) {
                         <MudListItem Icon="@Icons.Material.Filled.List" Text="Notes" InitiallyExpanded="false">
                             <NestedList>
                                 @foreach (var text in baseInfoObj.noteList) {
@@ -39,7 +35,7 @@
                             </NestedList>
                         </MudListItem>
                     }
-                    @if (baseInfoObj.aliasList.Count > 1) {
+                    @if (hasAliases) {
                         <MudListItem Icon="@Icons.Material.Filled.List" Text="Alias List" InitiallyExpanded="false">
                             <NestedList>
                                 @foreach (var text in baseInfoObj.aliasList.
@@ -51,14 +47,13 @@
                             </NestedList>
                         </MudListItem>
                     }
-                    @if (baseInfoObj.noteList.Count > 1) {
+                    @if (hasUrls) {
                         <MudListItem Icon="@Icons.Material.Filled.List" Text="Additional URLs" InitiallyExpanded="false">
                             <NestedList>
                                 @foreach (var text in baseInfoObj.urlList.
                                     Where(text => baseInfoObj.url != text)) {
                                     <MudListItem Icon="@Icons.Material.Filled.Link">
                                         <MudLink Href="@text" Target="_blank" Typo="Typo.body1">@text</MudLink>
-
                                     </MudListItem>
                                 }
                             </NestedList>
@@ -67,7 +62,6 @@
                 </MudList>
             </MudPaper>
         }
-    </MudPaper>
 }
 
 
@@ -79,5 +73,13 @@
     
     [Parameter]
     public string objTitle { get; set; }
+    
+    private bool hasTags => baseInfoObj != null &&  baseInfoObj.Tags().ToList().Count > 0;
+    
+    private bool hasNotes => baseInfoObj != null &&  baseInfoObj.noteList.Count > 0;
+    private bool hasAliases => baseInfoObj != null &&  baseInfoObj.aliasList.Count > 1;
+    private bool hasUrls => baseInfoObj != null &&  baseInfoObj.urlList.Count > 1;
+
+    private bool hasDetails => baseInfoObj != null && (hasNotes || hasAliases || hasUrls);
 
 }

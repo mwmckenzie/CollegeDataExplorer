@@ -1,0 +1,47 @@
+﻿@using CollegeDataExplorer.Models
+
+<MudPaper Class="my-2 pa-4">
+    
+    <BaseInfoView baseInfoObj="@dateRangeObj" objTitle="@objTitle"/>
+    
+    <MudTimeline TimelineAlign="_timelineAlign"> 
+        <MudTimelineItem Color="Color.Primary" Elevation="25" TimelineAlign="TimelineAlign.End">
+                <ItemOpposite>
+                    <MudText Color="Color.Primary" Typo="Typo.h6">Start Date</MudText>
+                </ItemOpposite>
+                <ItemContent>
+                    <MudPaper Elevation="0" Class="mt-n1">
+                        <MudText Color="Color.Primary" Typo="Typo.h6" GutterBottom="true">@dateRangeObj.startDate</MudText>
+                    </MudPaper>
+                </ItemContent>
+            </MudTimelineItem>
+            <MudTimelineItem Color="Color.Secondary" Elevation="25">
+                <ItemOpposite>
+                    <MudText Color="Color.Secondary" Typo="Typo.h6" GutterBottom="true">@dateRangeObj.endDate</MudText>
+                </ItemOpposite>
+                <ItemContent>
+                    <MudPaper Elevation="0" Class="mt-n1">
+                        <MudText Color="Color.Secondary" Typo="Typo.h6" Align="Align.End" GutterBottom="true">End Date</MudText>
+                    </MudPaper>
+                </ItemContent>
+            </MudTimelineItem>
+    </MudTimeline>
+    
+</MudPaper>
+
+
+@code {
+    
+    [Parameter]
+    public DateRangeObj? dateRangeObj { get; set; }
+
+    [Parameter]
+    public string objTitle { get; set; } = string.Empty;
+    
+    private TimelineAlign _timelineAlign { get; set; } = TimelineAlign.Start;
+    
+    private bool hasStart => !string.IsNullOrWhiteSpace(dateRangeObj?.startDate);
+    private bool hasEnd => !string.IsNullOrWhiteSpace(dateRangeObj?.endDate);
+    
+    
+}

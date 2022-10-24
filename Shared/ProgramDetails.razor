@@ -3,7 +3,7 @@
 
 @inject ProgramDataService programDataService
 
-<MudPaper Class="pa-4">
+<MudPaper Class="my-2 pa-4">
     
     <BaseInfoView baseInfoObj="@summerProgram" objTitle="Summer Program"/>
     
@@ -44,11 +44,18 @@
     }
     
     @if (summerProgram.orgIdList.Count > 0) {
-        foreach (var orgId in summerProgram.orgIdList) {
+        foreach (var orgId in summerProgram.orgIdList.
+            Where(orgId => programDataService.GetOrg(orgId).isValid)) {
             <OrgView org="@programDataService.GetOrg(orgId)"/>
         }
     }
     
+    @if (summerProgram.sessionIdList.Count > 0) {
+        foreach (var sessionId in summerProgram.sessionIdList.
+                Where(sessionId => programDataService.GetSession(sessionId).isValid)) {
+                <DateRangeView dateRangeObj="@programDataService.GetSession(sessionId)" objTitle="Session"/>
+            }
+        }
 
     @* <MudStack Row="true" Spacing="3"> *@
     @*     <MudIcon Icon="@Icons.Filled.Map"></MudIcon> *@

@@ -61,6 +61,15 @@ public class ProgramDataService {
             _orgs.TryAdd(item.id, item);
         }
         
+        var sessions =
+            await _http.GetFromJsonAsync<List<Session>>(
+                "summerProgram-data/SessionDbItems.json");
+        
+        foreach (var item in sessions) {
+            item.lookUps = _lookUps;
+            _sessions.TryAdd(item.id, item);
+        }
+        
     }
 
     private async Task LoadLookUpsAsync() {
@@ -93,6 +102,10 @@ public class ProgramDataService {
 
     public Org GetOrg(string id) {
         return _orgs.TryGetValue(id, out var org) ? org : new Org();
+    }
+
+    public Session GetSession(string id) {
+        return _sessions.TryGetValue(id, out var session) ? session : new Session();
     }
 
     public int GetSubjectId(string subject) {
