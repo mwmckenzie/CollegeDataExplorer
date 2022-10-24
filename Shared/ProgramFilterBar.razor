@@ -1,4 +1,5 @@
 ﻿@using CollegeDataExplorer.Services
+@using CollegeDataExplorer.Enums
 
 @inject DataStateService dataStateService
 
@@ -20,10 +21,26 @@
 </MudPaper>
 
 @if (str == "on") {
-    @if (stringValue == "Subject") {
-        <SubjectFilterSelection/>
+    @switch (stringValue) {
+        case "Subject":
+            <SubjectFilterSelection filterType="FilterType.Subject"/>
+            break;
+            case "Topic":
+                <SubjectFilterSelection filterType="FilterType.Topic"/>
+                break;
+                case "Tag":
+                    <SubjectFilterSelection filterType="FilterType.Tag"/>
+                    break;
+        default:
+            break;
     }
     
+    @* @if (stringValue == "Subject") { *@
+    @*     <SubjectFilterSelection filterType="FilterType.Subject"/> *@
+    @* } *@
+    @* @if (stringValue == "Topic") { *@
+    @*     <SubjectFilterSelection filterType="FilterType.Topic"/> *@
+    @* } *@
 }
 
 
@@ -46,6 +63,7 @@
     }
 
     private void OnFilterValueChange() {
+        dataStateService.selectedFilter = string.Empty;
         dataStateService.selectedFilterType = _filterValue;
     }
 

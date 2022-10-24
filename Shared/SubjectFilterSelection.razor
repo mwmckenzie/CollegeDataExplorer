@@ -1,4 +1,5 @@
 ﻿@using CollegeDataExplorer.Services
+@using CollegeDataExplorer.Enums
 
 @inject DataStateService dataStateService
 @inject ProgramDataService programDataService
@@ -6,19 +7,20 @@
 
 <MudPaper Style="padding: 15px">
     
+    @if (selected != null) {
+        <div class="d-flex flex-column align-center">
+            <MudText>
+                You selected <MudText Color="@selected.Color" Inline="true">@selected.Text</MudText>.
+            </MudText>
+        </div>
+    }
+    
     <MudChipSet @bind-SelectedChip="selected" Filter="true" Mandatory="@mandatory">
-        @foreach (var subject in _subjects) {
-            <MudChip Text="@subject" Color="Color.Primary"
-                     OnClick="@(e => dataStateService.selectedSubject = subject)">@subject</MudChip>
+        @foreach (var filter in _filters) {
+            <MudChip Text="@filter" Color="Color.Primary"
+                     OnClick="@(e => dataStateService.selectedFilter = filter)">@filter</MudChip>
         }
     </MudChipSet>
-    
-    <div class="d-flex flex-column align-center">
-        @if (selected != null) {
-            <MudText>You selected
-                <MudText Color="@selected.Color" Inline="true">@selected.Text</MudText>.</MudText>
-        }
-    </div>
     
     @* <MudStack Row="true" AlignItems="AlignItems.Center" Justify="Justify.SpaceBetween"> *@
     @*     <MudText Typo="Typo.h4" Class="mb-4">Filter By Subject (@_subjects.Count)</MudText> *@
@@ -48,20 +50,90 @@
     @* } *@
 </MudPaper>
 
+
 @code {
-    
     
     [Parameter]
     public string str { get; set; } = "on";
+
+    [Parameter] 
+    public FilterType filterType { get; set; }
     
-    private List<string> _subjects = new();
+    private List<string> _filters = new();
     
     private bool mandatory = true;
     private MudChip selected;
 
-    protected override Task OnInitializedAsync() {
-        _subjects = programDataService.subjects.ToList();
-        return base.OnInitializedAsync();
+    // private string? _filter;
+    //
+    // private string? filter {
+    //     get => _filter;
+    //     set {
+    //         if (_filter == value) {
+    //             return;
+    //         }
+    //         _filter = value;
+    //         OnFilterValueChanged();
+    //     }
+    // }
+    
+    protected override async Task OnInitializedAsync() {
+        await base.OnInitializedAsync();
+        await LoadFilterListAsync();
     }
+
+    private async Task LoadFilterListAsync() {
+        switch (filterType) {
+            case FilterType.Subject:
+                _filters = programDataService.subjects.ToList();
+                break;
+            case FilterType.Topic:
+                _filters = programDataService.topics.ToList();
+                break;
+            case FilterType.ProgramType:
+                _filters = programDataService.programTypes.ToList();
+                break;
+            case FilterType.Tag:
+                _filters = programDataService.tags.ToList();
+                break;
+            case FilterType.Org:
+                break;
+            case FilterType.State:
+                break;
+            case FilterType.Residence:
+                break;
+            case FilterType.Citizenship:
+                break;
+            default:
+                break;
+        }
+    }
+    
+    // private void OnFilterValueChanged() {
+    //     switch (filterType) {
+    //         case FilterType.Subject:
+    //             _filters = programDataService.subjects.ToList();
+    //             break;
+    //         case FilterType.Topic:
+    //             _filters = programDataService.topics.ToList();
+    //             break;
+    //         case FilterType.ProgramType:
+    //             _filters = programDataService.programTypes.ToList();
+    //             break;
+    //         case FilterType.Tag:
+    //             _filters = programDataService.tags.ToList();
+    //             break;
+    //         case FilterType.Org:
+    //             break;
+    //         case FilterType.State:
+    //             break;
+    //         case FilterType.Residence:
+    //             break;
+    //         case FilterType.Citizenship:
+    //             break;
+    //         default:
+    //             break;
+    //     }
+    // }
 
 }

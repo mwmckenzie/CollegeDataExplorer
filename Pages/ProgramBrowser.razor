@@ -27,7 +27,7 @@
                       Filter="new Func<SummerProgramObj, bool>(FilterFunc1)"
                       @bind-SelectedItem="selectedItem1">
                 <ToolBarContent>
-                    <MudText Typo="Typo.h6">@_selectedFilter</MudText>
+                    <MudText Typo="Typo.h6">@_selectedFilterType</MudText>
                     <MudSpacer/>
                     <MudTextField @bind-Value="searchString1" Placeholder="Search" Adornment="Adornment.Start"
                                   AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0">
@@ -66,18 +66,43 @@
 
 @code {
 
-    private string? _selectedSubject;
-    private string selectedSubject {
-        get => _selectedSubject ?? string.Empty;
+    // private string? _selectedSubject;
+    // private string selectedSubject {
+    //     get => _selectedSubject ?? string.Empty;
+    //     set {
+    //         if (_selectedSubject != null && value == _selectedSubject) {
+    //             return;
+    //         }
+    //         _selectedSubject = value;
+    //         OnSelectedSubjectChanged();
+    //     }
+    // }
+    //
+    // private string? _selectedTopic;
+    // private string selectedTopic {
+    //     get => _selectedTopic ?? string.Empty;
+    //     set {
+    //         if (_selectedTopic != null && value == _selectedTopic) {
+    //             return;
+    //         }
+    //         _selectedTopic = value;
+    //         OnSelectedTopicChanged();
+    //     }
+    // }
+
+    
+    private string? _selectedFilterType;
+    private string selectedFilterType {
+        get => _selectedFilterType ?? string.Empty;
         set {
-            if (_selectedSubject != null && value == _selectedSubject) {
+            if (_selectedFilterType != null && value == _selectedFilterType) {
                 return;
             }
-            _selectedSubject = value;
-            OnSelectedSubjectChanged();
+            _selectedFilterType = value;
+            OnSelectedFilterChanged();
         }
     }
-
+    
     private string? _selectedFilter;
     private string selectedFilter {
         get => _selectedFilter ?? string.Empty;
@@ -91,7 +116,6 @@
     }
     
     private List<SummerProgramObj> _programsToDisplay = new();
-    private string _programFullName = string.Empty;
     private int _programCount = 0;
     
     private bool dense;
@@ -101,7 +125,6 @@
     private string searchString1 = "";
     
     private SummerProgramObj _selectedProgram = new();
-    private SchoolDisplay _selectedDisplay = new();
 
     private SummerProgramObj selectedItem1 {
         get => _selectedProgram;
@@ -118,26 +141,49 @@
     }
     
     private void OnSelectedFilterChanged() {
-        switch (_selectedFilter) {
+        if (string.IsNullOrWhiteSpace(_selectedFilter)) {
+            LoadDefaultList();
+            return;
+        }
+        switch (_selectedFilterType) {
             case "Subject":
                 OnSelectedSubjectChanged();
                 break;
-
+            case "Topic":
+                OnSelectedTopicChanged();
+                break;
+            case "Tag":
+                OnSelectedTagChanged();
+                break;
             default:
-                _programsToDisplay = programDataService.programList;
-                StateHasChanged();
+                LoadDefaultList();
                 break;
         }
     }
-    
+
+    private void OnSelectedTagChanged() {
+        var tagId = programDataService.GetTagId(_selectedFilter);
+        _programsToDisplay =
+            programDataService.programList.Where(x => x.tagIdList.Contains(tagId)).ToList();
+        StateHasChanged();
+    }
+
     private void OnSelectedSubjectChanged() {
-        if (string.IsNullOrWhiteSpace(_selectedSubject) || _selectedFilter != "Subject") {
-            _programsToDisplay = programDataService.programList;
-            return;
-        }
-        var subjectId = programDataService.GetSubjectId(_selectedSubject);
+        var subjectId = programDataService.GetSubjectId(_selectedFilter);
         _programsToDisplay =
             programDataService.programList.Where(x => x.subjectIdList.Contains(subjectId)).ToList();
+        StateHasChanged();
+    }
+    
+    private void OnSelectedTopicChanged() {
+        var topicId = programDataService.GetTopicId(_selectedFilter);
+        _programsToDisplay =
+            programDataService.programList.Where(x => x.topicIdList.Contains(topicId)).ToList();
+        StateHasChanged();
+    }
+
+    private void LoadDefaultList() {
+        _programsToDisplay = programDataService.programList;
         StateHasChanged();
     }
 
@@ -151,8 +197,8 @@
     }
 
     private void OnDataStateChanged() {
-        selectedSubject = dataStateService.selectedSubject;
-        selectedFilter = dataStateService.selectedFilterType;
+        selectedFilterType = dataStateService.selectedFilterType;
+        selectedFilter = dataStateService.selectedFilter;
     }
     
     private bool FilterFunc1(SummerProgramObj program) {

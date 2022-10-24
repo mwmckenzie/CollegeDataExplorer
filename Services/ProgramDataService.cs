@@ -86,5 +86,13 @@ public class ProgramDataService {
     public int GetSubjectId(string subject) {
         return _lookUps.subjectList.IndexOf(subject);
     }
-    
+    public int GetTopicId(string topic) {
+        return _lookUps.topicList.IndexOf(topic);
+    }
+    public int GetProgramTypeId(string programType) {
+        return _lookUps.programTypeList.IndexOf(programType);
+    }
+    public int GetTagId(string tag) {
+        return _lookUps.tagList.IndexOf(tag);
+    }
 }

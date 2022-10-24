@@ -11,9 +11,7 @@ public class SummerProgramObj : BaseInfoObj {
     public List<string> applicationIdList { get; set; } = new();
     public List<string> studentInfoIdList { get; set; } = new();
     
-    public ProgramLookUps lookUps { get; set; }
-
-
+    
     public IEnumerable<string> Subjects() {
         foreach (var index in subjectIdList) {
             yield return lookUps.GetSubject(index);
@@ -25,7 +23,13 @@ public class SummerProgramObj : BaseInfoObj {
             yield return lookUps.GetTopic(index);
         }
     }
-
+    
+    public IEnumerable<string> ProgramTypes() {
+        foreach (var index in programTypeIdList) {
+            yield return lookUps.GetProgramType(index);
+        }
+    }
+    
     public override void Add(SumProgElements elementType, string value) {
         base.Add(elementType, value);
         switch (elementType) {

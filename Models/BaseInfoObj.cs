@@ -1,7 +1,11 @@
 ﻿
+using CollegeDataExplorer.Helpers;
+
 namespace CollegeDataExplorer.Models; 
 
 public abstract class BaseInfoObj : IEquatable<BaseInfoObj> {
+    
+    public ProgramLookUps lookUps { get; set; }
     
     public bool isValid { get; set; }
     public string? id { get; set; }
@@ -12,6 +16,12 @@ public abstract class BaseInfoObj : IEquatable<BaseInfoObj> {
     public List<string> aliasList { get; set; } = new();
     public List<string> urlList { get; set; } = new();
     public List<string> noteList { get; set; } = new();
+    
+    public IEnumerable<string> Tags() {
+        foreach (var index in tagIdList) {
+            yield return lookUps.GetTag(index);
+        }
+    }
     
     public virtual void Add(SumProgElements elementType, string value) {
         if (string.IsNullOrWhiteSpace(value))

@@ -10,6 +10,7 @@ public class DataStateService {
     private SchoolDisplay _selectedSchool;
 
     private string? _selectedFilterType;
+    private string? _selectedFilter;
 
     private string? _selectedSubject;
     private string? _selectedTopic;
@@ -41,6 +42,17 @@ public class DataStateService {
                 return;
             }
             _selectedFilterType = value;
+            NotifyDataStateChanged();
+        }
+    }
+    
+    public string selectedFilter {
+        get => _selectedFilter ?? string.Empty;
+        set {
+            if (_selectedFilter == value) {
+                return;
+            }
+            _selectedFilter = value;
             NotifyDataStateChanged();
         }
     }
