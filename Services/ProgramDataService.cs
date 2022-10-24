@@ -51,6 +51,7 @@ public class ProgramDataService {
             program.lookUps = _lookUps;
             _sumProgs.TryAdd(program.id, program);
         }
+        
     }
 
     private async Task LoadLookUpsAsync() {

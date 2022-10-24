@@ -1,0 +1,67 @@
+﻿@using CollegeDataExplorer.Services
+
+@inject DataStateService dataStateService
+@inject ProgramDataService programDataService
+
+
+<MudPaper Style="padding: 15px">
+    
+    <MudChipSet @bind-SelectedChip="selected" Filter="true" Mandatory="@mandatory">
+        @foreach (var subject in _subjects) {
+            <MudChip Text="@subject" Color="Color.Primary"
+                     OnClick="@(e => dataStateService.selectedSubject = subject)">@subject</MudChip>
+        }
+    </MudChipSet>
+    
+    <div class="d-flex flex-column align-center">
+        @if (selected != null) {
+            <MudText>You selected
+                <MudText Color="@selected.Color" Inline="true">@selected.Text</MudText>.</MudText>
+        }
+    </div>
+    
+    @* <MudStack Row="true" AlignItems="AlignItems.Center" Justify="Justify.SpaceBetween"> *@
+    @*     <MudText Typo="Typo.h4" Class="mb-4">Filter By Subject (@_subjects.Count)</MudText> *@
+    @*     <MudSwitch @bind-Checked="str" Color="Color.Tertiary">filter: "@(str)"</MudSwitch> *@
+    @* </MudStack> *@
+    @* *@
+    @* @if (str == "on") { *@
+    @*     <MudChipSet @bind-SelectedChip="selected" Filter="true" Mandatory="@mandatory"> *@
+    @*         @foreach (var subject in _subjects) { *@
+    @*             <MudChip Text="@subject" Color="Color.Primary" *@
+    @*                      OnClick="@(e => dataStateService.selectedSubject = subject)">@subject</MudChip> *@
+    @*         } *@
+    @*     </MudChipSet> *@
+    @* *@
+    @*     <div class="d-flex flex-column align-center"> *@
+    @*         @if (selected != null) { *@
+    @*             <MudText>You selected *@
+    @*                 <MudText Color="@selected.Color" Inline="true">@selected.Text</MudText>.</MudText> *@
+    @*         } *@
+    @*     </div> *@
+    @* } *@
+    @* @if (str == "on") { *@
+    @*     @foreach (var subject in _subjects) { *@
+    @*         <MudButton Variant="Variant.Filled" style="margin: 2px;" *@
+    @*                    @onclick="@(e => dataStateService.selectedSubject = subject)">@subject</MudButton> *@
+    @*     } *@
+    @* } *@
+</MudPaper>
+
+@code {
+    
+    
+    [Parameter]
+    public string str { get; set; } = "on";
+    
+    private List<string> _subjects = new();
+    
+    private bool mandatory = true;
+    private MudChip selected;
+
+    protected override Task OnInitializedAsync() {
+        _subjects = programDataService.subjects.ToList();
+        return base.OnInitializedAsync();
+    }
+
+}

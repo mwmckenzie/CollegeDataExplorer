@@ -7,12 +7,20 @@
 @inject SchoolDataService schoolDataService
 @inject NavigationManager navigationManager
 
+<PageTitle>School DB</PageTitle>
 
 <MudText Typo="Typo.h3" Class="mt-4 mb-4">College and University Database</MudText>
 
 <MudPaper Style="padding: 15px; margin-top: 10px; margin-bottom: 10px;">
-    <MudText Typo="Typo.body1">Number of Schools in Database: <b>@_schoolCount</b></MudText>
+    <MudStack Row="true" AlignItems="AlignItems.Center">
+        <MudText Typo="Typo.h5">Schools in Database:</MudText>
+        <MudChip Color="Color.Primary">@_schoolCount</MudChip>
+    </MudStack>
 </MudPaper>
+
+@* <MudPaper Style="padding: 15px; margin-top: 10px; margin-bottom: 10px;"> *@
+@*     <MudText Typo="Typo.body1">Number of Schools in Database: <b>@_schoolCount</b></MudText> *@
+@* </MudPaper> *@
 
 <MudPaper Style="padding: 15px">
     <MudText Typo="Typo.h4">Filter By State (@_states.Count(state => !string.IsNullOrWhiteSpace(state)))</MudText>

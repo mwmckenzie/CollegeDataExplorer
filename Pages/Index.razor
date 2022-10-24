@@ -7,20 +7,19 @@
 @inject SchoolDataService schoolDataService
 @inject ProgramDataService programDataService
 
-<PageTitle>Index</PageTitle>
+<PageTitle>Home</PageTitle>
 
 @if (_isLoading) {
-    <MudGrid>
-        <MudItem xs="12">
-            <MudPaper Class="d-flex align-center justify-center mud-width-full py-8">
-                <MudStack AlignItems="AlignItems.Center">
-                    <MudText Typo="Typo.h1" Align="Align.Center">Loading... @_loadProgress </MudText>
-                    <MudText Typo="Typo.h3" Align="Align.Center">Please Be Patient!</MudText>
-                    <MudProgressCircular Color="Color.Primary" Indeterminate="true"/>
-                </MudStack>
-            </MudPaper>
-        </MudItem>
-    </MudGrid>
+    <MudPaper Height="80vh" Class="d-flex flex-column flex-grow-1 align-content-space-between py-3">
+        <MudStack Class="d-flex flex-grow-1" AlignItems="AlignItems.Center" Justify="Justify.Center">
+            <MudText Typo="Typo.h1" Align="Align.Center">Loading...</MudText>
+            <MudText Typo="Typo.h1" Align="Align.Center">Building DBs</MudText>
+            <MudProgressCircular Color="Color.Primary" Indeterminate="true"/>
+        </MudStack>
+        <MudAlert Severity="Severity.Warning" Class="mt-auto mx-auto">
+            This should only take a moment or two
+        </MudAlert>
+    </MudPaper>
 }
 else {
     <MudPaper Height="80vh" Class="d-flex flex-column flex-grow-1 align-content-space-between py-3">

@@ -1,0 +1,53 @@
+﻿@using CollegeDataExplorer.Services
+
+@inject DataStateService dataStateService
+
+<MudPaper Style="padding: 15px; margin-bottom: 10px;">
+    
+    <MudStack>
+        <MudStack Row="true">
+            <MudText Typo="Typo.h5">Filter</MudText>
+            <MudSwitch @bind-Checked="str" Color="Color.Tertiary">filter: "@(str)"</MudSwitch>
+        </MudStack>
+        <MudSelect @bind-Value="stringValue" Label="Select Filter Type" Placeholder="Please Select"
+                   AdornmentIcon="@Icons.Material.Filled.FilterList" AdornmentColor="Color.Primary">
+            <MudSelectItem Value="@("Subject")">Subject</MudSelectItem>
+            <MudSelectItem Value="@("Topic")">Topic</MudSelectItem>
+            <MudSelectItem Value="@("Tag")">Tag</MudSelectItem>
+        </MudSelect>
+    </MudStack>
+    
+</MudPaper>
+
+@if (str == "on") {
+    @if (stringValue == "Subject") {
+        <SubjectFilterSelection/>
+    }
+    
+}
+
+
+@code {
+    
+    [Parameter]
+    public string str { get; set; } = "on";
+    
+    private string _filterValue { get; set; }
+
+    private string stringValue {
+        get => _filterValue;
+        set {
+            if (value == _filterValue) {
+                return;
+            }
+            _filterValue = value;
+            OnFilterValueChange();
+        }
+    }
+
+    private void OnFilterValueChange() {
+        dataStateService.selectedFilterType = _filterValue;
+    }
+
+
+}
