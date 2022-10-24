@@ -4,11 +4,11 @@
           Elevation="0">
     <MudNavMenu>
         <MudText Typo="Typo.h6" Class="px-4 mud-text-secondary">Pages</MudText>
-        <MudNavLink Href="/">Home</MudNavLink>
+        <MudNavLink Href="/" Match="NavLinkMatch.All">Home</MudNavLink>
         <MudDivider Class="my-2"/>
+        <MudNavLink Href="/programbrowser" Disabled="@isLoading">Summer Program DB</MudNavLink>
         <MudNavLink Href="/fetchschooldata" Disabled="@isLoading">School DB</MudNavLink>
         <MudNavLink Href="/schoolview" Disabled="@isLoading">School Details</MudNavLink>
-        <MudNavLink Href="/programbrowser" Disabled="@isLoading">Summer Program DB</MudNavLink>
         @* <MudNavGroup Title="Settings" Expanded="true"> *@
         @*     <MudNavLink Href="/users">Loading: @isLoading</MudNavLink> *@
         @*     <MudNavLink Href="/security">Security</MudNavLink> *@
