@@ -6,8 +6,11 @@
         <MudText Typo="Typo.h6" Class="px-4 mud-text-secondary">Pages</MudText>
         <MudNavLink Href="/" Match="NavLinkMatch.All">Home</MudNavLink>
         <MudDivider Class="my-2"/>
-        <MudNavLink Href="/programbrowser" Disabled="@isLoading">Summer Program DB</MudNavLink>
-        <MudNavLink Href="/fetchschooldata" Disabled="@isLoading">School DB</MudNavLink>
+        <MudText Typo="Typo.h6" Class="px-4 mud-text-secondary">Summer Programs</MudText>
+        <MudNavLink Href="/programbrowser" Disabled="@isLoading">Database</MudNavLink>
+        <MudNavLink Href="/summerprogramview" Disabled="@isLoading">Program Details</MudNavLink>
+        <MudText Typo="Typo.h6" Class="px-4 mud-text-secondary">Schools</MudText>
+        <MudNavLink Href="/schoolbrowser" Disabled="@isLoading">Database</MudNavLink>
         <MudNavLink Href="/schoolview" Disabled="@isLoading">School Details</MudNavLink>
         @* <MudNavGroup Title="Settings" Expanded="true"> *@
         @*     <MudNavLink Href="/users">Loading: @isLoading</MudNavLink> *@
@@ -52,7 +55,7 @@
             </NavLink>
         </div>
         <div class="nav-item px-3">
-                    <NavLink class="nav-link" href="fetchschooldata">
+                    <NavLink class="nav-link" href="schoolbrowser">
                         <span class="oi oi-list-rich" aria-hidden="true"></span> School data
                     </NavLink>
                 </div>

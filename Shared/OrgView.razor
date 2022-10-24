@@ -1,0 +1,23 @@
+﻿@using CollegeDataExplorer.Models
+
+
+<BaseInfoView baseInfoObj="@org" objTitle="Organization"/>
+
+@if (org.orgTypeId != null && !string.IsNullOrWhiteSpace(orgType) ) {
+        <MudPaper Class="pa-4 mb-4">
+            <MudText Typo="Typo.h4">Organization Type</MudText>
+            <MudStack Row="true" Spacing="3" AlignItems="AlignItems.Center">
+                <MudIcon Icon="@Icons.Filled.Label"></MudIcon>
+                <MudText Typo="Typo.h6">@orgType</MudText>
+            </MudStack>
+        </MudPaper>
+    }
+
+@code {
+    
+    [Parameter]
+    public Org org { get; set; } = new();
+
+    private string orgType => org.orgTypeId != null ? org.lookUps.GetOrgType((int) org.orgTypeId) : string.Empty;
+
+}

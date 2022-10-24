@@ -23,9 +23,9 @@ public class ProgramDataService {
     public List<SummerProgramObj> programList => _sumProgs.Values.OrderBy(x => x.name).ToList();
     
     public IEnumerable<string> subjects => _lookUps.Subjects().OrderBy(x => x).ToList();
-    public IEnumerable<string> topics => _lookUps.Topics();
-    public IEnumerable<string> tags => _lookUps.Tags();
-    public IEnumerable<string> programTypes => _lookUps.ProgramTypes();
+    public IEnumerable<string> topics => _lookUps.Topics().OrderBy(x => x).ToList();
+    public IEnumerable<string> tags => _lookUps.Tags().OrderBy(x => x).ToList();
+    public IEnumerable<string> programTypes => _lookUps.ProgramTypes().OrderBy(x => x).ToList();
 
     public async Task Init(HttpClient http) {
         _http = http;
@@ -50,6 +50,15 @@ public class ProgramDataService {
         foreach (var program in programs) {
             program.lookUps = _lookUps;
             _sumProgs.TryAdd(program.id, program);
+        }
+        
+        var items =
+            await _http.GetFromJsonAsync<List<Org>>(
+                "summerProgram-data/OrgDbItems.json");
+        
+        foreach (var item in items) {
+            item.lookUps = _lookUps;
+            _orgs.TryAdd(item.id, item);
         }
         
     }
@@ -82,6 +91,9 @@ public class ProgramDataService {
         }
     }
 
+    public Org GetOrg(string id) {
+        return _orgs.TryGetValue(id, out var org) ? org : new Org();
+    }
 
     public int GetSubjectId(string subject) {
         return _lookUps.subjectList.IndexOf(subject);

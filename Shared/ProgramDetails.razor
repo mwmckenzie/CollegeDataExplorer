@@ -1,43 +1,55 @@
 ﻿@using CollegeDataExplorer.Services
 @using CollegeDataExplorer.Models
 
+@inject ProgramDataService programDataService
+
 <MudPaper Class="pa-4">
-    <MudPaper Class="pa-4 mb-4">
-        <MudText Typo="Typo.h3">@summerProgram.name</MudText>
-        <MudStack Row="true" Justify="Justify.SpaceBetween">
-            <MudText Typo="Typo.body1">@summerProgram.displayName</MudText>
-            <MudStack Row="true" Spacing="3">
-                <MudIcon Icon="@Icons.Material.Filled.Link"></MudIcon>
-                <MudLink Href="@summerProgram.url" Target="_blank" Typo="Typo.body1">@summerProgram.url</MudLink>
-            </MudStack>
-        </MudStack>
-    </MudPaper>
     
+    <BaseInfoView baseInfoObj="@summerProgram" objTitle="Summer Program"/>
     
-    <MudPaper Class="pa-4 mb-4">
-        <MudText Typo="Typo.h5">Subjects</MudText>
-        @foreach (var subject in summerProgram.Subjects()) {
-            <MudStack Row="true" Spacing="3">
-                <MudIcon Icon="@Icons.Filled.LocationOn"></MudIcon>
-                <MudText class="mr-4" Typo="Typo.h6"></MudText>
-                <MudText Typo="Typo.h6">@subject</MudText>
-                @* <MudText class="ml-4" Typo="Typo.h6">@summerProgram.zip</MudText> *@
-            </MudStack>
+    @if (summerProgram.programTypeIdList.Count > 0) {
+            <MudPaper Class="pa-4 mb-4">
+                <MudText Typo="Typo.h4">Program Type</MudText>
+                @foreach (var text in summerProgram.ProgramTypes()) {
+                    <MudStack Row="true" Spacing="3" AlignItems="AlignItems.Center">
+                        <MudIcon Icon="@Icons.Filled.Label"></MudIcon>
+                        <MudText Typo="Typo.h6">@text</MudText>
+                    </MudStack>
+                }
+            </MudPaper>
         }
-    </MudPaper>
     
-    <MudPaper Class="pa-4 mb-4">
-        <MudText Typo="Typo.h5">Topics</MudText>
-        @foreach (var topic in summerProgram.Topics()) {
-            <MudStack Row="true" Spacing="3">
-                <MudIcon Icon="@Icons.Filled.LocationOn"></MudIcon>
-                <MudText class="mr-4" Typo="Typo.h6"></MudText>
-                <MudText Typo="Typo.h6">@topic</MudText>
-                @* <MudText class="ml-4" Typo="Typo.h6">@summerProgram.zip</MudText> *@
-            </MudStack>
+    @if (summerProgram.subjectIdList.Count > 0) {
+        <MudPaper Class="pa-4 mb-4">
+            <MudText Typo="Typo.h4">Subjects</MudText>
+            @foreach (var text in summerProgram.Subjects()) {
+                <MudStack Row="true" Spacing="3" AlignItems="AlignItems.Center">
+                    <MudIcon Icon="@Icons.Filled.Label"></MudIcon>
+                    <MudText Typo="Typo.h6">@text</MudText>
+                </MudStack>
+            }
+        </MudPaper>
+    }
+
+    @if (summerProgram.topicIdList.Count > 0) {
+        <MudPaper Class="pa-4 mb-4">
+            <MudText Typo="Typo.h4">Topics</MudText>
+            @foreach (var text in summerProgram.Topics()) {
+                <MudStack Row="true" Spacing="3" AlignItems="AlignItems.Center">
+                    <MudIcon Icon="@Icons.Filled.Label"></MudIcon>
+                    <MudText Typo="Typo.h6">@text</MudText>
+                </MudStack>
+            }
+        </MudPaper>
+    }
+    
+    @if (summerProgram.orgIdList.Count > 0) {
+        foreach (var orgId in summerProgram.orgIdList) {
+            <OrgView org="@programDataService.GetOrg(orgId)"/>
         }
-    </MudPaper>
+    }
     
+
     @* <MudStack Row="true" Spacing="3"> *@
     @*     <MudIcon Icon="@Icons.Filled.Map"></MudIcon> *@
     @*     <MudText Class="mr-4" Typo="Typo.h6">@summerProgram.regionId</MudText> *@
@@ -77,7 +89,7 @@
     @*         </MudStack> *@
     @*     } *@
     @* </MudPaper> *@
-    
+
 </MudPaper>
 
 

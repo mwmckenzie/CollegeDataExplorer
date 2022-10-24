@@ -6,6 +6,8 @@ public class DataStateService {
 
     public event Action? OnValueChange;
 
+    public const string DefaultFilterType = "Subject";
+
     private string? _selectedState;
     private SchoolDisplay _selectedSchool;
 

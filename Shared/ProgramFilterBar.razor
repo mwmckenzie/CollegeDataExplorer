@@ -1,10 +1,9 @@
 ﻿@using CollegeDataExplorer.Services
 @using CollegeDataExplorer.Enums
-
 @inject DataStateService dataStateService
 
 <MudPaper Style="padding: 15px; margin-bottom: 10px;">
-    
+
     <MudStack>
         <MudStack Row="true">
             <MudText Typo="Typo.h5">Filter</MudText>
@@ -17,54 +16,51 @@
             <MudSelectItem Value="@("Tag")">Tag</MudSelectItem>
         </MudSelect>
     </MudStack>
-    
+
 </MudPaper>
 
 @if (str == "on") {
     @switch (stringValue) {
         case "Subject":
-            <SubjectFilterSelection filterType="FilterType.Subject"/>
+            <FilterChipContainer filterType="FilterType.Subject"/>
             break;
-            case "Topic":
-                <SubjectFilterSelection filterType="FilterType.Topic"/>
-                break;
-                case "Tag":
-                    <SubjectFilterSelection filterType="FilterType.Tag"/>
-                    break;
-        default:
+        case "Topic":
+            <FilterChipContainer filterType="FilterType.Topic"/>
+            break;
+        case "Tag":
+            <FilterChipContainer filterType="FilterType.Tag"/>
             break;
     }
-    
-    @* @if (stringValue == "Subject") { *@
-    @*     <SubjectFilterSelection filterType="FilterType.Subject"/> *@
-    @* } *@
-    @* @if (stringValue == "Topic") { *@
-    @*     <SubjectFilterSelection filterType="FilterType.Topic"/> *@
-    @* } *@
 }
 
 
 @code {
-    
+
     [Parameter]
     public string str { get; set; } = "on";
-    
-    private string _filterValue { get; set; }
+
+    private string _filterTypeValue { get; set; }
 
     private string stringValue {
-        get => _filterValue;
+        get => _filterTypeValue;
         set {
-            if (value == _filterValue) {
+            if (value == _filterTypeValue) {
                 return;
             }
-            _filterValue = value;
+            _filterTypeValue = value;
             OnFilterValueChange();
         }
     }
 
+    protected override Task OnInitializedAsync() {
+        _filterTypeValue = DataStateService.DefaultFilterType;
+        OnFilterValueChange();
+        return base.OnInitializedAsync();
+    }
+
     private void OnFilterValueChange() {
         dataStateService.selectedFilter = string.Empty;
-        dataStateService.selectedFilterType = _filterValue;
+        dataStateService.selectedFilterType = _filterTypeValue;
     }
 
 

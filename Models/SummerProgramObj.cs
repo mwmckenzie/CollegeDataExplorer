@@ -29,7 +29,7 @@ public class SummerProgramObj : BaseInfoObj {
             yield return lookUps.GetProgramType(index);
         }
     }
-    
+
     public override void Add(SumProgElements elementType, string value) {
         base.Add(elementType, value);
         switch (elementType) {
