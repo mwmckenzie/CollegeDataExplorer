@@ -120,4 +120,13 @@ public class ProgramDataService {
     public int GetTagId(string tag) {
         return _lookUps.tagList.IndexOf(tag);
     }
+
+    public List<Session> GetSessions(SummerProgramObj summerProgramObj) {
+        var list = new List<Session>();
+        if (summerProgramObj.sessionIdList.Count < 1) {
+            return list;
+        }
+        list.AddRange(summerProgramObj.sessionIdList.Select(GetSession));
+        return list;
+    }
 }

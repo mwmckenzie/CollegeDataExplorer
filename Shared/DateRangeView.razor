@@ -1,57 +1,129 @@
 ﻿@using CollegeDataExplorer.Models
+@using CollegeDataExplorer.Services
 
-<MudPaper Class="my-2 pa-4">
-    
-    <BaseInfoView baseInfoObj="@dateRangeObj" objTitle="@objTitle"/>
-    
-    <MudTimeline TimelineAlign="_timelineAlign"> 
-        <MudTimelineItem Color="Color.Primary" Elevation="25" TimelineAlign="TimelineAlign.End">
-                <ItemOpposite>
-                    <MudText Color="Color.Primary" Typo="Typo.h6">Start Date</MudText>
-                </ItemOpposite>
-                <ItemContent>
-                    <MudPaper Elevation="0" Class="mt-n1">
-                        <MudText Color="Color.Primary" Typo="Typo.h6" GutterBottom="true">@dateRangeObj.startDate</MudText>
-                    </MudPaper>
-                </ItemContent>
-            </MudTimelineItem>
-            <MudTimelineItem Color="Color.Secondary" Elevation="25">
-                <ItemOpposite>
-                    <MudText Color="Color.Secondary" Typo="Typo.h6" GutterBottom="true">@dateRangeObj.endDate</MudText>
-                </ItemOpposite>
-                <ItemContent>
-                    <MudPaper Elevation="0" Class="mt-n1">
-                        <MudText Color="Color.Secondary" Typo="Typo.h6" Align="Align.End" GutterBottom="true">End Date</MudText>
-                    </MudPaper>
-                </ItemContent>
-            </MudTimelineItem>
-            <MudTimelineItem Color="Color.Tertiary" Elevation="25">
-                            <ItemOpposite>
-                                <MudText Color="Color.Tertiary" Typo="Typo.h6" GutterBottom="true">Today</MudText>
-                            </ItemOpposite>
-                            <ItemContent>
-                                <MudPaper Elevation="0" Class="mt-n1">
-                                    <MudText Color="Color.Tertiary" Typo="Typo.h6" Align="Align.Start" GutterBottom="true">@DateTime.Now.ToShortDateString() </MudText>
-                                </MudPaper>
-                            </ItemContent>
-                        </MudTimelineItem>
-    </MudTimeline>
-    
-</MudPaper>
+@inject ProgramDataService programDataService
+
+
+@if (isValid) {
+    <MudPaper Class="my-2 pa-4">
+        <MudStack Row="true" Justify="Justify.SpaceBetween" AlignItems="AlignItems.End" Class="mb-2">
+            <MudStack>
+                <MudText Typo="Typo.body1" Color="Color.Tertiary">@objTitle</MudText>
+                <MudText Typo="Typo.h3">Timeline</MudText>
+            </MudStack>
+            <MudSwitch @bind-Checked="toggleText" Color="Color.Tertiary">Show Past Events: "@(toggleText)"</MudSwitch>
+        </MudStack>
+        
+        <MudTimeline TimelineAlign="timelineAlign">
+            @foreach (var lineObj in sortedTimeLineObjs) {
+                <MudTimelineItem Color="@lineObj.color" Elevation="25" TimelineAlign="TimelineAlign.End">
+                    <ItemOpposite>
+                        <MudText Color="@lineObj.color" Typo="Typo.h6" GutterBottom="true">@lineObj.title</MudText>
+                        <MudText>@lineObj.text</MudText>
+                    </ItemOpposite>
+                    <ItemContent>
+                        <MudText Color="@lineObj.color" Typo="Typo.h6">@lineObj.date</MudText>
+                    </ItemContent>
+                </MudTimelineItem>
+            }
+        </MudTimeline>
+    </MudPaper>
+}
 
 
 @code {
     
+    [Parameter]
+    public List<DateRangeObj>? dateRangeObjList { get; set; }
+
     [Parameter]
     public DateRangeObj? dateRangeObj { get; set; }
 
     [Parameter]
     public string objTitle { get; set; } = string.Empty;
     
-    private TimelineAlign _timelineAlign { get; set; } = TimelineAlign.Start;
+    [Parameter]
+    public string toggleText { get; set; } = "on";
     
-    private bool hasStart => !string.IsNullOrWhiteSpace(dateRangeObj?.startDate);
-    private bool hasEnd => !string.IsNullOrWhiteSpace(dateRangeObj?.endDate);
+    private List<TimeLineObj> _timeLineObjs = new();
+
+    private TimelineAlign timelineAlign { get; set; } = TimelineAlign.Start;
+
+    private bool isValid => _timeLineObjs.Count > 0;
+    private string timeNow => DateTime.Now.ToString("yyyy-MM-dd");
+
+    private List<TimeLineObj> sortedTimeLineObjs => 
+        toggleText == "on" 
+            ? _timeLineObjs 
+            : _timeLineObjs.Where(x => x.dateSortable.CompareTo(timeNow) >= 0 ).ToList();
     
-    
+
+    protected override Task OnInitializedAsync() {
+        if (dateRangeObjList is null || dateRangeObjList.Count < 1) {
+            return base.OnInitializedAsync();
+        }
+        
+        var timeLineObjNow = new TimeLineObj() {
+            dateTextRaw = DateTime.Now.ToString("D"),
+            text = "Current Date",
+            title = "Today",
+            color = Color.Info
+        };
+        _timeLineObjs.Add(timeLineObjNow);
+
+        foreach (var obj in dateRangeObjList) {
+            if (obj is null) {
+                continue;
+            }
+            var timeLineObjStart = new TimeLineObj() {
+                dateTextRaw = obj.startDate ?? string.Empty,
+                text = "Start Date",
+                title = obj.name ?? string.Empty,
+                color = Color.Tertiary
+            };
+            if (timeLineObjStart.hasDate) {
+                _timeLineObjs.Add(timeLineObjStart);
+            }
+            var timeLineObjEnd = new TimeLineObj() {
+                dateTextRaw = obj.endDate ?? string.Empty,
+                text = "End Date",
+                title = obj.name ?? string.Empty,
+                color = Color.Secondary
+            };
+            if (timeLineObjEnd.hasDate) {
+                _timeLineObjs.Add(timeLineObjEnd);
+            }
+        }
+        _timeLineObjs = _timeLineObjs.OrderBy(x => x.dateSortable).ToList();
+        
+        return base.OnInitializedAsync();
+    }
+
+    private class TimeLineObj {
+        
+        public string dateTextRaw { get; set; }
+        public string title { get; set; }
+        public string text { get; set; }
+
+        public Color color { get; set; } = Color.Primary;
+        
+        public bool hasDate => !string.IsNullOrWhiteSpace(date);
+
+        public string date => FormatDateString(dateTextRaw,"D");
+        
+        public string dateSortable => FormatDateString(date,"yyyy-MM-dd");
+        public string year => FormatDateString(date, "yyyy");
+
+        public string FormatDateString(string textIn, string format) {
+            return !string.IsNullOrWhiteSpace(textIn) 
+                ? DateOnly.TryParse(textIn, out var dateOut) 
+                    ? dateOut.ToString(format) 
+                    : textIn 
+                : string.Empty;
+
+        }
+        
+    }
+
+
 }

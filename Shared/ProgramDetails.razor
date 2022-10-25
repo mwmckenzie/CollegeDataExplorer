@@ -1,5 +1,6 @@
 ﻿@using CollegeDataExplorer.Services
 @using CollegeDataExplorer.Models
+@using System.Collections
 
 @inject ProgramDataService programDataService
 
@@ -10,7 +11,7 @@
     @if (summerProgram.programTypeIdList.Count > 0) {
             <MudPaper Class="pa-4 mb-4">
                 <MudText Typo="Typo.h4">Program Type</MudText>
-                <MudDivider/>
+                <MudDivider Class="my-2"/>
                 @foreach (var text in summerProgram.ProgramTypes()) {
                     <MudStack Row="true" Spacing="3" AlignItems="AlignItems.Center">
                         <MudIcon Icon="@Icons.Filled.Label"></MudIcon>
@@ -23,6 +24,7 @@
     @if (summerProgram.subjectIdList.Count > 0) {
         <MudPaper Class="pa-4 mb-4">
             <MudText Typo="Typo.h4">Subjects</MudText>
+            <MudDivider Class="my-2"/>
             @foreach (var text in summerProgram.Subjects()) {
                 <MudStack Row="true" Spacing="3" AlignItems="AlignItems.Center">
                     <MudIcon Icon="@Icons.Filled.Label"></MudIcon>
@@ -35,6 +37,7 @@
     @if (summerProgram.topicIdList.Count > 0) {
         <MudPaper Class="pa-4 mb-4">
             <MudText Typo="Typo.h4">Topics</MudText>
+            <MudDivider Class="my-2"/>
             @foreach (var text in summerProgram.Topics()) {
                 <MudStack Row="true" Spacing="3" AlignItems="AlignItems.Center">
                     <MudIcon Icon="@Icons.Filled.Label"></MudIcon>
@@ -52,10 +55,14 @@
     }
     
     @if (summerProgram.sessionIdList.Count > 0) {
-        foreach (var sessionId in summerProgram.sessionIdList.
-                Where(sessionId => programDataService.GetSession(sessionId).isValid)) {
-                <DateRangeView dateRangeObj="@programDataService.GetSession(sessionId)" objTitle="Session"/>
-            }
+        <DateRangeView objTitle="Sessions" 
+            dateRangeObjList="@GetEnumerable(programDataService.GetSessions(summerProgram)).ToList()"/>
+        
+        @* foreach (var sessionId in summerProgram.sessionIdList. *@
+        @*         Where(sessionId => programDataService.GetSession(sessionId).isValid)) { *@
+        @*         <DateRangeView dateRangeObj="@programDataService.GetSession(sessionId)" objTitle="Session"/> *@
+        @*     } *@
+        
         }
 
     @* <MudStack Row="true" Spacing="3"> *@
@@ -105,5 +112,15 @@
 
     [Parameter]
     public SummerProgramObj summerProgram { get; set; } = new();
+
+    private IEnumerable<DateRangeObj> GetEnumerable(Object obj) {
+        if (obj is not IList list) {
+            return new List<DateRangeObj>();
+        }
+        if (list.Count < 1 || list[0] is not DateRangeObj) {
+            return new List<DateRangeObj>();
+        }
+        return list.Cast<DateRangeObj>();
+    }
 
 }
